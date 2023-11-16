@@ -14,7 +14,7 @@ const players = await client.onlinePlayers();
 
 for(const player of players)
 {
-    await client.serverMessage(player, `Hello, ${player}`);
+    await client.serverMessage(`Hello, ${player}`);
 }
 
 await client.disconnect();
