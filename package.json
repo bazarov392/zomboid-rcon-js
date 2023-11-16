@@ -1,11 +1,14 @@
 {
   "name": "zomboid-rcon-js",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "description": "Zomboid Rcon Client",
   "type": "module",
   "main": "dist/ZomboidRconClient.js",
   "scripts": {
     "build": "tsc"
+  },
+  "repository": {
+    "url": "https://github.com/bazarov392/zomboid-rcon-js"
   },
   "author": "me",
   "license": "ISC",
