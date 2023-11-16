@@ -1,6 +1,12 @@
 # Сlass with RCON commands Project Zomboid
 
+## Install
+```bash
+npm i --save zomboid-rcon-js
+```
+
 ## Example Use:
+
 ```ts
 import ZomboidRconClient from 'zomboid-rcon-js';
 
