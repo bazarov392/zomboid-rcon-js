@@ -1,0 +1,8177 @@
+[
+  {
+    "name": "Axe",
+    "category": "weapons",
+    "moduleName": "Base.Axe"
+  },
+  {
+    "name": "Hand Axe",
+    "category": "weapons",
+    "moduleName": "Base.HandAxe"
+  },
+  {
+    "name": "Pick Axe",
+    "category": "weapons",
+    "moduleName": "Base.PickAxe"
+  },
+  {
+    "name": "Raw Axe",
+    "category": "weapons",
+    "moduleName": "Base.AxeStone"
+  },
+  {
+    "name": "Wood Axe",
+    "category": "weapons",
+    "moduleName": "Base.WoodAxe"
+  },
+  {
+    "name": "Acoustic Guitar",
+    "category": "weapons",
+    "moduleName": "Base.GuitarAcoustic"
+  },
+  {
+    "name": "Badminton Racket",
+    "category": "weapons",
+    "moduleName": "Base.BadmintonRacket"
+  },
+  {
+    "name": "Barbell",
+    "category": "weapons",
+    "moduleName": "Base.BarBell"
+  },
+  {
+    "name": "Baseball Bat",
+    "category": "weapons",
+    "moduleName": "Base.BaseballBat"
+  },
+  {
+    "name": "Broom",
+    "category": "weapons",
+    "moduleName": "Base.Broom"
+  },
+  {
+    "name": "Canoe Paddle",
+    "category": "weapons",
+    "moduleName": "Base.CanoePadel"
+  },
+  {
+    "name": "Canoe Paddle - Double-bladed",
+    "category": "weapons",
+    "moduleName": "Base.CanoePadelX2"
+  },
+  {
+    "name": "Chainsaw",
+    "category": "weapons",
+    "moduleName": "Base.Chainsaw"
+  },
+  {
+    "name": "Crowbar",
+    "category": "weapons",
+    "moduleName": "Base.Crowbar"
+  },
+  {
+    "name": "Black Electric Bass",
+    "category": "weapons",
+    "moduleName": "Base.GuitarElectricBassBlack"
+  },
+  {
+    "name": "Blue Electric Bass",
+    "category": "weapons",
+    "moduleName": "Base.GuitarElectricBassBlue"
+  },
+  {
+    "name": "Red Electric Bass",
+    "category": "weapons",
+    "moduleName": "Base.GuitarElectricBassRed"
+  },
+  {
+    "name": "Black Electric Guitar",
+    "category": "weapons",
+    "moduleName": "Base.GuitarElectricBlack"
+  },
+  {
+    "name": "Blue Electric Guitar",
+    "category": "weapons",
+    "moduleName": "Base.GuitarElectricBlue"
+  },
+  {
+    "name": "Red Electric Guitar",
+    "category": "weapons",
+    "moduleName": "Base.GuitarElectricRed"
+  },
+  {
+    "name": "Fishing Rod (crafted)",
+    "category": "weapons",
+    "moduleName": "Base.CraftedFishingRod"
+  },
+  {
+    "name": "Fishing Rod",
+    "category": "weapons",
+    "moduleName": "Base.FishingRod"
+  },
+  {
+    "name": "Fishing Rod without Line",
+    "category": "weapons",
+    "moduleName": "Base.FishingRodBreak"
+  },
+  {
+    "name": "Garden Hoe",
+    "category": "weapons",
+    "moduleName": "Base.GardenHoe"
+  },
+  {
+    "name": "Golf Club",
+    "category": "weapons",
+    "moduleName": "Base.Golfclub"
+  },
+  {
+    "name": "Hockey Stick",
+    "category": "weapons",
+    "moduleName": "Base.HockeyStick"
+  },
+  {
+    "name": "Ice Hockey Stick",
+    "category": "weapons",
+    "moduleName": "Base.IceHockeyStick"
+  },
+  {
+    "name": "Keytar",
+    "category": "weapons",
+    "moduleName": "Base.Keytar"
+  },
+  {
+    "name": "Lacrosse Stick",
+    "category": "weapons",
+    "moduleName": "Base.LaCrosseStick"
+  },
+  {
+    "name": "Leaf Rake",
+    "category": "weapons",
+    "moduleName": "Base.LeafRake"
+  },
+  {
+    "name": "Plank",
+    "category": "weapons",
+    "moduleName": "Base.Plank"
+  },
+  {
+    "name": "Poolcue",
+    "category": "weapons",
+    "moduleName": "Base.Poolcue"
+  },
+  {
+    "name": "Rake",
+    "category": "weapons",
+    "moduleName": "Base.Rake"
+  },
+  {
+    "name": "Saxophone",
+    "category": "weapons",
+    "moduleName": "Base.Saxophone"
+  },
+  {
+    "name": "Shovel",
+    "category": "weapons",
+    "moduleName": "Base.Shovel"
+  },
+  {
+    "name": "Shovel",
+    "category": "weapons",
+    "moduleName": "Base.Shovel2"
+  },
+  {
+    "name": "Sledgehammer",
+    "category": "weapons",
+    "moduleName": "Base.Sledgehammer"
+  },
+  {
+    "name": "Sledgehammer",
+    "category": "weapons",
+    "moduleName": "Base.Sledgehammer2"
+  },
+  {
+    "name": "Snow Shovel",
+    "category": "weapons",
+    "moduleName": "Base.SnowShovel"
+  },
+  {
+    "name": "Spiked Baseball Bat",
+    "category": "weapons",
+    "moduleName": "Base.BaseballBatNails"
+  },
+  {
+    "name": "Spiked Plank",
+    "category": "weapons",
+    "moduleName": "Base.PlankNail"
+  },
+  {
+    "name": "Tennis Racket",
+    "category": "weapons",
+    "moduleName": "Base.TennisRacket"
+  },
+  {
+    "name": "Trumpet",
+    "category": "weapons",
+    "moduleName": "Base.Trumpet"
+  },
+  {
+    "name": "Ball-peen Hammer",
+    "category": "weapons",
+    "moduleName": "Base.BallPeenHammer"
+  },
+  {
+    "name": "Banjo",
+    "category": "weapons",
+    "moduleName": "Base.Banjo"
+  },
+  {
+    "name": "Chair Leg",
+    "category": "weapons",
+    "moduleName": "Base.ChairLeg"
+  },
+  {
+    "name": "Club Hammer",
+    "category": "weapons",
+    "moduleName": "Base.ClubHammer"
+  },
+  {
+    "name": "Drumstick",
+    "category": "weapons",
+    "moduleName": "Base.Drumstick"
+  },
+  {
+    "name": "Dumbbell",
+    "category": "weapons",
+    "moduleName": "Base.DumbBell"
+  },
+  {
+    "name": "Flute",
+    "category": "weapons",
+    "moduleName": "Base.Flute"
+  },
+  {
+    "name": "Frying Pan",
+    "category": "weapons",
+    "moduleName": "Base.Pan"
+  },
+  {
+    "name": "Griddle Pan",
+    "category": "weapons",
+    "moduleName": "Base.GridlePan"
+  },
+  {
+    "name": "Hammer",
+    "category": "weapons",
+    "moduleName": "Base.Hammer"
+  },
+  {
+    "name": "Lead Pipe",
+    "category": "weapons",
+    "moduleName": "Base.LeadPipe"
+  },
+  {
+    "name": "Metal Bar",
+    "category": "weapons",
+    "moduleName": "Base.MetalBar"
+  },
+  {
+    "name": "Metal Pipe",
+    "category": "weapons",
+    "moduleName": "Base.MetalPipe"
+  },
+  {
+    "name": "Nightstick",
+    "category": "weapons",
+    "moduleName": "Base.Nightstick"
+  },
+  {
+    "name": "Pick Axe Handle",
+    "category": "weapons",
+    "moduleName": "Base.PickAxeHandle"
+  },
+  {
+    "name": "Pipe Wrench",
+    "category": "weapons",
+    "moduleName": "Base.PipeWrench"
+  },
+  {
+    "name": "Plunger",
+    "category": "weapons",
+    "moduleName": "Base.Plunger"
+  },
+  {
+    "name": "Rolling Pin",
+    "category": "weapons",
+    "moduleName": "Base.RollingPin"
+  },
+  {
+    "name": "Saucepan",
+    "category": "weapons",
+    "moduleName": "Base.Saucepan"
+  },
+  {
+    "name": "Spiked Pick Axe Handle",
+    "category": "weapons",
+    "moduleName": "Base.PickAxeHandleSpiked"
+  },
+  {
+    "name": "Stone Hammer",
+    "category": "weapons",
+    "moduleName": "Base.HammerStone"
+  },
+  {
+    "name": "Table Leg",
+    "category": "weapons",
+    "moduleName": "Base.TableLeg"
+  },
+  {
+    "name": "Violin",
+    "category": "weapons",
+    "moduleName": "Base.Violin"
+  },
+  {
+    "name": "Wooden Mallet",
+    "category": "weapons",
+    "moduleName": "Base.WoodenMallet"
+  },
+  {
+    "name": "Wrench",
+    "category": "weapons",
+    "moduleName": "Base.Wrench"
+  },
+  {
+    "name": "Katana",
+    "category": "weapons",
+    "moduleName": "Base.Katana"
+  },
+  {
+    "name": "Machete",
+    "category": "weapons",
+    "moduleName": "Base.Machete"
+  },
+  {
+    "name": "Bread Knife",
+    "category": "weapons",
+    "moduleName": "Base.BreadKnife"
+  },
+  {
+    "name": "Butter Knife",
+    "category": "weapons",
+    "moduleName": "Base.ButterKnife"
+  },
+  {
+    "name": "Fork",
+    "category": "weapons",
+    "moduleName": "Base.Fork"
+  },
+  {
+    "name": "Hand Fork",
+    "category": "weapons",
+    "moduleName": "Base.HandFork"
+  },
+  {
+    "name": "Trowel",
+    "category": "weapons",
+    "moduleName": "Base.HandShovel"
+  },
+  {
+    "name": "Hand Scythe",
+    "category": "weapons",
+    "moduleName": "Base.HandScythe"
+  },
+  {
+    "name": "Hunting Knife",
+    "category": "weapons",
+    "moduleName": "Base.HuntingKnife"
+  },
+  {
+    "name": "Ice Pick",
+    "category": "weapons",
+    "moduleName": "Base.IcePick"
+  },
+  {
+    "name": "Kitchen Knife",
+    "category": "weapons",
+    "moduleName": "Base.KitchenKnife"
+  },
+  {
+    "name": "Letter Opener",
+    "category": "weapons",
+    "moduleName": "Base.LetterOpener"
+  },
+  {
+    "name": "Meat Cleaver",
+    "category": "weapons",
+    "moduleName": "Base.MeatCleaver"
+  },
+  {
+    "name": "Scalpel",
+    "category": "weapons",
+    "moduleName": "Base.Scalpel"
+  },
+  {
+    "name": "Scissors",
+    "category": "weapons",
+    "moduleName": "Base.Scissors"
+  },
+  {
+    "name": "Screwdriver",
+    "category": "weapons",
+    "moduleName": "Base.Screwdriver"
+  },
+  {
+    "name": "Smashed Bottle",
+    "category": "weapons",
+    "moduleName": "Base.SmashedBottle"
+  },
+  {
+    "name": "Spoon",
+    "category": "weapons",
+    "moduleName": "Base.Spoon"
+  },
+  {
+    "name": "Stake",
+    "category": "weapons",
+    "moduleName": "Base.Stake"
+  },
+  {
+    "name": "Stone Knife",
+    "category": "weapons",
+    "moduleName": "Base.FlintKnife"
+  },
+  {
+    "name": "Closed Umbrella",
+    "category": "weapons",
+    "moduleName": "Base.ClosedUmbrellaBlue"
+  },
+  {
+    "name": "Closed Umbrella",
+    "category": "weapons",
+    "moduleName": "Base.ClosedUmbrellaRed"
+  },
+  {
+    "name": "Closed Umbrella",
+    "category": "weapons",
+    "moduleName": "Base.ClosedUmbrellaBlack"
+  },
+  {
+    "name": "Closed Umbrella",
+    "category": "weapons",
+    "moduleName": "Base.ClosedUmbrellaWhite"
+  },
+  {
+    "name": "Garden Fork",
+    "category": "weapons",
+    "moduleName": "Base.GardenFork"
+  },
+  {
+    "name": "Crafted Spear",
+    "category": "weapons",
+    "moduleName": "Base.SpearCrafted"
+  },
+  {
+    "name": "Spear with Bread Knife",
+    "category": "weapons",
+    "moduleName": "Base.SpearBreadKnife"
+  },
+  {
+    "name": "Spear with Butter Knife",
+    "category": "weapons",
+    "moduleName": "Base.SpearButterKnife"
+  },
+  {
+    "name": "Spear with Fork",
+    "category": "weapons",
+    "moduleName": "Base.SpearFork"
+  },
+  {
+    "name": "Spear with Letter Opener",
+    "category": "weapons",
+    "moduleName": "Base.SpearLetterOpener"
+  },
+  {
+    "name": "Spear with Scalpel",
+    "category": "weapons",
+    "moduleName": "Base.SpearScalpel"
+  },
+  {
+    "name": "Spear with Spoon",
+    "category": "weapons",
+    "moduleName": "Base.SpearSpoon"
+  },
+  {
+    "name": "Spear with Scissors",
+    "category": "weapons",
+    "moduleName": "Base.SpearScissors"
+  },
+  {
+    "name": "Spear with Hand Fork",
+    "category": "weapons",
+    "moduleName": "Base.SpearHandFork"
+  },
+  {
+    "name": "Spear with Screwdriver",
+    "category": "weapons",
+    "moduleName": "Base.SpearScrewdriver"
+  },
+  {
+    "name": "Spear with Hunting Knife",
+    "category": "weapons",
+    "moduleName": "Base.SpearHuntingKnife"
+  },
+  {
+    "name": "Spear with Machete",
+    "category": "weapons",
+    "moduleName": "Base.SpearMachete"
+  },
+  {
+    "name": "Spear with Ice Pick",
+    "category": "weapons",
+    "moduleName": "Base.SpearIcePick"
+  },
+  {
+    "name": "Spear with Knife",
+    "category": "weapons",
+    "moduleName": "Base.SpearKnife"
+  },
+  {
+    "name": "Pen",
+    "category": "weapons",
+    "moduleName": "Base.Pen"
+  },
+  {
+    "name": "Red Pen",
+    "category": "weapons",
+    "moduleName": "Base.RedPen"
+  },
+  {
+    "name": "Blue Pen",
+    "category": "weapons",
+    "moduleName": "Base.BluePen"
+  },
+  {
+    "name": "Pencil",
+    "category": "weapons",
+    "moduleName": "Base.Pencil"
+  },
+  {
+    "name": "D-E Pistol",
+    "category": "weapons",
+    "moduleName": "Base.Pistol3"
+  },
+  {
+    "name": "M1911 Pistol",
+    "category": "weapons",
+    "moduleName": "Base.Pistol2"
+  },
+  {
+    "name": "M36 Revolver",
+    "category": "weapons",
+    "moduleName": "Base.Revolver_Short"
+  },
+  {
+    "name": "M625 Revolver",
+    "category": "weapons",
+    "moduleName": "Base.Revolver"
+  },
+  {
+    "name": "M9 Pistol",
+    "category": "weapons",
+    "moduleName": "Base.Pistol"
+  },
+  {
+    "name": "Magnum",
+    "category": "weapons",
+    "moduleName": "Base.Revolver_Long"
+  },
+  {
+    "name": "Double Barrel Shotgun",
+    "category": "weapons",
+    "moduleName": "Base.DoubleBarrelShotgun"
+  },
+  {
+    "name": "Double Barrel Shotgun",
+    "category": "weapons",
+    "moduleName": "Base.DoubleBarrelShotgunSawnoff"
+  },
+  {
+    "name": "JS-2000 Shotgun",
+    "category": "weapons",
+    "moduleName": "Base.Shotgun"
+  },
+  {
+    "name": "Sawed-off JS-2000 Shotgun",
+    "category": "weapons",
+    "moduleName": "Base.ShotgunSawnoff"
+  },
+  {
+    "name": "M14 Rifle",
+    "category": "weapons",
+    "moduleName": "Base.AssaultRifle2"
+  },
+  {
+    "name": "M16 Assault Rifle",
+    "category": "weapons",
+    "moduleName": "Base.AssaultRifle"
+  },
+  {
+    "name": "MSR700 Rifle",
+    "category": "weapons",
+    "moduleName": "Base.VarmintRifle"
+  },
+  {
+    "name": "MSR788 Rifle",
+    "category": "weapons",
+    "moduleName": "Base.HuntingRifle"
+  },
+  {
+    "name": "Molotov Cocktail",
+    "category": "weapons",
+    "moduleName": "Base.Molotov"
+  },
+  {
+    "name": "Aerosol Bomb",
+    "category": "weapons",
+    "moduleName": "Base.Aerosolbomb"
+  },
+  {
+    "name": "Aerosol Bomb with Timer",
+    "category": "weapons",
+    "moduleName": "Base.AerosolbombTriggered"
+  },
+  {
+    "name": "Aerosol Bomb with Sensor",
+    "category": "weapons",
+    "moduleName": "Base.AerosolbombSensorV1"
+  },
+  {
+    "name": "Aerosol Bomb with Sensor",
+    "category": "weapons",
+    "moduleName": "Base.AerosolbombSensorV2"
+  },
+  {
+    "name": "Aerosol Bomb with Sensor",
+    "category": "weapons",
+    "moduleName": "Base.AerosolbombSensorV3"
+  },
+  {
+    "name": "Remote Aerosol Bomb",
+    "category": "weapons",
+    "moduleName": "Base.AerosolbombRemote"
+  },
+  {
+    "name": "Fire Bomb",
+    "category": "weapons",
+    "moduleName": "Base.FlameTrap"
+  },
+  {
+    "name": "Fire Bomb with Timer",
+    "category": "weapons",
+    "moduleName": "Base.FlameTrapTriggered"
+  },
+  {
+    "name": "Fire Bomb with Sensor",
+    "category": "weapons",
+    "moduleName": "Base.FlameTrapSensorV1"
+  },
+  {
+    "name": "Fire Bomb with Sensor",
+    "category": "weapons",
+    "moduleName": "Base.FlameTrapSensorV2"
+  },
+  {
+    "name": "Fire Bomb with Sensor",
+    "category": "weapons",
+    "moduleName": "Base.FlameTrapSensorV3"
+  },
+  {
+    "name": "Remote Fire Bomb",
+    "category": "weapons",
+    "moduleName": "Base.FlameTrapRemote"
+  },
+  {
+    "name": "Pipe Bomb",
+    "category": "weapons",
+    "moduleName": "Base.PipeBomb"
+  },
+  {
+    "name": "Pipe Bomb with Timer",
+    "category": "weapons",
+    "moduleName": "Base.PipeBombTriggered"
+  },
+  {
+    "name": "Pipe Bomb with Sensor",
+    "category": "weapons",
+    "moduleName": "Base.PipeBombSensorV1"
+  },
+  {
+    "name": "Pipe Bomb with Sensor",
+    "category": "weapons",
+    "moduleName": "Base.PipeBombSensorV2"
+  },
+  {
+    "name": "Pipe Bomb with Sensor",
+    "category": "weapons",
+    "moduleName": "Base.PipeBombSensorV3"
+  },
+  {
+    "name": "Remote Pipe Bomb",
+    "category": "weapons",
+    "moduleName": "Base.PipeBombRemote"
+  },
+  {
+    "name": "Smoke Bomb",
+    "category": "weapons",
+    "moduleName": "Base.SmokeBomb"
+  },
+  {
+    "name": "Smoke Bomb with Timer",
+    "category": "weapons",
+    "moduleName": "Base.SmokeBombTriggered"
+  },
+  {
+    "name": "Smoke Bomb with Sensor",
+    "category": "weapons",
+    "moduleName": "Base.SmokeBombSensorV1"
+  },
+  {
+    "name": "Smoke Bomb with Sensor",
+    "category": "weapons",
+    "moduleName": "Base.SmokeBombSensorV2"
+  },
+  {
+    "name": "Smoke Bomb with Sensor",
+    "category": "weapons",
+    "moduleName": "Base.SmokeBombSensorV3"
+  },
+  {
+    "name": "Remote Smoke Bomb",
+    "category": "weapons",
+    "moduleName": "Base.SmokeBombRemote"
+  },
+  {
+    "name": "Noise Maker",
+    "category": "weapons",
+    "moduleName": "Base.NoiseTrap"
+  },
+  {
+    "name": "Noise Generator with Timer",
+    "category": "weapons",
+    "moduleName": "Base.NoiseTrapTriggered"
+  },
+  {
+    "name": "Noise Generator with Sensor",
+    "category": "weapons",
+    "moduleName": "Base.NoiseTrapSensorV1"
+  },
+  {
+    "name": "Noise Generator with Sensor",
+    "category": "weapons",
+    "moduleName": "Base.NoiseTrapSensorV2"
+  },
+  {
+    "name": "Noise Generator with Sensor",
+    "category": "weapons",
+    "moduleName": "Base.NoiseTrapSensorV3"
+  },
+  {
+    "name": "Remote Noise Generator",
+    "category": "weapons",
+    "moduleName": "Base.NoiseTrapRemote"
+  },
+  {
+    "name": "Axe",
+    "category": "weapons",
+    "moduleName": "Base.Axe"
+  },
+  {
+    "name": "Hand Axe",
+    "category": "weapons",
+    "moduleName": "Base.HandAxe"
+  },
+  {
+    "name": "Pick Axe",
+    "category": "weapons",
+    "moduleName": "Base.PickAxe"
+  },
+  {
+    "name": "Raw Axe",
+    "category": "weapons",
+    "moduleName": "Base.AxeStone"
+  },
+  {
+    "name": "Wood Axe",
+    "category": "weapons",
+    "moduleName": "Base.WoodAxe"
+  },
+  {
+    "name": "Acoustic Guitar",
+    "category": "weapons",
+    "moduleName": "Base.GuitarAcoustic"
+  },
+  {
+    "name": "Badminton Racket",
+    "category": "weapons",
+    "moduleName": "Base.BadmintonRacket"
+  },
+  {
+    "name": "Barbell",
+    "category": "weapons",
+    "moduleName": "Base.BarBell"
+  },
+  {
+    "name": "Baseball Bat",
+    "category": "weapons",
+    "moduleName": "Base.BaseballBat"
+  },
+  {
+    "name": "Broom",
+    "category": "weapons",
+    "moduleName": "Base.Broom"
+  },
+  {
+    "name": "Canoe Paddle",
+    "category": "weapons",
+    "moduleName": "Base.CanoePadel"
+  },
+  {
+    "name": "Canoe Paddle - Double-bladed",
+    "category": "weapons",
+    "moduleName": "Base.CanoePadelX2"
+  },
+  {
+    "name": "Chainsaw",
+    "category": "weapons",
+    "moduleName": "Base.Chainsaw"
+  },
+  {
+    "name": "Crowbar",
+    "category": "weapons",
+    "moduleName": "Base.Crowbar"
+  },
+  {
+    "name": "Black Electric Bass",
+    "category": "weapons",
+    "moduleName": "Base.GuitarElectricBassBlack"
+  },
+  {
+    "name": "Blue Electric Bass",
+    "category": "weapons",
+    "moduleName": "Base.GuitarElectricBassBlue"
+  },
+  {
+    "name": "Red Electric Bass",
+    "category": "weapons",
+    "moduleName": "Base.GuitarElectricBassRed"
+  },
+  {
+    "name": "Black Electric Guitar",
+    "category": "weapons",
+    "moduleName": "Base.GuitarElectricBlack"
+  },
+  {
+    "name": "Blue Electric Guitar",
+    "category": "weapons",
+    "moduleName": "Base.GuitarElectricBlue"
+  },
+  {
+    "name": "Red Electric Guitar",
+    "category": "weapons",
+    "moduleName": "Base.GuitarElectricRed"
+  },
+  {
+    "name": "Fishing Rod (crafted)",
+    "category": "weapons",
+    "moduleName": "Base.CraftedFishingRod"
+  },
+  {
+    "name": "Fishing Rod",
+    "category": "weapons",
+    "moduleName": "Base.FishingRod"
+  },
+  {
+    "name": "Fishing Rod without Line",
+    "category": "weapons",
+    "moduleName": "Base.FishingRodBreak"
+  },
+  {
+    "name": "Garden Hoe",
+    "category": "weapons",
+    "moduleName": "Base.GardenHoe"
+  },
+  {
+    "name": "Golf Club",
+    "category": "weapons",
+    "moduleName": "Base.Golfclub"
+  },
+  {
+    "name": "Hockey Stick",
+    "category": "weapons",
+    "moduleName": "Base.HockeyStick"
+  },
+  {
+    "name": "Ice Hockey Stick",
+    "category": "weapons",
+    "moduleName": "Base.IceHockeyStick"
+  },
+  {
+    "name": "Keytar",
+    "category": "weapons",
+    "moduleName": "Base.Keytar"
+  },
+  {
+    "name": "Lacrosse Stick",
+    "category": "weapons",
+    "moduleName": "Base.LaCrosseStick"
+  },
+  {
+    "name": "Leaf Rake",
+    "category": "weapons",
+    "moduleName": "Base.LeafRake"
+  },
+  {
+    "name": "Plank",
+    "category": "weapons",
+    "moduleName": "Base.Plank"
+  },
+  {
+    "name": "Poolcue",
+    "category": "weapons",
+    "moduleName": "Base.Poolcue"
+  },
+  {
+    "name": "Rake",
+    "category": "weapons",
+    "moduleName": "Base.Rake"
+  },
+  {
+    "name": "Saxophone",
+    "category": "weapons",
+    "moduleName": "Base.Saxophone"
+  },
+  {
+    "name": "Shovel",
+    "category": "weapons",
+    "moduleName": "Base.Shovel"
+  },
+  {
+    "name": "Shovel",
+    "category": "weapons",
+    "moduleName": "Base.Shovel2"
+  },
+  {
+    "name": "Sledgehammer",
+    "category": "weapons",
+    "moduleName": "Base.Sledgehammer"
+  },
+  {
+    "name": "Sledgehammer",
+    "category": "weapons",
+    "moduleName": "Base.Sledgehammer2"
+  },
+  {
+    "name": "Snow Shovel",
+    "category": "weapons",
+    "moduleName": "Base.SnowShovel"
+  },
+  {
+    "name": "Spiked Baseball Bat",
+    "category": "weapons",
+    "moduleName": "Base.BaseballBatNails"
+  },
+  {
+    "name": "Spiked Plank",
+    "category": "weapons",
+    "moduleName": "Base.PlankNail"
+  },
+  {
+    "name": "Tennis Racket",
+    "category": "weapons",
+    "moduleName": "Base.TennisRacket"
+  },
+  {
+    "name": "Trumpet",
+    "category": "weapons",
+    "moduleName": "Base.Trumpet"
+  },
+  {
+    "name": "Ball-peen Hammer",
+    "category": "weapons",
+    "moduleName": "Base.BallPeenHammer"
+  },
+  {
+    "name": "Banjo",
+    "category": "weapons",
+    "moduleName": "Base.Banjo"
+  },
+  {
+    "name": "Chair Leg",
+    "category": "weapons",
+    "moduleName": "Base.ChairLeg"
+  },
+  {
+    "name": "Club Hammer",
+    "category": "weapons",
+    "moduleName": "Base.ClubHammer"
+  },
+  {
+    "name": "Drumstick",
+    "category": "weapons",
+    "moduleName": "Base.Drumstick"
+  },
+  {
+    "name": "Dumbbell",
+    "category": "weapons",
+    "moduleName": "Base.DumbBell"
+  },
+  {
+    "name": "Flute",
+    "category": "weapons",
+    "moduleName": "Base.Flute"
+  },
+  {
+    "name": "Frying Pan",
+    "category": "weapons",
+    "moduleName": "Base.Pan"
+  },
+  {
+    "name": "Griddle Pan",
+    "category": "weapons",
+    "moduleName": "Base.GridlePan"
+  },
+  {
+    "name": "Hammer",
+    "category": "weapons",
+    "moduleName": "Base.Hammer"
+  },
+  {
+    "name": "Lead Pipe",
+    "category": "weapons",
+    "moduleName": "Base.LeadPipe"
+  },
+  {
+    "name": "Metal Bar",
+    "category": "weapons",
+    "moduleName": "Base.MetalBar"
+  },
+  {
+    "name": "Metal Pipe",
+    "category": "weapons",
+    "moduleName": "Base.MetalPipe"
+  },
+  {
+    "name": "Nightstick",
+    "category": "weapons",
+    "moduleName": "Base.Nightstick"
+  },
+  {
+    "name": "Pick Axe Handle",
+    "category": "weapons",
+    "moduleName": "Base.PickAxeHandle"
+  },
+  {
+    "name": "Pipe Wrench",
+    "category": "weapons",
+    "moduleName": "Base.PipeWrench"
+  },
+  {
+    "name": "Plunger",
+    "category": "weapons",
+    "moduleName": "Base.Plunger"
+  },
+  {
+    "name": "Rolling Pin",
+    "category": "weapons",
+    "moduleName": "Base.RollingPin"
+  },
+  {
+    "name": "Saucepan",
+    "category": "weapons",
+    "moduleName": "Base.Saucepan"
+  },
+  {
+    "name": "Spiked Pick Axe Handle",
+    "category": "weapons",
+    "moduleName": "Base.PickAxeHandleSpiked"
+  },
+  {
+    "name": "Stone Hammer",
+    "category": "weapons",
+    "moduleName": "Base.HammerStone"
+  },
+  {
+    "name": "Table Leg",
+    "category": "weapons",
+    "moduleName": "Base.TableLeg"
+  },
+  {
+    "name": "Violin",
+    "category": "weapons",
+    "moduleName": "Base.Violin"
+  },
+  {
+    "name": "Wooden Mallet",
+    "category": "weapons",
+    "moduleName": "Base.WoodenMallet"
+  },
+  {
+    "name": "Wrench",
+    "category": "weapons",
+    "moduleName": "Base.Wrench"
+  },
+  {
+    "name": "Katana",
+    "category": "weapons",
+    "moduleName": "Base.Katana"
+  },
+  {
+    "name": "Machete",
+    "category": "weapons",
+    "moduleName": "Base.Machete"
+  },
+  {
+    "name": "Bread Knife",
+    "category": "weapons",
+    "moduleName": "Base.BreadKnife"
+  },
+  {
+    "name": "Butter Knife",
+    "category": "weapons",
+    "moduleName": "Base.ButterKnife"
+  },
+  {
+    "name": "Fork",
+    "category": "weapons",
+    "moduleName": "Base.Fork"
+  },
+  {
+    "name": "Hand Fork",
+    "category": "weapons",
+    "moduleName": "Base.HandFork"
+  },
+  {
+    "name": "Hand Scythe",
+    "category": "weapons",
+    "moduleName": "Base.HandScythe"
+  },
+  {
+    "name": "Hunting Knife",
+    "category": "weapons",
+    "moduleName": "Base.HuntingKnife"
+  },
+  {
+    "name": "Ice Pick",
+    "category": "weapons",
+    "moduleName": "Base.IcePick"
+  },
+  {
+    "name": "Kitchen Knife",
+    "category": "weapons",
+    "moduleName": "Base.KitchenKnife"
+  },
+  {
+    "name": "Letter Opener",
+    "category": "weapons",
+    "moduleName": "Base.LetterOpener"
+  },
+  {
+    "name": "Meat Cleaver",
+    "category": "weapons",
+    "moduleName": "Base.MeatCleaver"
+  },
+  {
+    "name": "Scalpel",
+    "category": "weapons",
+    "moduleName": "Base.Scalpel"
+  },
+  {
+    "name": "Scissors",
+    "category": "weapons",
+    "moduleName": "Base.Scissors"
+  },
+  {
+    "name": "Screwdriver",
+    "category": "weapons",
+    "moduleName": "Base.Screwdriver"
+  },
+  {
+    "name": "Smashed Bottle",
+    "category": "weapons",
+    "moduleName": "Base.SmashedBottle"
+  },
+  {
+    "name": "Spoon",
+    "category": "weapons",
+    "moduleName": "Base.Spoon"
+  },
+  {
+    "name": "Stake",
+    "category": "weapons",
+    "moduleName": "Base.Stake"
+  },
+  {
+    "name": "Stone Knife",
+    "category": "weapons",
+    "moduleName": "Base.FlintKnife"
+  },
+  {
+    "name": "Closed Umbrella",
+    "category": "weapons",
+    "moduleName": "Base.ClosedUmbrellaBlue"
+  },
+  {
+    "name": "Closed Umbrella",
+    "category": "weapons",
+    "moduleName": "Base.ClosedUmbrellaRed"
+  },
+  {
+    "name": "Closed Umbrella",
+    "category": "weapons",
+    "moduleName": "Base.ClosedUmbrellaBlack"
+  },
+  {
+    "name": "Closed Umbrella",
+    "category": "weapons",
+    "moduleName": "Base.ClosedUmbrellaWhite"
+  },
+  {
+    "name": "Garden Fork",
+    "category": "weapons",
+    "moduleName": "Base.GardenFork"
+  },
+  {
+    "name": "Crafted Spear",
+    "category": "weapons",
+    "moduleName": "Base.SpearCrafted"
+  },
+  {
+    "name": "Spear with Bread Knife",
+    "category": "weapons",
+    "moduleName": "Base.SpearBreadKnife"
+  },
+  {
+    "name": "Spear with Butter Knife",
+    "category": "weapons",
+    "moduleName": "Base.SpearButterKnife"
+  },
+  {
+    "name": "Spear with Fork",
+    "category": "weapons",
+    "moduleName": "Base.SpearFork"
+  },
+  {
+    "name": "Spear with Letter Opener",
+    "category": "weapons",
+    "moduleName": "Base.SpearLetterOpener"
+  },
+  {
+    "name": "Spear with Scalpel",
+    "category": "weapons",
+    "moduleName": "Base.SpearScalpel"
+  },
+  {
+    "name": "Spear with Spoon",
+    "category": "weapons",
+    "moduleName": "Base.SpearSpoon"
+  },
+  {
+    "name": "Spear with Scissors",
+    "category": "weapons",
+    "moduleName": "Base.SpearScissors"
+  },
+  {
+    "name": "Spear with Hand Fork",
+    "category": "weapons",
+    "moduleName": "Base.SpearHandFork"
+  },
+  {
+    "name": "Spear with Screwdriver",
+    "category": "weapons",
+    "moduleName": "Base.SpearScrewdriver"
+  },
+  {
+    "name": "Spear with Hunting Knife",
+    "category": "weapons",
+    "moduleName": "Base.SpearHuntingKnife"
+  },
+  {
+    "name": "Spear with Machete",
+    "category": "weapons",
+    "moduleName": "Base.SpearMachete"
+  },
+  {
+    "name": "Spear with Ice Pick",
+    "category": "weapons",
+    "moduleName": "Base.SpearIcePick"
+  },
+  {
+    "name": "Spear with Knife",
+    "category": "weapons",
+    "moduleName": "Base.SpearKnife"
+  },
+  {
+    "name": "Bottle of Gasoline",
+    "category": "vehicle",
+    "moduleName": "Base.WhiskeyPetrol"
+  },
+  {
+    "name": "Bottle of Gasoline",
+    "category": "vehicle",
+    "moduleName": "Base.PetrolPopBottle"
+  },
+  {
+    "name": "Bottle of Gasoline",
+    "category": "vehicle",
+    "moduleName": "Base.WinePetrol"
+  },
+  {
+    "name": "Bottle of Gasoline",
+    "category": "vehicle",
+    "moduleName": "Base.WaterBottlePetrol"
+  },
+  {
+    "name": "Empty Gas Can",
+    "category": "vehicle",
+    "moduleName": "Base.EmptyPetrolCan"
+  },
+  {
+    "name": "Gas Can",
+    "category": "vehicle",
+    "moduleName": "Base.PetrolCan"
+  },
+  {
+    "name": "Old Brake",
+    "category": "vehicle",
+    "moduleName": "Base.OldBrake1"
+  },
+  {
+    "name": "Old Brake",
+    "category": "vehicle",
+    "moduleName": "Base.OldBrake2"
+  },
+  {
+    "name": "Old Brake",
+    "category": "vehicle",
+    "moduleName": "Base.OldBrake3"
+  },
+  {
+    "name": "Regular Brake",
+    "category": "vehicle",
+    "moduleName": "Base.NormalBrake1"
+  },
+  {
+    "name": "Regular Brake",
+    "category": "vehicle",
+    "moduleName": "Base.NormalBrake2"
+  },
+  {
+    "name": "Regular Brake",
+    "category": "vehicle",
+    "moduleName": "Base.NormalBrake3"
+  },
+  {
+    "name": "Performance Brake",
+    "category": "vehicle",
+    "moduleName": "Base.ModernBrake1"
+  },
+  {
+    "name": "Performance Brake",
+    "category": "vehicle",
+    "moduleName": "Base.ModernBrake2"
+  },
+  {
+    "name": "Performance Brake",
+    "category": "vehicle",
+    "moduleName": "Base.ModernBrake3"
+  },
+  {
+    "name": "Car Battery",
+    "category": "vehicle",
+    "moduleName": "Base.CarBattery1"
+  },
+  {
+    "name": "Car Battery",
+    "category": "vehicle",
+    "moduleName": "Base.CarBattery2"
+  },
+  {
+    "name": "Car Battery",
+    "category": "vehicle",
+    "moduleName": "Base.CarBattery3"
+  },
+  {
+    "name": "Front Door",
+    "category": "vehicle",
+    "moduleName": "Base.FrontCarDoor2"
+  },
+  {
+    "name": "Front Door",
+    "category": "vehicle",
+    "moduleName": "Base.FrontCarDoor3"
+  },
+  {
+    "name": "Rear Door",
+    "category": "vehicle",
+    "moduleName": "Base.RearCarDoor1"
+  },
+  {
+    "name": "Rear Door",
+    "category": "vehicle",
+    "moduleName": "Base.RearCarDoor2"
+  },
+  {
+    "name": "Rear Door",
+    "category": "vehicle",
+    "moduleName": "Base.RearCarDoor3"
+  },
+  {
+    "name": "Double Rear Door",
+    "category": "vehicle",
+    "moduleName": "Base.RearCarDoorDouble1"
+  },
+  {
+    "name": "Double Rear Door",
+    "category": "vehicle",
+    "moduleName": "Base.RearCarDoorDouble2"
+  },
+  {
+    "name": "Double Rear Door",
+    "category": "vehicle",
+    "moduleName": "Base.RearCarDoorDouble3"
+  },
+  {
+    "name": "Small Gas Tank",
+    "category": "vehicle",
+    "moduleName": "Base.SmallGasTank2"
+  },
+  {
+    "name": "Small Gas Tank",
+    "category": "vehicle",
+    "moduleName": "Base.SmallGasTank3"
+  },
+  {
+    "name": "Standard Gas Tank",
+    "category": "vehicle",
+    "moduleName": "Base.NormalGasTank1"
+  },
+  {
+    "name": "Standard Gas Tank",
+    "category": "vehicle",
+    "moduleName": "Base.NormalGasTank2"
+  },
+  {
+    "name": "Standard Gas Tank",
+    "category": "vehicle",
+    "moduleName": "Base.NormalGasTank3"
+  },
+  {
+    "name": "Big Gas Tank",
+    "category": "vehicle",
+    "moduleName": "Base.BigGasTank1"
+  },
+  {
+    "name": "Big Gas Tank",
+    "category": "vehicle",
+    "moduleName": "Base.BigGasTank2"
+  },
+  {
+    "name": "Big Gas Tank",
+    "category": "vehicle",
+    "moduleName": "Base.BigGasTank3"
+  },
+  {
+    "name": "Glove Box",
+    "category": "vehicle",
+    "moduleName": "Base.GloveBox2"
+  },
+  {
+    "name": "Glove Box",
+    "category": "vehicle",
+    "moduleName": "Base.GloveBox3"
+  },
+  {
+    "name": "Hood",
+    "category": "vehicle",
+    "moduleName": "Base.EngineDoor1"
+  },
+  {
+    "name": "Hood",
+    "category": "vehicle",
+    "moduleName": "Base.EngineDoor2"
+  },
+  {
+    "name": "Hood",
+    "category": "vehicle",
+    "moduleName": "Base.EngineDoor3"
+  },
+  {
+    "name": "Old Muffler",
+    "category": "vehicle",
+    "moduleName": "Base.OldCarMuffler2"
+  },
+  {
+    "name": "Old Muffler",
+    "category": "vehicle",
+    "moduleName": "Base.OldCarMuffler3"
+  },
+  {
+    "name": "Average Muffler",
+    "category": "vehicle",
+    "moduleName": "Base.NormalCarMuffler1"
+  },
+  {
+    "name": "Average Muffler",
+    "category": "vehicle",
+    "moduleName": "Base.NormalCarMuffler2"
+  },
+  {
+    "name": "Average Muffler",
+    "category": "vehicle",
+    "moduleName": "Base.NormalCarMuffler3"
+  },
+  {
+    "name": "Performance Muffler",
+    "category": "vehicle",
+    "moduleName": "Base.ModernCarMuffler1"
+  },
+  {
+    "name": "Performance Muffler",
+    "category": "vehicle",
+    "moduleName": "Base.ModernCarMuffler2"
+  },
+  {
+    "name": "Performance Muffler",
+    "category": "vehicle",
+    "moduleName": "Base.ModernCarMuffler3"
+  },
+  {
+    "name": "Standard Seat",
+    "category": "vehicle",
+    "moduleName": "Base.NormalCarSeat2"
+  },
+  {
+    "name": "Standard Seat",
+    "category": "vehicle",
+    "moduleName": "Base.NormalCarSeat3"
+  },
+  {
+    "name": "Big Seat",
+    "category": "vehicle",
+    "moduleName": "Base.BigCarSeat1"
+  },
+  {
+    "name": "Big Seat",
+    "category": "vehicle",
+    "moduleName": "Base.BigCarSeat2"
+  },
+  {
+    "name": "Big Seat",
+    "category": "vehicle",
+    "moduleName": "Base.BigCarSeat3"
+  },
+  {
+    "name": "Sports Seat",
+    "category": "vehicle",
+    "moduleName": "Base.SportCarSeat1"
+  },
+  {
+    "name": "Sports Seat",
+    "category": "vehicle",
+    "moduleName": "Base.SportCarSeat2"
+  },
+  {
+    "name": "Sports Seat",
+    "category": "vehicle",
+    "moduleName": "Base.SportCarSeat3"
+  },
+  {
+    "name": "Regular Suspension",
+    "category": "vehicle",
+    "moduleName": "Base.NormalSuspension1"
+  },
+  {
+    "name": "Regular Suspension",
+    "category": "vehicle",
+    "moduleName": "Base.NormalSuspension2"
+  },
+  {
+    "name": "Regular Suspension",
+    "category": "vehicle",
+    "moduleName": "Base.NormalSuspension3"
+  },
+  {
+    "name": "Performance Suspension",
+    "category": "vehicle",
+    "moduleName": "Base.ModernSuspension1"
+  },
+  {
+    "name": "Performance Suspension",
+    "category": "vehicle",
+    "moduleName": "Base.ModernSuspension2"
+  },
+  {
+    "name": "Performance Suspension",
+    "category": "vehicle",
+    "moduleName": "Base.ModernSuspension3"
+  },
+  {
+    "name": "Valu-Tire",
+    "category": "vehicle",
+    "moduleName": "Base.OldTire2"
+  },
+  {
+    "name": "Valu-Tire",
+    "category": "vehicle",
+    "moduleName": "Base.OldTire3"
+  },
+  {
+    "name": "Regular Tire",
+    "category": "vehicle",
+    "moduleName": "Base.NormalTire1"
+  },
+  {
+    "name": "Regular Tire",
+    "category": "vehicle",
+    "moduleName": "Base.NormalTire2"
+  },
+  {
+    "name": "Regular Tire",
+    "category": "vehicle",
+    "moduleName": "Base.NormalTire3"
+  },
+  {
+    "name": "Performance Tire",
+    "category": "vehicle",
+    "moduleName": "Base.ModernTire1"
+  },
+  {
+    "name": "Performance Tire",
+    "category": "vehicle",
+    "moduleName": "Base.ModernTire2"
+  },
+  {
+    "name": "Performance Tire",
+    "category": "vehicle",
+    "moduleName": "Base.ModernTire3"
+  },
+  {
+    "name": "Big Trunk",
+    "category": "vehicle",
+    "moduleName": "Base.BigTrunk2"
+  },
+  {
+    "name": "Big Trunk",
+    "category": "vehicle",
+    "moduleName": "Base.BigTrunk3"
+  },
+  {
+    "name": "Big Trunk",
+    "category": "vehicle",
+    "moduleName": "Base.TrailerTrunk1"
+  },
+  {
+    "name": "Small Trunk",
+    "category": "vehicle",
+    "moduleName": "Base.SmallTrunk1"
+  },
+  {
+    "name": "Small Trunk",
+    "category": "vehicle",
+    "moduleName": "Base.SmallTrunk2"
+  },
+  {
+    "name": "Small Trunk",
+    "category": "vehicle",
+    "moduleName": "Base.SmallTrunk3"
+  },
+  {
+    "name": "Small Trunk",
+    "category": "vehicle",
+    "moduleName": "Base.VanSeatsTrunk2"
+  },
+  {
+    "name": "Standard Trunk",
+    "category": "vehicle",
+    "moduleName": "Base.NormalTrunk1"
+  },
+  {
+    "name": "Standard Trunk",
+    "category": "vehicle",
+    "moduleName": "Base.NormalTrunk2"
+  },
+  {
+    "name": "Standard Trunk",
+    "category": "vehicle",
+    "moduleName": "Base.NormalTrunk3"
+  },
+  {
+    "name": "Trailer Trunk",
+    "category": "vehicle",
+    "moduleName": "Base.TrailerTrunk2"
+  },
+  {
+    "name": "Trailer Trunk",
+    "category": "vehicle",
+    "moduleName": "Base.TrailerTrunk3"
+  },
+  {
+    "name": "Trunk Lid",
+    "category": "vehicle",
+    "moduleName": "Base.TrunkDoor1"
+  },
+  {
+    "name": "Trunk Lid",
+    "category": "vehicle",
+    "moduleName": "Base.TrunkDoor2"
+  },
+  {
+    "name": "Trunk Lid",
+    "category": "vehicle",
+    "moduleName": "Base.TrunkDoor3"
+  },
+  {
+    "name": "Windshield",
+    "category": "vehicle",
+    "moduleName": "Base.Windshield2"
+  },
+  {
+    "name": "Windshield",
+    "category": "vehicle",
+    "moduleName": "Base.Windshield3"
+  },
+  {
+    "name": "Rear Windshield",
+    "category": "vehicle",
+    "moduleName": "Base.RearWindshield1"
+  },
+  {
+    "name": "Rear Windshield",
+    "category": "vehicle",
+    "moduleName": "Base.RearWindshield2"
+  },
+  {
+    "name": "Rear Windshield",
+    "category": "vehicle",
+    "moduleName": "Base.RearWindshield3"
+  },
+  {
+    "name": "Front Window",
+    "category": "vehicle",
+    "moduleName": "Base.FrontWindow1"
+  },
+  {
+    "name": "Front Window",
+    "category": "vehicle",
+    "moduleName": "Base.FrontWindow2"
+  },
+  {
+    "name": "Front Window",
+    "category": "vehicle",
+    "moduleName": "Base.FrontWindow3"
+  },
+  {
+    "name": "Rear Window",
+    "category": "vehicle",
+    "moduleName": "Base.RearWindow1"
+  },
+  {
+    "name": "Rear Window",
+    "category": "vehicle",
+    "moduleName": "Base.RearWindow2"
+  },
+  {
+    "name": "Rear Window",
+    "category": "vehicle",
+    "moduleName": "Base.RearWindow3"
+  },
+  {
+    "name": "Adhesive Bandages",
+    "category": "medical",
+    "moduleName": "Base.Bandaid"
+  },
+  {
+    "name": "Bandage",
+    "category": "medical",
+    "moduleName": "Base.Bandage"
+  },
+  {
+    "name": "Sterilized Bandage",
+    "category": "medical",
+    "moduleName": "Base.AlcoholBandage"
+  },
+  {
+    "name": "Dirty Bandage",
+    "category": "medical",
+    "moduleName": "Base.BandageDirty"
+  },
+  {
+    "name": "Denim Strips",
+    "category": "medical",
+    "moduleName": "Base.DenimStrips"
+  },
+  {
+    "name": "Dirty Denim Strips",
+    "category": "medical",
+    "moduleName": "Base.DenimStripsDirty"
+  },
+  {
+    "name": "Leather Strips",
+    "category": "medical",
+    "moduleName": "Base.LeatherStrips"
+  },
+  {
+    "name": "Dirty Leather Strips",
+    "category": "medical",
+    "moduleName": "Base.LeatherStripsDirty"
+  },
+  {
+    "name": "Ripped Sheets",
+    "category": "medical",
+    "moduleName": "Base.RippedSheets"
+  },
+  {
+    "name": "Sterilized Rag",
+    "category": "medical",
+    "moduleName": "Base.AlcoholRippedSheets"
+  },
+  {
+    "name": "Dirty Rag",
+    "category": "medical",
+    "moduleName": "Base.RippedSheetsDirty"
+  },
+  {
+    "name": "Splint",
+    "category": "medical",
+    "moduleName": "Base.Splint"
+  },
+  {
+    "name": "Alcohol Wipes",
+    "category": "medical",
+    "moduleName": "Base.AlcoholWipes"
+  },
+  {
+    "name": "Bottle of Disinfectant",
+    "category": "medical",
+    "moduleName": "Base.Disinfectant"
+  },
+  {
+    "name": "Cotton Balls Doused in Alcohol",
+    "category": "medical",
+    "moduleName": "Base.AlcoholedCottonBalls"
+  },
+  {
+    "name": "Bourbon",
+    "category": "medical",
+    "moduleName": "Base.WhiskeyFull"
+  },
+  {
+    "name": "Black Sage",
+    "category": "medical",
+    "moduleName": "Base.BlackSage"
+  },
+  {
+    "name": "Comfrey",
+    "category": "medical",
+    "moduleName": "Base.Comfrey"
+  },
+  {
+    "name": "Common Mallow",
+    "category": "medical",
+    "moduleName": "Base.CommonMallow"
+  },
+  {
+    "name": "Ginseng",
+    "category": "medical",
+    "moduleName": "Base.Ginseng"
+  },
+  {
+    "name": "Lemongrass",
+    "category": "medical",
+    "moduleName": "Base.LemonGrass"
+  },
+  {
+    "name": "Plantain",
+    "category": "medical",
+    "moduleName": "Base.Plantain"
+  },
+  {
+    "name": "Wild Garlic",
+    "category": "medical",
+    "moduleName": "Base.WildGarlic"
+  },
+  {
+    "name": "Comfrey Poultice",
+    "category": "medical",
+    "moduleName": "Base.ComfreyCataplasm"
+  },
+  {
+    "name": "Plantain Poultice",
+    "category": "medical",
+    "moduleName": "Base.PlantainCataplasm"
+  },
+  {
+    "name": "Wild Garlic Poultice",
+    "category": "medical",
+    "moduleName": "Base.WildGarlicCataplasm"
+  },
+  {
+    "name": "Cotton Balls",
+    "category": "medical",
+    "moduleName": "Base.CottonBalls"
+  },
+  {
+    "name": "Suture Needle",
+    "category": "medical",
+    "moduleName": "Base.SutureNeedle"
+  },
+  {
+    "name": "Suture Needle Holder",
+    "category": "medical",
+    "moduleName": "Base.SutureNeedleHolder"
+  },
+  {
+    "name": "Tissue",
+    "category": "medical",
+    "moduleName": "Base.Tissue"
+  },
+  {
+    "name": "Tweezers",
+    "category": "medical",
+    "moduleName": "Base.Tweezers"
+  },
+  {
+    "name": "Antibiotics",
+    "category": "medical",
+    "moduleName": "Base.Antibiotics"
+  },
+  {
+    "name": "Antidepressants",
+    "category": "medical",
+    "moduleName": "Base.PillsAntiDep"
+  },
+  {
+    "name": "Beta Blockers",
+    "category": "medical",
+    "moduleName": "Base.PillsBeta"
+  },
+  {
+    "name": "Cigarettes",
+    "category": "medical",
+    "moduleName": "Base.Cigarettes"
+  },
+  {
+    "name": "Painkillers",
+    "category": "medical",
+    "moduleName": "Base.Pills"
+  },
+  {
+    "name": "Sleeping Tablets",
+    "category": "medical",
+    "moduleName": "Base.PillsSleepingTablets"
+  },
+  {
+    "name": "Vitamins",
+    "category": "medical",
+    "moduleName": "Base.PillsVitamins"
+  },
+  {
+    "name": "Duct Tape",
+    "category": "material",
+    "moduleName": "Base.DuctTape"
+  },
+  {
+    "name": "Glue",
+    "category": "material",
+    "moduleName": "Base.Glue"
+  },
+  {
+    "name": "Wood Glue",
+    "category": "material",
+    "moduleName": "Base.Woodglue"
+  },
+  {
+    "name": "Bag of Concrete Powder",
+    "category": "material",
+    "moduleName": "Base.ConcretePowder"
+  },
+  {
+    "name": "Bag of Plaster Powder",
+    "category": "material",
+    "moduleName": "Base.PlasterPowder"
+  },
+  {
+    "name": "Barbed Wire",
+    "category": "material",
+    "moduleName": "Base.BarbedWire"
+  },
+  {
+    "name": "Box of Nails",
+    "category": "material",
+    "moduleName": "Base.NailsBox"
+  },
+  {
+    "name": "Box of Paperclips",
+    "category": "material",
+    "moduleName": "Base.PaperclipBox"
+  },
+  {
+    "name": "Box of Screws",
+    "category": "material",
+    "moduleName": "Base.Screws"
+  },
+  {
+    "name": "Box of Sparklers",
+    "category": "material",
+    "moduleName": "Base.Sparklers"
+  },
+  {
+    "name": "Bucket of Concrete",
+    "category": "material",
+    "moduleName": "Base.BucketConcreteFull"
+  },
+  {
+    "name": "Bucket of Plaster",
+    "category": "material",
+    "moduleName": "Base.BucketPlasterFull"
+  },
+  {
+    "name": "Charcoal",
+    "category": "material",
+    "moduleName": "Base.Charcoal"
+  },
+  {
+    "name": "Chipped Stone",
+    "category": "material",
+    "moduleName": "Base.SharpedStone"
+  },
+  {
+    "name": "Denim Strips",
+    "category": "material",
+    "moduleName": "Base.DenimStrips"
+  },
+  {
+    "name": "Dirt Bag",
+    "category": "material",
+    "moduleName": "Base.Dirtbag"
+  },
+  {
+    "name": "Door Hinge",
+    "category": "material",
+    "moduleName": "Base.Hinge"
+  },
+  {
+    "name": "Doorknob",
+    "category": "material",
+    "moduleName": "Base.Doorknob"
+  },
+  {
+    "name": "Drawer",
+    "category": "material",
+    "moduleName": "Base.Drawer"
+  },
+  {
+    "name": "Empty Paint Bucket",
+    "category": "material",
+    "moduleName": "Base.PaintbucketEmpty"
+  },
+  {
+    "name": "Empty Tin Can",
+    "category": "material",
+    "moduleName": "Base.TinCanEmpty"
+  },
+  {
+    "name": "Flint",
+    "category": "material",
+    "moduleName": "camping.Flint"
+  },
+  {
+    "name": "Four Logs Stack",
+    "category": "material",
+    "moduleName": "Base.LogStacks4"
+  },
+  {
+    "name": "Gravel Bag",
+    "category": "material",
+    "moduleName": "Base.Gravelbag"
+  },
+  {
+    "name": "Gunpowder",
+    "category": "material",
+    "moduleName": "Base.GunPowder"
+  },
+  {
+    "name": "Handle",
+    "category": "material",
+    "moduleName": "Base.Handle"
+  },
+  {
+    "name": "Leather Strips",
+    "category": "material",
+    "moduleName": "Base.LeatherStrips"
+  },
+  {
+    "name": "Log",
+    "category": "material",
+    "moduleName": "Base.Log"
+  },
+  {
+    "name": "Metal Sheet",
+    "category": "material",
+    "moduleName": "Base.SheetMetal"
+  },
+  {
+    "name": "Nails",
+    "category": "material",
+    "moduleName": "Base.Nails"
+  },
+  {
+    "name": "Paperclip",
+    "category": "material",
+    "moduleName": "Base.Paperclip"
+  },
+  {
+    "name": "Pillow",
+    "category": "material",
+    "moduleName": "Base.Pillow"
+  },
+  {
+    "name": "Plank",
+    "category": "material",
+    "moduleName": "Base.Plank"
+  },
+  {
+    "name": "Plastic Pipe",
+    "category": "material",
+    "moduleName": "Base.Pipe"
+  },
+  {
+    "name": "Propane Tank",
+    "category": "material",
+    "moduleName": "Base.PropaneTank"
+  },
+  {
+    "name": "Ripped Sheets",
+    "category": "material",
+    "moduleName": "Base.RippedSheets"
+  },
+  {
+    "name": "Rope",
+    "category": "material",
+    "moduleName": "Base.Rope"
+  },
+  {
+    "name": "Sand Bag",
+    "category": "material",
+    "moduleName": "Base.Sandbag"
+  },
+  {
+    "name": "Scrap Metal",
+    "category": "material",
+    "moduleName": "Base.ScrapMetal"
+  },
+  {
+    "name": "Scrap Wood",
+    "category": "material",
+    "moduleName": "Base.UnusableWood"
+  },
+  {
+    "name": "Screws",
+    "category": "material",
+    "moduleName": "Base.Screws"
+  },
+  {
+    "name": "Sheet",
+    "category": "material",
+    "moduleName": "Base.Sheet"
+  },
+  {
+    "name": "Sheet Rope",
+    "category": "material",
+    "moduleName": "Base.SheetRope"
+  },
+  {
+    "name": "Small Metal Sheet",
+    "category": "material",
+    "moduleName": "Base.SmallSheetMetal"
+  },
+  {
+    "name": "Staples",
+    "category": "material",
+    "moduleName": "Base.Staples"
+  },
+  {
+    "name": "Stone",
+    "category": "material",
+    "moduleName": "Base.Stone"
+  },
+  {
+    "name": "Stone",
+    "category": "material",
+    "moduleName": "Base.String"
+  },
+  {
+    "name": "Sturdy Stick",
+    "category": "material",
+    "moduleName": "Base.WoodenStick"
+  },
+  {
+    "name": "Tarp",
+    "category": "material",
+    "moduleName": "Base.Tarp"
+  },
+  {
+    "name": "Tent Peg",
+    "category": "material",
+    "moduleName": "camping.TentPeg"
+  },
+  {
+    "name": "Thread",
+    "category": "material",
+    "moduleName": "Base.Thread"
+  },
+  {
+    "name": "Three Logs Stack",
+    "category": "material",
+    "moduleName": "Base.LogStacks3"
+  },
+  {
+    "name": "Tree Branch",
+    "category": "material",
+    "moduleName": "Base.TreeBranch"
+  },
+  {
+    "name": "Twigs",
+    "category": "material",
+    "moduleName": "Base.Twigs"
+  },
+  {
+    "name": "Twine",
+    "category": "material",
+    "moduleName": "Base.Twine"
+  },
+  {
+    "name": "Two Logs Stack",
+    "category": "material",
+    "moduleName": "Base.LogStacks2"
+  },
+  {
+    "name": "Unusable Metal",
+    "category": "material",
+    "moduleName": "Base.UnusableMetal"
+  },
+  {
+    "name": "Welding Rods",
+    "category": "material",
+    "moduleName": "Base.WeldingRods"
+  },
+  {
+    "name": "Wire",
+    "category": "material",
+    "moduleName": "Base.Wire"
+  },
+  {
+    "name": "Workable Iron",
+    "category": "material",
+    "moduleName": "Base.IronIngot"
+  },
+  {
+    "name": "Yarn",
+    "category": "material",
+    "moduleName": "Base.Yarn"
+  },
+  {
+    "name": "Book",
+    "category": "literature",
+    "moduleName": "Base.Book"
+  },
+  {
+    "name": "Comic Book",
+    "category": "literature",
+    "moduleName": "Base.ComicBook"
+  },
+  {
+    "name": "HottieZ",
+    "category": "literature",
+    "moduleName": "Base.HottieZ"
+  },
+  {
+    "name": "Magazine",
+    "category": "literature",
+    "moduleName": "Base.Magazine"
+  },
+  {
+    "name": "Newspaper",
+    "category": "literature",
+    "moduleName": "Base.Newspaper"
+  },
+  {
+    "name": "March Ridge Map",
+    "category": "literature",
+    "moduleName": "Base.MarchRidgeMap"
+  },
+  {
+    "name": "Muldraugh Map",
+    "category": "literature",
+    "moduleName": "Base.MuldraughMap"
+  },
+  {
+    "name": "Riverside Map",
+    "category": "literature",
+    "moduleName": "Base.RiversideMap"
+  },
+  {
+    "name": "Rosewood Map",
+    "category": "literature",
+    "moduleName": "Base.RosewoodMap"
+  },
+  {
+    "name": "West Point Map",
+    "category": "literature",
+    "moduleName": "Base.WestpointMap"
+  },
+  {
+    "name": "Louisville Map 1",
+    "category": "literature",
+    "moduleName": "Base.LouisvilleMap1"
+  },
+  {
+    "name": "Louisville Map 2",
+    "category": "literature",
+    "moduleName": "Base.LouisvilleMap2"
+  },
+  {
+    "name": "Louisville Map 3",
+    "category": "literature",
+    "moduleName": "Base.LouisvilleMap3"
+  },
+  {
+    "name": "Louisville Map 4",
+    "category": "literature",
+    "moduleName": "Base.LouisvilleMap4"
+  },
+  {
+    "name": "Louisville Map 5",
+    "category": "literature",
+    "moduleName": "Base.LouisvilleMap5"
+  },
+  {
+    "name": "Louisville Map 6",
+    "category": "literature",
+    "moduleName": "Base.LouisvilleMap6"
+  },
+  {
+    "name": "Louisville Map 7",
+    "category": "literature",
+    "moduleName": "Base.LouisvilleMap7"
+  },
+  {
+    "name": "Louisville Map 8",
+    "category": "literature",
+    "moduleName": "Base.LouisvilleMap8"
+  },
+  {
+    "name": "Louisville Map 9",
+    "category": "literature",
+    "moduleName": "Base.LouisvilleMap9"
+  },
+  {
+    "name": "Notebook",
+    "category": "literature",
+    "moduleName": "Base.Notebook"
+  },
+  {
+    "name": "Journal",
+    "category": "literature",
+    "moduleName": "Base.Journal"
+  },
+  {
+    "name": "Sheet of Paper",
+    "category": "literature",
+    "moduleName": "Base.SheetPaper2"
+  },
+  {
+    "name": "Carpentry Vol. 1",
+    "category": "literature",
+    "moduleName": "Base.BookCarpentry1"
+  },
+  {
+    "name": "Carpentry Vol. 2",
+    "category": "literature",
+    "moduleName": "Base.BookCarpentry2"
+  },
+  {
+    "name": "Carpentry Vol. 3",
+    "category": "literature",
+    "moduleName": "Base.BookCarpentry3"
+  },
+  {
+    "name": "Carpentry Vol. 4",
+    "category": "literature",
+    "moduleName": "Base.BookCarpentry4"
+  },
+  {
+    "name": "Carpentry Vol. 5",
+    "category": "literature",
+    "moduleName": "Base.BookCarpentry5"
+  },
+  {
+    "name": "Cooking Vol. 1",
+    "category": "literature",
+    "moduleName": "Base.BookCooking1"
+  },
+  {
+    "name": "Cooking Vol. 2",
+    "category": "literature",
+    "moduleName": "Base.BookCooking2"
+  },
+  {
+    "name": "Cooking Vol. 3",
+    "category": "literature",
+    "moduleName": "Base.BookCooking3"
+  },
+  {
+    "name": "Cooking Vol. 4",
+    "category": "literature",
+    "moduleName": "Base.BookCooking4"
+  },
+  {
+    "name": "Cooking Vol. 5",
+    "category": "literature",
+    "moduleName": "Base.BookCooking5"
+  },
+  {
+    "name": "Electrician Vol. 1",
+    "category": "literature",
+    "moduleName": "Base.BookElectrician1"
+  },
+  {
+    "name": "Electrician Vol. 2",
+    "category": "literature",
+    "moduleName": "Base.BookElectrician2"
+  },
+  {
+    "name": "Electrician Vol. 3",
+    "category": "literature",
+    "moduleName": "Base.BookElectrician3"
+  },
+  {
+    "name": "Electrician Vol. 4",
+    "category": "literature",
+    "moduleName": "Base.BookElectrician4"
+  },
+  {
+    "name": "Electrician Vol. 5",
+    "category": "literature",
+    "moduleName": "Base.BookElectrician5"
+  },
+  {
+    "name": "Farming Vol. 1",
+    "category": "literature",
+    "moduleName": "Base.BookFarming1"
+  },
+  {
+    "name": "Farming Vol. 2",
+    "category": "literature",
+    "moduleName": "Base.BookFarming2"
+  },
+  {
+    "name": "Farming Vol. 3",
+    "category": "literature",
+    "moduleName": "Base.BookFarming3"
+  },
+  {
+    "name": "Farming Vol. 4",
+    "category": "literature",
+    "moduleName": "Base.BookFarming4"
+  },
+  {
+    "name": "Farming Vol. 5",
+    "category": "literature",
+    "moduleName": "Base.BookFarming5"
+  },
+  {
+    "name": "First Aid Vol. 1",
+    "category": "literature",
+    "moduleName": "Base.BookFirstAid1"
+  },
+  {
+    "name": "First Aid Vol. 2",
+    "category": "literature",
+    "moduleName": "Base.BookFirstAid2"
+  },
+  {
+    "name": "First Aid Vol. 3",
+    "category": "literature",
+    "moduleName": "Base.BookFirstAid3"
+  },
+  {
+    "name": "First Aid Vol. 4",
+    "category": "literature",
+    "moduleName": "Base.BookFirstAid4"
+  },
+  {
+    "name": "First Aid Vol. 5",
+    "category": "literature",
+    "moduleName": "Base.BookFirstAid5"
+  },
+  {
+    "name": "Fishing Vol. 1",
+    "category": "literature",
+    "moduleName": "Base.BookFishing1"
+  },
+  {
+    "name": "Fishing Vol. 2",
+    "category": "literature",
+    "moduleName": "Base.BookFishing2"
+  },
+  {
+    "name": "Fishing Vol. 3",
+    "category": "literature",
+    "moduleName": "Base.BookFishing3"
+  },
+  {
+    "name": "Fishing Vol. 4",
+    "category": "literature",
+    "moduleName": "Base.BookFishing4"
+  },
+  {
+    "name": "Fishing Vol. 5",
+    "category": "literature",
+    "moduleName": "Base.BookFishing5"
+  },
+  {
+    "name": "Foraging Vol. 1",
+    "category": "literature",
+    "moduleName": "Base.BookForaging1"
+  },
+  {
+    "name": "Foraging Vol. 2",
+    "category": "literature",
+    "moduleName": "Base.BookForaging2"
+  },
+  {
+    "name": "Foraging Vol. 3",
+    "category": "literature",
+    "moduleName": "Base.BookForaging3"
+  },
+  {
+    "name": "Foraging Vol. 4",
+    "category": "literature",
+    "moduleName": "Base.BookForaging4"
+  },
+  {
+    "name": "Foraging Vol. 5",
+    "category": "literature",
+    "moduleName": "Base.BookForaging5"
+  },
+  {
+    "name": "Mechanics Vol. 1",
+    "category": "literature",
+    "moduleName": "Base.BookMechanic1"
+  },
+  {
+    "name": "Mechanics Vol. 2",
+    "category": "literature",
+    "moduleName": "Base.BookMechanic2"
+  },
+  {
+    "name": "Mechanics Vol. 3",
+    "category": "literature",
+    "moduleName": "Base.BookMechanic3"
+  },
+  {
+    "name": "Mechanics Vol. 4",
+    "category": "literature",
+    "moduleName": "Base.BookMechanic4"
+  },
+  {
+    "name": "Mechanics Vol. 5",
+    "category": "literature",
+    "moduleName": "Base.BookMechanic5"
+  },
+  {
+    "name": "Metalwork Vol. 1",
+    "category": "literature",
+    "moduleName": "Base.BookMetalWelding1"
+  },
+  {
+    "name": "Metalwork Vol. 2",
+    "category": "literature",
+    "moduleName": "Base.BookMetalWelding2"
+  },
+  {
+    "name": "Metalwork Vol. 3",
+    "category": "literature",
+    "moduleName": "Base.BookMetalWelding3"
+  },
+  {
+    "name": "Metalwork Vol. 4",
+    "category": "literature",
+    "moduleName": "Base.BookMetalWelding4"
+  },
+  {
+    "name": "Metalwork Vol. 5",
+    "category": "literature",
+    "moduleName": "Base.BookMetalWelding5"
+  },
+  {
+    "name": "Tailoring Vol. 1",
+    "category": "literature",
+    "moduleName": "Base.BookTailoring1"
+  },
+  {
+    "name": "Tailoring Vol. 2",
+    "category": "literature",
+    "moduleName": "Base.BookTailoring2"
+  },
+  {
+    "name": "Tailoring Vol. 3",
+    "category": "literature",
+    "moduleName": "Base.BookTailoring3"
+  },
+  {
+    "name": "Tailoring Vol. 4",
+    "category": "literature",
+    "moduleName": "Base.BookTailoring4"
+  },
+  {
+    "name": "Tailoring Vol. 5",
+    "category": "literature",
+    "moduleName": "Base.BookTailoring5"
+  },
+  {
+    "name": "Trapping Vol. 1",
+    "category": "literature",
+    "moduleName": "Base.BookTrapping1"
+  },
+  {
+    "name": "Trapping Vol. 2",
+    "category": "literature",
+    "moduleName": "Base.BookTrapping2"
+  },
+  {
+    "name": "Trapping Vol. 3",
+    "category": "literature",
+    "moduleName": "Base.BookTrapping3"
+  },
+  {
+    "name": "Trapping Vol. 4",
+    "category": "literature",
+    "moduleName": "Base.BookTrapping4"
+  },
+  {
+    "name": "Trapping Vol. 5",
+    "category": "literature",
+    "moduleName": "Base.BookTrapping5"
+  },
+  {
+    "name": "Angler USA Magazine Vol.1",
+    "category": "literature",
+    "moduleName": "Base.FishingMag1"
+  },
+  {
+    "name": "Angler USA Magazine Vol.1",
+    "category": "literature",
+    "moduleName": "Base.FishingMag2"
+  },
+  {
+    "name": "Electronics Magazine Vol.1",
+    "category": "literature",
+    "moduleName": "Base.ElectronicsMag1"
+  },
+  {
+    "name": "Electronics Magazine Vol.2",
+    "category": "literature",
+    "moduleName": "Base.ElectronicsMag2"
+  },
+  {
+    "name": "Electronics Magazine Vol.3",
+    "category": "literature",
+    "moduleName": "Base.ElectronicsMag3"
+  },
+  {
+    "name": "Electronics Magazine Vol.4",
+    "category": "literature",
+    "moduleName": "Base.ElectronicsMag5"
+  },
+  {
+    "name": "Engineer Magazine Vol.1",
+    "category": "literature",
+    "moduleName": "Base.EngineerMagazine1"
+  },
+  {
+    "name": "Engineer Magazine Vol.2",
+    "category": "literature",
+    "moduleName": "Base.EngineerMagazine2"
+  },
+  {
+    "name": "Good Cooking Magazine Vol.1",
+    "category": "literature",
+    "moduleName": "Base.CookingMag1"
+  },
+  {
+    "name": "Good Cooking Magazine Vol.2",
+    "category": "literature",
+    "moduleName": "Base.CookingMag2"
+  },
+  {
+    "name": "Guerilla Radio Vol.1",
+    "category": "literature",
+    "moduleName": "Radio.RadioMag1"
+  },
+  {
+    "name": "Guerilla Radio Vol.2",
+    "category": "literature",
+    "moduleName": "Radio.RadioMag2"
+  },
+  {
+    "name": "Guerilla Radio Vol.3",
+    "category": "literature",
+    "moduleName": "Radio.RadioMag3"
+  },
+  {
+    "name": "How to use Generators",
+    "category": "literature",
+    "moduleName": "Base.ElectronicsMag4"
+  },
+  {
+    "name": "Laines Auto Manual - Standard Models",
+    "category": "literature",
+    "moduleName": "Base.MechanicMag1"
+  },
+  {
+    "name": "Laines Auto Manual - Commercial Models",
+    "category": "literature",
+    "moduleName": "Base.MechanicMag2"
+  },
+  {
+    "name": "Laines Auto Manual - Performance Models",
+    "category": "literature",
+    "moduleName": "Base.MechanicMag3"
+  },
+  {
+    "name": "The Farming Magazine",
+    "category": "literature",
+    "moduleName": "Base.FarmingMag1"
+  },
+  {
+    "name": "The Herbalist",
+    "category": "literature",
+    "moduleName": "Base.HerbalistMag"
+  },
+  {
+    "name": "The Hunter Magazine Vol. 1",
+    "category": "literature",
+    "moduleName": "Base.HuntingMag1"
+  },
+  {
+    "name": "The Hunter Magazine Vol. 2",
+    "category": "literature",
+    "moduleName": "Base.HuntingMag2"
+  },
+  {
+    "name": "The Hunter Magazine Vol. 3",
+    "category": "literature",
+    "moduleName": "Base.HuntingMag3"
+  },
+  {
+    "name": "The Metalwork Magazine Vol.1",
+    "category": "literature",
+    "moduleName": "Base.MetalworkMag1"
+  },
+  {
+    "name": "The Metalwork Magazine Vol.2",
+    "category": "literature",
+    "moduleName": "Base.MetalworkMag2"
+  },
+  {
+    "name": "The Metalwork Magazine Vol.3",
+    "category": "literature",
+    "moduleName": "Base.MetalworkMag3"
+  },
+  {
+    "name": "The Metalwork Magazine Vol.4",
+    "category": "literature",
+    "moduleName": "Base.MetalworkMag4"
+  },
+  {
+    "name": "Canned Carrots",
+    "category": "food",
+    "moduleName": "Base.CannedCarrots"
+  },
+  {
+    "name": "Canned Chili",
+    "category": "food",
+    "moduleName": "Base.CannedChili"
+  },
+  {
+    "name": "Canned Corn",
+    "category": "food",
+    "moduleName": "Base.CannedCorn"
+  },
+  {
+    "name": "Canned Corned Beef",
+    "category": "food",
+    "moduleName": "Base.CannedCornedBeef"
+  },
+  {
+    "name": "Canned Fruit Cocktail",
+    "category": "food",
+    "moduleName": "Base.CannedFruitCocktail"
+  },
+  {
+    "name": "Canned Mushroom Soup",
+    "category": "food",
+    "moduleName": "Base.CannedMushroomSoup"
+  },
+  {
+    "name": "Canned Peaches",
+    "category": "food",
+    "moduleName": "Base.CannedPeaches"
+  },
+  {
+    "name": "Canned Peas",
+    "category": "food",
+    "moduleName": "Base.CannedPeas"
+  },
+  {
+    "name": "Canned Pineapple",
+    "category": "food",
+    "moduleName": "Base.CannedPineapple"
+  },
+  {
+    "name": "Canned Potato",
+    "category": "food",
+    "moduleName": "Base.CannedPotato2"
+  },
+  {
+    "name": "Canned Sardines",
+    "category": "food",
+    "moduleName": "Base.CannedSardines"
+  },
+  {
+    "name": "Canned Soup",
+    "category": "food",
+    "moduleName": "Base.TinnedSoup"
+  },
+  {
+    "name": "Canned Spaghetti Bolognese",
+    "category": "food",
+    "moduleName": "Base.CannedBolognese"
+  },
+  {
+    "name": "Canned Tomato",
+    "category": "food",
+    "moduleName": "Base.CannedTomato2"
+  },
+  {
+    "name": "Canned Tuna",
+    "category": "food",
+    "moduleName": "Base.TunaTin"
+  },
+  {
+    "name": "Dog Food",
+    "category": "food",
+    "moduleName": "Base.Dogfood"
+  },
+  {
+    "name": "Jar of Broccoli",
+    "category": "food",
+    "moduleName": "Base.CannedBroccoli"
+  },
+  {
+    "name": "Jar of Cabbage",
+    "category": "food",
+    "moduleName": "Base.CannedCabbage"
+  },
+  {
+    "name": "Jar of Carrots",
+    "category": "food",
+    "moduleName": "Base.CannedCarrots"
+  },
+  {
+    "name": "Jar of Eggplants",
+    "category": "food",
+    "moduleName": "Base.CannedEggplant"
+  },
+  {
+    "name": "Jar of Leeks",
+    "category": "food",
+    "moduleName": "Base.CannedLeek"
+  },
+  {
+    "name": "Jar of Potatoes",
+    "category": "food",
+    "moduleName": "Base.CannedPotato"
+  },
+  {
+    "name": "Jar of Radishes",
+    "category": "food",
+    "moduleName": "Base.CannedRedRadish"
+  },
+  {
+    "name": "Jar of Tomatoes",
+    "category": "food",
+    "moduleName": "Base.CannedTomato"
+  },
+  {
+    "name": "Bowl of Beans",
+    "category": "food",
+    "moduleName": "Base.BeanBowl"
+  },
+  {
+    "name": "Bowl of Cereal",
+    "category": "food",
+    "moduleName": "Base.CerealBowl"
+  },
+  {
+    "name": "Bowl of Oatmeal",
+    "category": "food",
+    "moduleName": "Base.Oatmeal"
+  },
+  {
+    "name": "Bowl of Pasta",
+    "category": "food",
+    "moduleName": "Base.PastaBowl"
+  },
+  {
+    "name": "Bowl of Rice",
+    "category": "food",
+    "moduleName": "Base.RiceBowl"
+  },
+  {
+    "name": "Bowl of Soup",
+    "category": "food",
+    "moduleName": "Base.SoupBowl"
+  },
+  {
+    "name": "Bowl of Stew",
+    "category": "food",
+    "moduleName": "Base.StewBowl"
+  },
+  {
+    "name": "Bread Dough",
+    "category": "food",
+    "moduleName": "Base.BreadDough"
+  },
+  {
+    "name": "Cake Batter",
+    "category": "food",
+    "moduleName": "Base.CakeBatter"
+  },
+  {
+    "name": "Cake Preparation",
+    "category": "food",
+    "moduleName": "Base.CakePrep"
+  },
+  {
+    "name": "Cake Slice",
+    "category": "food",
+    "moduleName": "Base.CakeSlice"
+  },
+  {
+    "name": "Fish Sushi",
+    "category": "food",
+    "moduleName": "Base.SushiFish"
+  },
+  {
+    "name": "Fried Onion Rings",
+    "category": "food",
+    "moduleName": "Base.FriedOnionRingsCraft"
+  },
+  {
+    "name": "Fried Shrimp",
+    "category": "food",
+    "moduleName": "Base.ShrimpFriedCraft"
+  },
+  {
+    "name": "Gravy",
+    "category": "food",
+    "moduleName": "Base.Gravy"
+  },
+  {
+    "name": "Jack-o'-lantern",
+    "category": "food",
+    "moduleName": "Base.HalloweenPumpkin"
+  },
+  {
+    "name": "Maki",
+    "category": "food",
+    "moduleName": "Base.Maki"
+  },
+  {
+    "name": "Muffin",
+    "category": "food",
+    "moduleName": "Base.MuffinGeneric"
+  },
+  {
+    "name": "Muffin Baking Tray",
+    "category": "food",
+    "moduleName": "Base.BakingTray_Muffin"
+  },
+  {
+    "name": "Noodle Soup",
+    "category": "food",
+    "moduleName": "Base.NoodleSoup"
+  },
+  {
+    "name": "Pie Dough",
+    "category": "food",
+    "moduleName": "Base.PieDough"
+  },
+  {
+    "name": "Pie Preparation",
+    "category": "food",
+    "moduleName": "Base.PiePrep"
+  },
+  {
+    "name": "Pie Slice",
+    "category": "food",
+    "moduleName": "Base.Pie"
+  },
+  {
+    "name": "Poached Egg",
+    "category": "food",
+    "moduleName": "Base.EggPoached"
+  },
+  {
+    "name": "Pot of Soup",
+    "category": "food",
+    "moduleName": "Base.PotOfSoup"
+  },
+  {
+    "name": "Scrambled Eggs",
+    "category": "food",
+    "moduleName": "Base.EggScrambled"
+  },
+  {
+    "name": "Burrito",
+    "category": "food",
+    "moduleName": "Base.BurritoRecipe"
+  },
+  {
+    "name": "Cake",
+    "category": "food",
+    "moduleName": "Base.CakeRaw"
+  },
+  {
+    "name": "Hot Drink",
+    "category": "food",
+    "moduleName": "Base.HotDrink"
+  },
+  {
+    "name": "Hot Drink",
+    "category": "food",
+    "moduleName": "Base.HotDrinkRed"
+  },
+  {
+    "name": "Hot Drink",
+    "category": "food",
+    "moduleName": "Base.HotDrinkWhite"
+  },
+  {
+    "name": "Hot Drink",
+    "category": "food",
+    "moduleName": "Base.HotDrinkSpiffo"
+  },
+  {
+    "name": "Muffin Baking Tray",
+    "category": "food",
+    "moduleName": "Base.BakingTray_Muffin_Recipe"
+  },
+  {
+    "name": "Omelette",
+    "category": "food",
+    "moduleName": "Base.EggOmelette"
+  },
+  {
+    "name": "Pancakes",
+    "category": "food",
+    "moduleName": "Base.PancakesCraft"
+  },
+  {
+    "name": "Pasta (Cooking Pot)",
+    "category": "food",
+    "moduleName": "Base.PastaPot"
+  },
+  {
+    "name": "Pasta (Saucepan)",
+    "category": "food",
+    "moduleName": "Base.PastaPan"
+  },
+  {
+    "name": "Pie",
+    "category": "food",
+    "moduleName": "Base.PieWholeRaw"
+  },
+  {
+    "name": "Rice (Cooking Pot)",
+    "category": "food",
+    "moduleName": "Base.RicePot"
+  },
+  {
+    "name": "Rice (Saucepan)",
+    "category": "food",
+    "moduleName": "Base.RicePan"
+  },
+  {
+    "name": "Roasted Vegetables",
+    "category": "food",
+    "moduleName": "Base.PanFriedVegetables2"
+  },
+  {
+    "name": "Salad",
+    "category": "food",
+    "moduleName": "farming.Salad"
+  },
+  {
+    "name": "Salad (Fruit)",
+    "category": "food",
+    "moduleName": "Base.FruitSalad"
+  },
+  {
+    "name": "Sandwich (Bread)",
+    "category": "food",
+    "moduleName": "Base.Sandwich"
+  },
+  {
+    "name": "Sandwich (Baguette)",
+    "category": "food",
+    "moduleName": "Base.BaguetteSandwich"
+  },
+  {
+    "name": "Soup",
+    "category": "food",
+    "moduleName": "Base.PotOfSoupRecipe"
+  },
+  {
+    "name": "Stew",
+    "category": "food",
+    "moduleName": "Base.PotOfStew"
+  },
+  {
+    "name": "Stir Fry (Frying Pan)",
+    "category": "food",
+    "moduleName": "Base.PanFriedVegetables"
+  },
+  {
+    "name": "Stir Fry (Griddle Pan)",
+    "category": "food",
+    "moduleName": "Base.GriddlePanFriedVegetables"
+  },
+  {
+    "name": "Taco",
+    "category": "food",
+    "moduleName": "Base.Taco"
+  },
+  {
+    "name": "Waffles",
+    "category": "food",
+    "moduleName": "Base.WafflesRecipe"
+  },
+  {
+    "name": "Hot Sauce",
+    "category": "food",
+    "moduleName": "Base.Hotsauce"
+  },
+  {
+    "name": "Ketchup",
+    "category": "food",
+    "moduleName": "Base.Ketchup"
+  },
+  {
+    "name": "Maple Syrup",
+    "category": "food",
+    "moduleName": "Base.MapleSyrup"
+  },
+  {
+    "name": "Marinara",
+    "category": "food",
+    "moduleName": "Base.Marinara"
+  },
+  {
+    "name": "Mayonnaise",
+    "category": "food",
+    "moduleName": "farming.MayonnaiseFull"
+  },
+  {
+    "name": "Mustard",
+    "category": "food",
+    "moduleName": "Base.Mustard"
+  },
+  {
+    "name": "Olive Oil",
+    "category": "food",
+    "moduleName": "Base.OilOlive"
+  },
+  {
+    "name": "Pepper",
+    "category": "food",
+    "moduleName": "Base.Pepper"
+  },
+  {
+    "name": "Rice Vinegar",
+    "category": "food",
+    "moduleName": "Base.RiceVinegar"
+  },
+  {
+    "name": "Salt",
+    "category": "food",
+    "moduleName": "Base.Salt"
+  },
+  {
+    "name": "Soy sauce",
+    "category": "food",
+    "moduleName": "Base.Soysauce"
+  },
+  {
+    "name": "Sugar",
+    "category": "food",
+    "moduleName": "Base.Sugar"
+  },
+  {
+    "name": "Vegetable Oil",
+    "category": "food",
+    "moduleName": "Base.OilVegetable"
+  },
+  {
+    "name": "Wasabi",
+    "category": "food",
+    "moduleName": "Base.Wasabi"
+  },
+  {
+    "name": "Beer Can",
+    "category": "food",
+    "moduleName": "Base.BeerCan"
+  },
+  {
+    "name": "Bleach",
+    "category": "food",
+    "moduleName": "Base.Bleach"
+  },
+  {
+    "name": "Bourbon",
+    "category": "food",
+    "moduleName": "Base.WhiskeyFull"
+  },
+  {
+    "name": "Juice Box",
+    "category": "food",
+    "moduleName": "Base.JuiceBox"
+  },
+  {
+    "name": "Milk",
+    "category": "food",
+    "moduleName": "Base.Milk"
+  },
+  {
+    "name": "Orange Soda",
+    "category": "food",
+    "moduleName": "Base.PopBottle"
+  },
+  {
+    "name": "Pop",
+    "category": "food",
+    "moduleName": "Base.Pop2"
+  },
+  {
+    "name": "Pop",
+    "category": "food",
+    "moduleName": "Base.Pop"
+  },
+  {
+    "name": "Pop",
+    "category": "food",
+    "moduleName": "Base.Pop3"
+  },
+  {
+    "name": "Red Wine",
+    "category": "food",
+    "moduleName": "Base.Wine2"
+  },
+  {
+    "name": "White Wine",
+    "category": "food",
+    "moduleName": "Base.Wine"
+  },
+  {
+    "name": "Bowl of Water",
+    "category": "food",
+    "moduleName": "Base.WaterBowl"
+  },
+  {
+    "name": "Bucket of Water",
+    "category": "food",
+    "moduleName": "Base.BucketWaterFull"
+  },
+  {
+    "name": "Cooking Pot with Water",
+    "category": "food",
+    "moduleName": "Base.WaterPot"
+  },
+  {
+    "name": "Gardening Spray Can (Full)",
+    "category": "food",
+    "moduleName": "farming.GardeningSprayFull"
+  },
+  {
+    "name": "Kettle of Water",
+    "category": "food",
+    "moduleName": "Base.FullKettle"
+  },
+  {
+    "name": "Mug of Water",
+    "category": "food",
+    "moduleName": "Base.WaterMug"
+  },
+  {
+    "name": "Saucepan with Water",
+    "category": "food",
+    "moduleName": "Base.WaterSaucepan"
+  },
+  {
+    "name": "Teacup of Water",
+    "category": "food",
+    "moduleName": "Base.WaterTeacup"
+  },
+  {
+    "name": "Water Bottle",
+    "category": "food",
+    "moduleName": "Base.WaterBottleFull"
+  },
+  {
+    "name": "Water Bottle (Beer)",
+    "category": "food",
+    "moduleName": "Base.BeerBottle"
+  },
+  {
+    "name": "Water Bottle (Bourbon)",
+    "category": "food",
+    "moduleName": "Base.WhiskeyWaterFull"
+  },
+  {
+    "name": "Water Bottle (Mayonnaise)",
+    "category": "food",
+    "moduleName": "farming.MayonnaiseWaterFull"
+  },
+  {
+    "name": "Water Bottle (Orange Soda)",
+    "category": "food",
+    "moduleName": "Base.WaterPopBottle"
+  },
+  {
+    "name": "Water Bottle (Remoulade)",
+    "category": "food",
+    "moduleName": "farming.RemouladeWaterFull"
+  },
+  {
+    "name": "Water Bottle (White Wine)",
+    "category": "food",
+    "moduleName": "Base.WineWaterFull"
+  },
+  {
+    "name": "Watering Can (Full)",
+    "category": "food",
+    "moduleName": "farming.WateredCanFull"
+  },
+  {
+    "name": "Bacon Bits",
+    "category": "food",
+    "moduleName": "farming.BaconBits"
+  },
+  {
+    "name": "Bacon Rashers",
+    "category": "food",
+    "moduleName": "farming.BaconRashers"
+  },
+  {
+    "name": "Baloney",
+    "category": "food",
+    "moduleName": "Base.Baloney"
+  },
+  {
+    "name": "Baloney Slices",
+    "category": "food",
+    "moduleName": "Base.BaloneySlice"
+  },
+  {
+    "name": "Beef Jerky",
+    "category": "food",
+    "moduleName": "Base.BeefJerky"
+  },
+  {
+    "name": "Chicken",
+    "category": "food",
+    "moduleName": "Base.Chicken"
+  },
+  {
+    "name": "Chicken Foot",
+    "category": "food",
+    "moduleName": "Base.ChickenFoot"
+  },
+  {
+    "name": "Dehydrated Meat Stick",
+    "category": "food",
+    "moduleName": "Base.DehydratedMeatStick"
+  },
+  {
+    "name": "Egg",
+    "category": "food",
+    "moduleName": "Base.Egg"
+  },
+  {
+    "name": "Egg Carton",
+    "category": "food",
+    "moduleName": "Base.EggCarton"
+  },
+  {
+    "name": "Frog Meat",
+    "category": "food",
+    "moduleName": "Base.FrogMeat"
+  },
+  {
+    "name": "Ham",
+    "category": "food",
+    "moduleName": "Base.Ham"
+  },
+  {
+    "name": "Ham Slices",
+    "category": "food",
+    "moduleName": "Base.HamSlice"
+  },
+  {
+    "name": "Meat Patty",
+    "category": "food",
+    "moduleName": "Base.MeatPatty"
+  },
+  {
+    "name": "Minced Meat",
+    "category": "food",
+    "moduleName": "Base.MincedMeat"
+  },
+  {
+    "name": "Mutton Chop",
+    "category": "food",
+    "moduleName": "Base.MuttonChop"
+  },
+  {
+    "name": "Pepperoni",
+    "category": "food",
+    "moduleName": "Base.Pepperoni"
+  },
+  {
+    "name": "Pork Chop",
+    "category": "food",
+    "moduleName": "Base.PorkChop"
+  },
+  {
+    "name": "Salami",
+    "category": "food",
+    "moduleName": "Base.Salami"
+  },
+  {
+    "name": "Salami Slices",
+    "category": "food",
+    "moduleName": "Base.SalamiSlice"
+  },
+  {
+    "name": "Sausage",
+    "category": "food",
+    "moduleName": "Base.Sausage"
+  },
+  {
+    "name": "Steak",
+    "category": "food",
+    "moduleName": "Base.Steak"
+  },
+  {
+    "name": "Tofu",
+    "category": "food",
+    "moduleName": "Base.Tofu"
+  },
+  {
+    "name": "Dead Mouse",
+    "category": "food",
+    "moduleName": "Base.DeadMouse"
+  },
+  {
+    "name": "Dead Rabbit",
+    "category": "food",
+    "moduleName": "Base.DeadRabbit"
+  },
+  {
+    "name": "Dead Rat",
+    "category": "food",
+    "moduleName": "Base.DeadRat"
+  },
+  {
+    "name": "Dead Squirrel",
+    "category": "food",
+    "moduleName": "Base.DeadSquirrel"
+  },
+  {
+    "name": "Rabbit Meat",
+    "category": "food",
+    "moduleName": "Base.Rabbitmeat"
+  },
+  {
+    "name": "Rodent Meat",
+    "category": "food",
+    "moduleName": "Base.Smallanimalmeat"
+  },
+  {
+    "name": "Small Bird Meat",
+    "category": "food",
+    "moduleName": "Base.Smallbirdmeat"
+  },
+  {
+    "name": "Catfish",
+    "category": "food",
+    "moduleName": "Base.Catfish"
+  },
+  {
+    "name": "Crappie",
+    "category": "food",
+    "moduleName": "Base.Crappie"
+  },
+  {
+    "name": "Crayfish",
+    "category": "food",
+    "moduleName": "Base.Crayfish"
+  },
+  {
+    "name": "Fish Fillet",
+    "category": "food",
+    "moduleName": "Base.FishFillet"
+  },
+  {
+    "name": "Fish Roe",
+    "category": "food",
+    "moduleName": "Base.FishRoe"
+  },
+  {
+    "name": "Little Bait Fish",
+    "category": "food",
+    "moduleName": "Base.BaitFish"
+  },
+  {
+    "name": "Lobster",
+    "category": "food",
+    "moduleName": "Base.Lobster"
+  },
+  {
+    "name": "Oysters",
+    "category": "food",
+    "moduleName": "Base.Oysters"
+  },
+  {
+    "name": "Perch",
+    "category": "food",
+    "moduleName": "Base.Perch"
+  },
+  {
+    "name": "Pike",
+    "category": "food",
+    "moduleName": "Base.Pike"
+  },
+  {
+    "name": "Salmon",
+    "category": "food",
+    "moduleName": "Base.Salmon"
+  },
+  {
+    "name": "Shrimp",
+    "category": "food",
+    "moduleName": "Base.Shrimp"
+  },
+  {
+    "name": "Squid",
+    "category": "food",
+    "moduleName": "Base.Squid"
+  },
+  {
+    "name": "Squid Calamari",
+    "category": "food",
+    "moduleName": "Base.SquidCalamari"
+  },
+  {
+    "name": "Sunfish",
+    "category": "food",
+    "moduleName": "Base.Panfish"
+  },
+  {
+    "name": "Trout",
+    "category": "food",
+    "moduleName": "Base.Trout"
+  },
+  {
+    "name": "American Lady Caterpillar}",
+    "category": "food",
+    "moduleName": "Base.AmericanLadyCaterpillar"
+  },
+  {
+    "name": "Banded Wooly Bear Caterpillar}",
+    "category": "food",
+    "moduleName": "Base.BandedWoolyBearCaterpillar"
+  },
+  {
+    "name": "Black Sage",
+    "category": "food",
+    "moduleName": "Base.BlackSage"
+  },
+  {
+    "name": "Centipede}",
+    "category": "food",
+    "moduleName": "Base.Centipede Base.Centipede2"
+  },
+  {
+    "name": "Cockroach",
+    "category": "food",
+    "moduleName": "Base.Cockroach"
+  },
+  {
+    "name": "Common Mallow",
+    "category": "food",
+    "moduleName": "Base.CommonMallow"
+  },
+  {
+    "name": "Cricket",
+    "category": "food",
+    "moduleName": "Base.Cricket"
+  },
+  {
+    "name": "Dandelions",
+    "category": "food",
+    "moduleName": "Base.Dandelion"
+  },
+  {
+    "name": "Ginger Root",
+    "category": "food",
+    "moduleName": "Base.GingerRoot"
+  },
+  {
+    "name": "Ginseng",
+    "category": "food",
+    "moduleName": "Base.Ginseng"
+  },
+  {
+    "name": "Grape Leaves",
+    "category": "food",
+    "moduleName": "Base.GrapeLeaves"
+  },
+  {
+    "name": "Grasshopper",
+    "category": "food",
+    "moduleName": "Base.Grasshopper"
+  },
+  {
+    "name": "Lemon Grass",
+    "category": "food",
+    "moduleName": "Base.LemonGrass"
+  },
+  {
+    "name": "Millipede}",
+    "category": "food",
+    "moduleName": "Base.Millipede Base.Millipede2"
+  },
+  {
+    "name": "Monarch Caterpillar}",
+    "category": "food",
+    "moduleName": "Base. MonarchCaterpillar"
+  },
+  {
+    "name": "Nettles}",
+    "category": "food",
+    "moduleName": "Base.Nettles"
+  },
+  {
+    "name": "Pillbug",
+    "category": "food",
+    "moduleName": "Base.Pillbug"
+  },
+  {
+    "name": "Rose Hips",
+    "category": "food",
+    "moduleName": "Base.Rosehips"
+  },
+  {
+    "name": "Slug",
+    "category": "food",
+    "moduleName": "Base.Slug Base.Slug2"
+  },
+  {
+    "name": "Silk Moth Caterpillar}",
+    "category": "food",
+    "moduleName": "Base.SilkMothCaterpillar"
+  },
+  {
+    "name": "Snail",
+    "category": "food",
+    "moduleName": "Base.Snail"
+  },
+  {
+    "name": "Termite}",
+    "category": "food",
+    "moduleName": "Base.Termites"
+  },
+  {
+    "name": "Swallowtail Caterpillar}",
+    "category": "food",
+    "moduleName": "Base.SwallowtailCaterpillar"
+  },
+  {
+    "name": "Thistles}",
+    "category": "food",
+    "moduleName": "Base.Thistle"
+  },
+  {
+    "name": "Violets",
+    "category": "food",
+    "moduleName": "Base.Violets"
+  },
+  {
+    "name": "Wild Eggs",
+    "category": "food",
+    "moduleName": "Base.WildEggs"
+  },
+  {
+    "name": "Worm",
+    "category": "food",
+    "moduleName": "Base.Worm"
+  },
+  {
+    "name": "Banana",
+    "category": "food",
+    "moduleName": "Base.Banana"
+  },
+  {
+    "name": "Black Berry",
+    "category": "food",
+    "moduleName": "Base.BerryBlack"
+  },
+  {
+    "name": "Blue Berry",
+    "category": "food",
+    "moduleName": "Base.BerryBlue"
+  },
+  {
+    "name": "Berry",
+    "category": "food",
+    "moduleName": "Base.BerryGeneric1"
+  },
+  {
+    "name": "Berry",
+    "category": "food",
+    "moduleName": "Base.BerryGeneric2"
+  },
+  {
+    "name": "Berry",
+    "category": "food",
+    "moduleName": "Base.BerryGeneric3"
+  },
+  {
+    "name": "Berry",
+    "category": "food",
+    "moduleName": "Base.BerryGeneric4"
+  },
+  {
+    "name": "Berry",
+    "category": "food",
+    "moduleName": "Base.BerryGeneric5"
+  },
+  {
+    "name": "Berry",
+    "category": "food",
+    "moduleName": "Base.BerryPoisonIvy"
+  },
+  {
+    "name": "Beauty Berry",
+    "category": "food",
+    "moduleName": "Base.BeautyBerry"
+  },
+  {
+    "name": "Winter Berry",
+    "category": "food",
+    "moduleName": "Base.WinterBerry"
+  },
+  {
+    "name": "Berry",
+    "category": "food",
+    "moduleName": "Base.HollyBerry"
+  },
+  {
+    "name": "Cherry",
+    "category": "food",
+    "moduleName": "Base.Cherry"
+  },
+  {
+    "name": "Grapefruit",
+    "category": "food",
+    "moduleName": "Base.Grapefruit"
+  },
+  {
+    "name": "Grapes",
+    "category": "food",
+    "moduleName": "Base.Grapes"
+  },
+  {
+    "name": "Lemon",
+    "category": "food",
+    "moduleName": "Base.Lemon"
+  },
+  {
+    "name": "Lime",
+    "category": "food",
+    "moduleName": "Base.Lime"
+  },
+  {
+    "name": "Mango",
+    "category": "food",
+    "moduleName": "Base.Mango"
+  },
+  {
+    "name": "Orange",
+    "category": "food",
+    "moduleName": "Base.Orange"
+  },
+  {
+    "name": "Peach",
+    "category": "food",
+    "moduleName": "Base.Peach"
+  },
+  {
+    "name": "Pear",
+    "category": "food",
+    "moduleName": "Base.Pear"
+  },
+  {
+    "name": "Pineapple",
+    "category": "food",
+    "moduleName": "Base.Pineapple"
+  },
+  {
+    "name": "Strawberries",
+    "category": "food",
+    "moduleName": "farming.Strewberrie"
+  },
+  {
+    "name": "Watermelon",
+    "category": "food",
+    "moduleName": "Base.Watermelon"
+  },
+  {
+    "name": "Watermelon Chunks",
+    "category": "food",
+    "moduleName": "Base.WatermelonSmashed"
+  },
+  {
+    "name": "Watermelon Slice",
+    "category": "food",
+    "moduleName": "Base.WatermelonSliced"
+  },
+  {
+    "name": "Baguette",
+    "category": "food",
+    "moduleName": "Base.Baguette"
+  },
+  {
+    "name": "Bread",
+    "category": "food",
+    "moduleName": "Base.Bread"
+  },
+  {
+    "name": "Bread Slices",
+    "category": "food",
+    "moduleName": "Base.BreadSlices"
+  },
+  {
+    "name": "Can of Oats",
+    "category": "food",
+    "moduleName": "Base.OatsRaw"
+  },
+  {
+    "name": "Cereal",
+    "category": "food",
+    "moduleName": "Base.Cereal"
+  },
+  {
+    "name": "Chips",
+    "category": "food",
+    "moduleName": "Base.Crisps"
+  },
+  {
+    "name": "Chips",
+    "category": "food",
+    "moduleName": "Base.Crisps2"
+  },
+  {
+    "name": "Chips",
+    "category": "food",
+    "moduleName": "Base.Crisps3"
+  },
+  {
+    "name": "Chips",
+    "category": "food",
+    "moduleName": "Base.Crisps4"
+  },
+  {
+    "name": "Chocolate",
+    "category": "food",
+    "moduleName": "Base.Chocolate"
+  },
+  {
+    "name": "Cornbread",
+    "category": "food",
+    "moduleName": "Base.Cornbread"
+  },
+  {
+    "name": "Crackers",
+    "category": "food",
+    "moduleName": "Base.Crackers"
+  },
+  {
+    "name": "Croissant",
+    "category": "food",
+    "moduleName": "Base.Croissant"
+  },
+  {
+    "name": "Dry Ramen Noodles",
+    "category": "food",
+    "moduleName": "Base.Ramen"
+  },
+  {
+    "name": "Flour",
+    "category": "food",
+    "moduleName": "Base.Flour"
+  },
+  {
+    "name": "Graham Crackers",
+    "category": "food",
+    "moduleName": "Base.GrahamCrackers"
+  },
+  {
+    "name": "Granola Bar",
+    "category": "food",
+    "moduleName": "Base.GranolaBar"
+  },
+  {
+    "name": "Instant Popcorn",
+    "category": "food",
+    "moduleName": "Base.Popcorn"
+  },
+  {
+    "name": "Pasta",
+    "category": "food",
+    "moduleName": "Base.Pasta"
+  },
+  {
+    "name": "Poppy Bagel",
+    "category": "food",
+    "moduleName": "Base.BagelPoppy"
+  },
+  {
+    "name": "Rice",
+    "category": "food",
+    "moduleName": "Base.Rice"
+  },
+  {
+    "name": "Rice Paper",
+    "category": "food",
+    "moduleName": "Base.RicePaper"
+  },
+  {
+    "name": "Bagel",
+    "category": "food",
+    "moduleName": "Base.BagelSesame"
+  },
+  {
+    "name": "Taco Shell",
+    "category": "food",
+    "moduleName": "Base.TacoShell"
+  },
+  {
+    "name": "Tortilla",
+    "category": "food",
+    "moduleName": "Base.Tortilla"
+  },
+  {
+    "name": "Tortilla Chips",
+    "category": "food",
+    "moduleName": "Base.TortillaChips"
+  },
+  {
+    "name": "Black Forest Cake Slice",
+    "category": "food",
+    "moduleName": "Base.CakeBlackForest"
+  },
+  {
+    "name": "Black Licorice",
+    "category": "food",
+    "moduleName": "Base.LicoriceBlack"
+  },
+  {
+    "name": "Cake Slice",
+    "category": "food",
+    "moduleName": "Base.CakeSlice"
+  },
+  {
+    "name": "Candy Cane",
+    "category": "food",
+    "moduleName": "Base.Candycane"
+  },
+  {
+    "name": "Candy Package",
+    "category": "food",
+    "moduleName": "Base.CandyPackage"
+  },
+  {
+    "name": "Carrot Cake Slice",
+    "category": "food",
+    "moduleName": "Base.CakeCarrot"
+  },
+  {
+    "name": "Cheese Cake Slice",
+    "category": "food",
+    "moduleName": "Base.CakeCheesecake"
+  },
+  {
+    "name": "Chocolate Bread",
+    "category": "food",
+    "moduleName": "Base.Painauchocolat"
+  },
+  {
+    "name": "Choco Cakes",
+    "category": "food",
+    "moduleName": "Base.Chococakes"
+  },
+  {
+    "name": "Chocolate Cake Slice",
+    "category": "food",
+    "moduleName": "Base.CakeChocolate"
+  },
+  {
+    "name": "Chocolate Chips",
+    "category": "food",
+    "moduleName": "Base.ChocolateChips"
+  },
+  {
+    "name": "Chocolate Cookie",
+    "category": "food",
+    "moduleName": "Base.CookiesChocolate"
+  },
+  {
+    "name": "Chocolate Doughnut",
+    "category": "food",
+    "moduleName": "Base.DoughnutChocolate"
+  },
+  {
+    "name": "Cinnamon Roll",
+    "category": "food",
+    "moduleName": "Base.CinnamonRoll"
+  },
+  {
+    "name": "Cookie",
+    "category": "food",
+    "moduleName": "Base.CookieChocolateChip"
+  },
+  {
+    "name": "Cupcake",
+    "category": "food",
+    "moduleName": "Base.Cupcake"
+  },
+  {
+    "name": "Doughnut",
+    "category": "food",
+    "moduleName": "Base.DoughnutPlain"
+  },
+  {
+    "name": "Frosted Doughnut",
+    "category": "food",
+    "moduleName": "Base.DoughnutFrosted"
+  },
+  {
+    "name": "Fruit Muffin",
+    "category": "food",
+    "moduleName": "Base.MuffinFruit"
+  },
+  {
+    "name": "Hi His",
+    "category": "food",
+    "moduleName": "Base.HiHis"
+  },
+  {
+    "name": "Ice Cream Cone",
+    "category": "food",
+    "moduleName": "Base.Icecream"
+  },
+  {
+    "name": "Ice Cream Cone",
+    "category": "food",
+    "moduleName": "Base.ConeIcecream"
+  },
+  {
+    "name": "Icing",
+    "category": "food",
+    "moduleName": "Base.Icing"
+  },
+  {
+    "name": "Jelly Doughnut",
+    "category": "food",
+    "moduleName": "Base.DoughnutJelly"
+  },
+  {
+    "name": "Lollipop",
+    "category": "food",
+    "moduleName": "Base.Lollipop"
+  },
+  {
+    "name": "Marshmallows",
+    "category": "food",
+    "moduleName": "Base.Marshmallows"
+  },
+  {
+    "name": "Mint Candy",
+    "category": "food",
+    "moduleName": "Base.MintCandy"
+  },
+  {
+    "name": "Modjeska",
+    "category": "food",
+    "moduleName": "Base.Modjeska"
+  },
+  {
+    "name": "Oatmeal Cookie",
+    "category": "food",
+    "moduleName": "Base.CookiesOatmeal"
+  },
+  {
+    "name": "Peppermint",
+    "category": "food",
+    "moduleName": "Base.Peppermint"
+  },
+  {
+    "name": "Plonkies",
+    "category": "food",
+    "moduleName": "Base.Snackcakes_Plonkies"
+  },
+  {
+    "name": "Pumpkin Pie Slice",
+    "category": "food",
+    "moduleName": "Base.PiePumpkin"
+  },
+  {
+    "name": "Quagga Cakes",
+    "category": "food",
+    "moduleName": "Base.QuaggaCakes"
+  },
+  {
+    "name": "Raspberry Shortbread",
+    "category": "food",
+    "moduleName": "Base.CookieJelly"
+  },
+  {
+    "name": "Red Licorice",
+    "category": "food",
+    "moduleName": "Base.LicoriceRed"
+  },
+  {
+    "name": "Red Velvet Cake Slice",
+    "category": "food",
+    "moduleName": "Base.CakeRedVelvet"
+  },
+  {
+    "name": "Shortbread Cookie",
+    "category": "food",
+    "moduleName": "Base.CookiesShortbread"
+  },
+  {
+    "name": "Smore",
+    "category": "food",
+    "moduleName": "Base.Smore"
+  },
+  {
+    "name": "Sno Globes",
+    "category": "food",
+    "moduleName": "Base.SnoSpheres"
+  },
+  {
+    "name": "Strawberry Cake Slice",
+    "category": "food",
+    "moduleName": "Base.CakeStrawberryShortcake"
+  },
+  {
+    "name": "Butter",
+    "category": "food",
+    "moduleName": "Base.Butter"
+  },
+  {
+    "name": "Burger",
+    "category": "food",
+    "moduleName": "Base.Burger"
+  },
+  {
+    "name": "Cheese",
+    "category": "food",
+    "moduleName": "Base.Cheese"
+  },
+  {
+    "name": "Cheese Sandwich",
+    "category": "food",
+    "moduleName": "Base.CheeseSandwich"
+  },
+  {
+    "name": "Chicken Nuggets",
+    "category": "food",
+    "moduleName": "Base.ChickenNuggets"
+  },
+  {
+    "name": "Cocoa Powder",
+    "category": "food",
+    "moduleName": "Base.CocoaPowder"
+  },
+  {
+    "name": "Coffee",
+    "category": "food",
+    "moduleName": "Base.Coffee2"
+  },
+  {
+    "name": "Cone",
+    "category": "food",
+    "moduleName": "Base.Cone"
+  },
+  {
+    "name": "Corndog",
+    "category": "food",
+    "moduleName": "Base.Corndog"
+  },
+  {
+    "name": "Egg Sushi",
+    "category": "food",
+    "moduleName": "Base.SushiEgg"
+  },
+  {
+    "name": "Fried Chicken",
+    "category": "food",
+    "moduleName": "Base.ChickenFried"
+  },
+  {
+    "name": "Fried Fish",
+    "category": "food",
+    "moduleName": "Base.FishFried"
+  },
+  {
+    "name": "Fried Oysters",
+    "category": "food",
+    "moduleName": "Base.OystersFried"
+  },
+  {
+    "name": "Fried Tofu",
+    "category": "food",
+    "moduleName": "Base.TofuFried"
+  },
+  {
+    "name": "Fries",
+    "category": "food",
+    "moduleName": "Base.Fries"
+  },
+  {
+    "name": "Fruit Jam",
+    "category": "food",
+    "moduleName": "Base.JamFruit"
+  },
+  {
+    "name": "Gravy Mix",
+    "category": "food",
+    "moduleName": "Base.GravyMix"
+  },
+  {
+    "name": "Guacamole",
+    "category": "food",
+    "moduleName": "Base.Guacamole"
+  },
+  {
+    "name": "Gum",
+    "category": "food",
+    "moduleName": "Base.Gum"
+  },
+  {
+    "name": "Honey",
+    "category": "food",
+    "moduleName": "Base.Honey"
+  },
+  {
+    "name": "Hotdog",
+    "category": "food",
+    "moduleName": "Base.Hotdog"
+  },
+  {
+    "name": "Mac and Cheese",
+    "category": "food",
+    "moduleName": "Base.Macandcheese"
+  },
+  {
+    "name": "Marmalade",
+    "category": "food",
+    "moduleName": "Base.JamMarmalade"
+  },
+  {
+    "name": "Meat Dumpling",
+    "category": "food",
+    "moduleName": "Base.MeatDumpling"
+  },
+  {
+    "name": "Meat Steam Bun",
+    "category": "food",
+    "moduleName": "Base.MeatSteamBun"
+  },
+  {
+    "name": "Onigiri",
+    "category": "food",
+    "moduleName": "Base.Onigiri"
+  },
+  {
+    "name": "Pancake Mix",
+    "category": "food",
+    "moduleName": "Base.PancakeMix"
+  },
+  {
+    "name": "Pancakes",
+    "category": "food",
+    "moduleName": "Base.Pancakes"
+  },
+  {
+    "name": "Peanut Butter",
+    "category": "food",
+    "moduleName": "Base.PeanutButter"
+  },
+  {
+    "name": "Peanut Butter Sandwich",
+    "category": "food",
+    "moduleName": "Base.PeanutButterSandwich"
+  },
+  {
+    "name": "Peanuts",
+    "category": "food",
+    "moduleName": "Base.Peanuts"
+  },
+  {
+    "name": "Perogies",
+    "category": "food",
+    "moduleName": "Base.Perogies"
+  },
+  {
+    "name": "Pie Slice",
+    "category": "food",
+    "moduleName": "Base.Pie"
+  },
+  {
+    "name": "Pizza",
+    "category": "food",
+    "moduleName": "Base.Pizza"
+  },
+  {
+    "name": "Potato Pancakes",
+    "category": "food",
+    "moduleName": "Base.PotatoPancakes"
+  },
+  {
+    "name": "Processed Cheese",
+    "category": "food",
+    "moduleName": "Base.Processedcheese"
+  },
+  {
+    "name": "Refried Beans",
+    "category": "food",
+    "moduleName": "Base.RefriedBeans"
+  },
+  {
+    "name": "Remoulade",
+    "category": "food",
+    "moduleName": "farming.RemouladeFull"
+  },
+  {
+    "name": "Shrimp Dumpling",
+    "category": "food",
+    "moduleName": "Base.ShrimpDumpling"
+  },
+  {
+    "name": "Spring Roll",
+    "category": "food",
+    "moduleName": "Base.Springroll"
+  },
+  {
+    "name": "Sunflower Seeds",
+    "category": "food",
+    "moduleName": "Base.SunflowerSeeds"
+  },
+  {
+    "name": "Tea Bag",
+    "category": "food",
+    "moduleName": "Base.Teabag2"
+  },
+  {
+    "name": "TV Dinner",
+    "category": "food",
+    "moduleName": "Base.TVDinner"
+  },
+  {
+    "name": "Vinegar",
+    "category": "food",
+    "moduleName": "Base.Vinegar"
+  },
+  {
+    "name": "Waffles",
+    "category": "food",
+    "moduleName": "Base.Waffles"
+  },
+  {
+    "name": "Yogurt",
+    "category": "food",
+    "moduleName": "Base.Yoghurt"
+  },
+  {
+    "name": "Bell Pepper",
+    "category": "food",
+    "moduleName": "Base.BellPepper"
+  },
+  {
+    "name": "Black Beans",
+    "category": "food",
+    "moduleName": "Base.Blackbeans"
+  },
+  {
+    "name": "Broccoli",
+    "category": "food",
+    "moduleName": "Base.Broccoli"
+  },
+  {
+    "name": "Cabbage",
+    "category": "food",
+    "moduleName": "farming.Cabbage"
+  },
+  {
+    "name": "Carrots",
+    "category": "food",
+    "moduleName": "Base.Carrots"
+  },
+  {
+    "name": "Corn",
+    "category": "food",
+    "moduleName": "Base.Corn"
+  },
+  {
+    "name": "Daikon",
+    "category": "food",
+    "moduleName": "Base.Daikon"
+  },
+  {
+    "name": "Dried Black Beans",
+    "category": "food",
+    "moduleName": "Base.DriedBlackBeans"
+  },
+  {
+    "name": "Dried Chick Peas",
+    "category": "food",
+    "moduleName": "Base.DriedChickpeas"
+  },
+  {
+    "name": "Dried Kidney Peas",
+    "category": "food",
+    "moduleName": "Base.DriedKidneyBeans"
+  },
+  {
+    "name": "Dried Lentils",
+    "category": "food",
+    "moduleName": "Base.DriedLentils"
+  },
+  {
+    "name": "Dried Split Peas",
+    "category": "food",
+    "moduleName": "Base.DriedSplitPeas"
+  },
+  {
+    "name": "Dried White Beans",
+    "category": "food",
+    "moduleName": "Base.DriedWhiteBeans"
+  },
+  {
+    "name": "Edamame",
+    "category": "food",
+    "moduleName": "Base.Edamame"
+  },
+  {
+    "name": "Eggplant",
+    "category": "food",
+    "moduleName": "Base.Eggplant"
+  },
+  {
+    "name": "Ginger Pickled",
+    "category": "food",
+    "moduleName": "Base.GingerPickled"
+  },
+  {
+    "name": "Habanero",
+    "category": "food",
+    "moduleName": "Base.PepperHabanero"
+  },
+  {
+    "name": "Jalapeno",
+    "category": "food",
+    "moduleName": "Base.PepperJalapeno"
+  },
+  {
+    "name": "Leek",
+    "category": "food",
+    "moduleName": "Base.Leek"
+  },
+  {
+    "name": "Lettuce",
+    "category": "food",
+    "moduleName": "Base.Lettuce"
+  },
+  {
+    "name": "Mushroom",
+    "category": "food",
+    "moduleName": "Base.MushroomGeneric1"
+  },
+  {
+    "name": "Mushroom",
+    "category": "food",
+    "moduleName": "Base.MushroomGeneric2"
+  },
+  {
+    "name": "Mushroom",
+    "category": "food",
+    "moduleName": "Base.MushroomGeneric3"
+  },
+  {
+    "name": "Mushroom",
+    "category": "food",
+    "moduleName": "Base.MushroomGeneric4"
+  },
+  {
+    "name": "Mushroom",
+    "category": "food",
+    "moduleName": "Base.MushroomGeneric5"
+  },
+  {
+    "name": "Mushroom",
+    "category": "food",
+    "moduleName": "Base.MushroomGeneric6"
+  },
+  {
+    "name": "Mushroom",
+    "category": "food",
+    "moduleName": "Base.MushroomGeneric7"
+  },
+  {
+    "name": "Onion",
+    "category": "food",
+    "moduleName": "Base.Onion"
+  },
+  {
+    "name": "Onion",
+    "category": "food",
+    "moduleName": "Base.OnionRings"
+  },
+  {
+    "name": "Peas",
+    "category": "food",
+    "moduleName": "Base.Peas"
+  },
+  {
+    "name": "Pickles",
+    "category": "food",
+    "moduleName": "Base.Pickles"
+  },
+  {
+    "name": "Potato",
+    "category": "food",
+    "moduleName": "farming.Potato"
+  },
+  {
+    "name": "Pumpkin",
+    "category": "food",
+    "moduleName": "Base.Pumpkin"
+  },
+  {
+    "name": "Radish",
+    "category": "food",
+    "moduleName": "farming.RedRadish"
+  },
+  {
+    "name": "Seaweed",
+    "category": "food",
+    "moduleName": "Base.Seaweed"
+  },
+  {
+    "name": "Tomato",
+    "category": "food",
+    "moduleName": "farming.Tomato"
+  },
+  {
+    "name": "Zucchini",
+    "category": "food",
+    "moduleName": "Base.Zucchini"
+  },
+  {
+    "name": "Duffel Bag",
+    "category": "equipment",
+    "moduleName": "Base.Bag_DuffelBag"
+  },
+  {
+    "name": "Duffel Bag",
+    "category": "equipment",
+    "moduleName": "Base.Bag_DuffelBagTINT"
+  },
+  {
+    "name": "Duffel Bag",
+    "category": "equipment",
+    "moduleName": "Base.Bag_InmateEscapedBag"
+  },
+  {
+    "name": "Duffel Bag",
+    "category": "equipment",
+    "moduleName": "Base.Bag_ShotgunBag"
+  },
+  {
+    "name": "Duffel Bag",
+    "category": "equipment",
+    "moduleName": "Base.Bag_FoodSnacks"
+  },
+  {
+    "name": "Duffel Bag",
+    "category": "equipment",
+    "moduleName": "Base.Bag_Military"
+  },
+  {
+    "name": "Duffel Bag",
+    "category": "equipment",
+    "moduleName": "Base.Bag_WeaponBag"
+  },
+  {
+    "name": "Duffel Bag",
+    "category": "equipment",
+    "moduleName": "Base.Bag_ToolBag"
+  },
+  {
+    "name": "Duffel Bag",
+    "category": "equipment",
+    "moduleName": "Base.Bag_WorkerBag"
+  },
+  {
+    "name": "Duffel Bag",
+    "category": "equipment",
+    "moduleName": "Base.Bag_MoneyBag"
+  },
+  {
+    "name": "Duffel Bag",
+    "category": "equipment",
+    "moduleName": "Base.Bag_FoodCanned"
+  },
+  {
+    "name": "Duffel Bag",
+    "category": "equipment",
+    "moduleName": "Base.Bag_ShotgunDblBag"
+  },
+  {
+    "name": "Duffel Bag",
+    "category": "equipment",
+    "moduleName": "Base.Bag_ShotgunSawnoffBag"
+  },
+  {
+    "name": "Fanny Pack",
+    "category": "equipment",
+    "moduleName": "Base.Bag_FannyPackFront"
+  },
+  {
+    "name": "Fanny Pack",
+    "category": "equipment",
+    "moduleName": "Base.Bag_FannyPackBack"
+  },
+  {
+    "name": "Golf Bag",
+    "category": "equipment",
+    "moduleName": "Base.Bag_GolfBag"
+  },
+  {
+    "name": "Hiking Bag",
+    "category": "equipment",
+    "moduleName": "Base.Bag_NormalHikingBag"
+  },
+  {
+    "name": "Large Backpack",
+    "category": "equipment",
+    "moduleName": "Base.Bag_ALICEpack"
+  },
+  {
+    "name": "Large Backpack",
+    "category": "equipment",
+    "moduleName": "Base.Bag_SurvivorBag"
+  },
+  {
+    "name": "Military Backpack",
+    "category": "equipment",
+    "moduleName": "Base.Bag_ALICEpack_Army"
+  },
+  {
+    "name": "Satchel",
+    "category": "equipment",
+    "moduleName": "Base.Bag_Satchel"
+  },
+  {
+    "name": "School Bag",
+    "category": "equipment",
+    "moduleName": "Base.Bag_Schoolbag"
+  },
+  {
+    "name": "Trauma Bag",
+    "category": "equipment",
+    "moduleName": "Base.Bag_MedicalBag"
+  },
+  {
+    "name": "Briefcase",
+    "category": "equipment",
+    "moduleName": "Base.Briefcase"
+  },
+  {
+    "name": "Doctor Bag",
+    "category": "equipment",
+    "moduleName": "Base.Bag_DoctorBag"
+  },
+  {
+    "name": "Cooler",
+    "category": "equipment",
+    "moduleName": "Base.Cooler"
+  },
+  {
+    "name": "Flight Case",
+    "category": "equipment",
+    "moduleName": "Base.Flightcase"
+  },
+  {
+    "name": "First Aid Kit",
+    "category": "equipment",
+    "moduleName": "Base.FirstAidKit"
+  },
+  {
+    "name": "Garbage Bag",
+    "category": "equipment",
+    "moduleName": "Base.Garbagebag"
+  },
+  {
+    "name": "Guitar Case",
+    "category": "equipment",
+    "moduleName": "Base.Guitarcase"
+  },
+  {
+    "name": "Gun Case (large)",
+    "category": "equipment",
+    "moduleName": "Base.RifleCase1"
+  },
+  {
+    "name": "Gun Case (large)",
+    "category": "equipment",
+    "moduleName": "Base.RifleCase2"
+  },
+  {
+    "name": "Gun Case (large)",
+    "category": "equipment",
+    "moduleName": "Base.RifleCase3"
+  },
+  {
+    "name": "Gun Case (large)",
+    "category": "equipment",
+    "moduleName": "Base.ShotgunCase1"
+  },
+  {
+    "name": "Gun Case (large)",
+    "category": "equipment",
+    "moduleName": "Base.ShotgunCase2"
+  },
+  {
+    "name": "Gun Case",
+    "category": "equipment",
+    "moduleName": "Base.PistolCase1"
+  },
+  {
+    "name": "Gun Case",
+    "category": "equipment",
+    "moduleName": "Base.PistolCase2"
+  },
+  {
+    "name": "Gun Case",
+    "category": "equipment",
+    "moduleName": "Base.PistolCase3"
+  },
+  {
+    "name": "Gun Case",
+    "category": "equipment",
+    "moduleName": "Base.RevolverCase1"
+  },
+  {
+    "name": "Gun Case",
+    "category": "equipment",
+    "moduleName": "Base.RevolverCase2"
+  },
+  {
+    "name": "Gun Case",
+    "category": "equipment",
+    "moduleName": "Base.RevolverCase3"
+  },
+  {
+    "name": "Handbag",
+    "category": "equipment",
+    "moduleName": "Base.Handbag"
+  },
+  {
+    "name": "Lunchbag",
+    "category": "equipment",
+    "moduleName": "Base.Lunchbag"
+  },
+  {
+    "name": "Lunchbox",
+    "category": "equipment",
+    "moduleName": "Base.Lunchbox"
+  },
+  {
+    "name": "Lunchbox",
+    "category": "equipment",
+    "moduleName": "Base.Lunchbox2"
+  },
+  {
+    "name": "Paperbag",
+    "category": "equipment",
+    "moduleName": "Base.Lunchbag"
+  },
+  {
+    "name": "Plastic Bag",
+    "category": "equipment",
+    "moduleName": "Base.Plasticbag"
+  },
+  {
+    "name": "Plastic Bag",
+    "category": "equipment",
+    "moduleName": "Base.GroceryBag1"
+  },
+  {
+    "name": "Plastic Bag",
+    "category": "equipment",
+    "moduleName": "Base.GroceryBag2"
+  },
+  {
+    "name": "Plastic Bag",
+    "category": "equipment",
+    "moduleName": "Base.GroceryBag3"
+  },
+  {
+    "name": "Plastic Bag",
+    "category": "equipment",
+    "moduleName": "Base.GroceryBag4"
+  },
+  {
+    "name": "Plastic Bag",
+    "category": "equipment",
+    "moduleName": "Base.GroceryBag5"
+  },
+  {
+    "name": "Purse",
+    "category": "equipment",
+    "moduleName": "Base.Purse"
+  },
+  {
+    "name": "Sack",
+    "category": "equipment",
+    "moduleName": "Base.EmptySandbag"
+  },
+  {
+    "name": "Sack",
+    "category": "equipment",
+    "moduleName": "Base.SackPotatoes"
+  },
+  {
+    "name": "Sack",
+    "category": "equipment",
+    "moduleName": "Base.SackOnions"
+  },
+  {
+    "name": "Sack",
+    "category": "equipment",
+    "moduleName": "Base.SackCarrots"
+  },
+  {
+    "name": "Sack",
+    "category": "equipment",
+    "moduleName": "Base.SackCabbages"
+  },
+  {
+    "name": "Seed Bag",
+    "category": "equipment",
+    "moduleName": "Base.SeedBag"
+  },
+  {
+    "name": "Sewing Kit",
+    "category": "equipment",
+    "moduleName": "Base.SewingKit"
+  },
+  {
+    "name": "Suitcase",
+    "category": "equipment",
+    "moduleName": "Base.Suitcase"
+  },
+  {
+    "name": "Toolbox",
+    "category": "equipment",
+    "moduleName": "Base.Toolbox"
+  },
+  {
+    "name": "Toolbox",
+    "category": "equipment",
+    "moduleName": "Base.Bag_JanitorToolbox"
+  },
+  {
+    "name": "Tote Bag",
+    "category": "equipment",
+    "moduleName": "Base.Tote"
+  },
+  {
+    "name": "CD Player",
+    "category": "equipment",
+    "moduleName": "Base.CDplayer"
+  },
+  {
+    "name": "Cordless Phone",
+    "category": "equipment",
+    "moduleName": "Base.CordlessPhone"
+  },
+  {
+    "name": "Earbuds",
+    "category": "equipment",
+    "moduleName": "Base.Earbuds"
+  },
+  {
+    "name": "Generator",
+    "category": "equipment",
+    "moduleName": "Base.Generator"
+  },
+  {
+    "name": "Headphones",
+    "category": "equipment",
+    "moduleName": "Base.Headphones"
+  },
+  {
+    "name": "Home Alarm",
+    "category": "equipment",
+    "moduleName": "Base.HomeAlarm"
+  },
+  {
+    "name": "Speaker",
+    "category": "equipment",
+    "moduleName": "Base.Speaker"
+  },
+  {
+    "name": "Timer",
+    "category": "equipment",
+    "moduleName": "Base.Timer"
+  },
+  {
+    "name": "TV Remote",
+    "category": "equipment",
+    "moduleName": "Base.Remote"
+  },
+  {
+    "name": "Remote Controller",
+    "category": "equipment",
+    "moduleName": "Base.RemoteCraftedV1"
+  },
+  {
+    "name": "Remote Controller",
+    "category": "equipment",
+    "moduleName": "Base.RemoteCraftedV2"
+  },
+  {
+    "name": "Remote Controller",
+    "category": "equipment",
+    "moduleName": "Base.RemoteCraftedV3"
+  },
+  {
+    "name": "Video Game",
+    "category": "equipment",
+    "moduleName": "Base.VideoGame"
+  },
+  {
+    "name": "Radio",
+    "category": "equipment",
+    "moduleName": "Radio.WalkieTalkie1"
+  },
+  {
+    "name": "Radio",
+    "category": "equipment",
+    "moduleName": "Radio.WalkieTalkie2"
+  },
+  {
+    "name": "Radio",
+    "category": "equipment",
+    "moduleName": "Radio.WalkieTalkie3"
+  },
+  {
+    "name": "Radio",
+    "category": "equipment",
+    "moduleName": "Radio.WalkieTalkie4"
+  },
+  {
+    "name": "Radio",
+    "category": "equipment",
+    "moduleName": "Radio.WalkieTalkie5"
+  },
+  {
+    "name": "Radio",
+    "category": "equipment",
+    "moduleName": "Radio.WalkieTalkieMakeShift"
+  },
+  {
+    "name": "Radio",
+    "category": "equipment",
+    "moduleName": "Radio.HamRadio1"
+  },
+  {
+    "name": "Radio",
+    "category": "equipment",
+    "moduleName": "Radio.HamRadio2"
+  },
+  {
+    "name": "Radio",
+    "category": "equipment",
+    "moduleName": "Radio.HamRadioMakeShift"
+  },
+  {
+    "name": "Radio",
+    "category": "equipment",
+    "moduleName": "Radio.RadioRed"
+  },
+  {
+    "name": "Radio",
+    "category": "equipment",
+    "moduleName": "Radio.RadioBlack"
+  },
+  {
+    "name": "Radio",
+    "category": "equipment",
+    "moduleName": "Radio.RadioMakeShift"
+  },
+  {
+    "name": "Television",
+    "category": "equipment",
+    "moduleName": "Radio.TvAntique"
+  },
+  {
+    "name": "Television",
+    "category": "equipment",
+    "moduleName": "Radio.TvWideScreen"
+  },
+  {
+    "name": "Television",
+    "category": "equipment",
+    "moduleName": "Radio.TvBlack"
+  },
+  {
+    "name": "Cleaning Liquid",
+    "category": "equipment",
+    "moduleName": "Base.CleaningLiquid"
+  },
+  {
+    "name": "Dish Towel",
+    "category": "equipment",
+    "moduleName": "Base.DishCloth"
+  },
+  {
+    "name": "Extinguisher",
+    "category": "equipment",
+    "moduleName": "Base.Extinguisher"
+  },
+  {
+    "name": "Mop",
+    "category": "equipment",
+    "moduleName": "Base.Mop"
+  },
+  {
+    "name": "Soap",
+    "category": "equipment",
+    "moduleName": "Base.Soap"
+  },
+  {
+    "name": "Flashlight",
+    "category": "equipment",
+    "moduleName": "Base.Torch"
+  },
+  {
+    "name": "Hand Torch",
+    "category": "equipment",
+    "moduleName": "Base.HandTorch"
+  },
+  {
+    "name": "Lighter",
+    "category": "equipment",
+    "moduleName": "Base.Lighter"
+  },
+  {
+    "name": "Matches",
+    "category": "equipment",
+    "moduleName": "Base.Matches"
+  },
+  {
+    "name": "Key",
+    "category": "equipment",
+    "moduleName": "Base.Key1"
+  },
+  {
+    "name": "Key",
+    "category": "equipment",
+    "moduleName": "Base.Key2"
+  },
+  {
+    "name": "Key",
+    "category": "equipment",
+    "moduleName": "Base.Key3"
+  },
+  {
+    "name": "Key",
+    "category": "equipment",
+    "moduleName": "Base.Key4"
+  },
+  {
+    "name": "Key",
+    "category": "equipment",
+    "moduleName": "Base.Key5"
+  },
+  {
+    "name": "Key (Padlock)",
+    "category": "equipment",
+    "moduleName": "Base.KeyPadlock"
+  },
+  {
+    "name": "Padlock",
+    "category": "equipment",
+    "moduleName": "Base.Padlock"
+  },
+  {
+    "name": "Tent Kit",
+    "category": "equipment",
+    "moduleName": "camping.CampingTentKit"
+  },
+  {
+    "name": "Notched Wooden Plank",
+    "category": "equipment",
+    "moduleName": "Base.PercedWood"
+  },
+  {
+    "name": "Baking Tray",
+    "category": "equipment",
+    "moduleName": "Base.BakingTray"
+  },
+  {
+    "name": "Box of Jars",
+    "category": "equipment",
+    "moduleName": "Base.BoxOfJars"
+  },
+  {
+    "name": "Bread Knife",
+    "category": "equipment",
+    "moduleName": "Base.BreadKnife"
+  },
+  {
+    "name": "Butter Knife",
+    "category": "equipment",
+    "moduleName": "Base.ButterKnife"
+  },
+  {
+    "name": "Can Opener",
+    "category": "equipment",
+    "moduleName": "Base.TinOpener"
+  },
+  {
+    "name": "Empty Jar",
+    "category": "equipment",
+    "moduleName": "Base.EmptyJar"
+  },
+  {
+    "name": "Fork",
+    "category": "equipment",
+    "moduleName": "Base.Fork"
+  },
+  {
+    "name": "Frying Pan",
+    "category": "equipment",
+    "moduleName": "Base.Pan"
+  },
+  {
+    "name": "Griddle Pan",
+    "category": "equipment",
+    "moduleName": "Base.GridlePan"
+  },
+  {
+    "name": "Hunting Knife",
+    "category": "equipment",
+    "moduleName": "Base.HuntingKnife"
+  },
+  {
+    "name": "Jar Lid",
+    "category": "equipment",
+    "moduleName": "Base.JarLid"
+  },
+  {
+    "name": "Kitchen Knife",
+    "category": "equipment",
+    "moduleName": "Base.KitchenKnife"
+  },
+  {
+    "name": "Meat Cleaver",
+    "category": "equipment",
+    "moduleName": "Base.MeatCleaver"
+  },
+  {
+    "name": "Mortar and Pestle",
+    "category": "equipment",
+    "moduleName": "Base.MortarPestle"
+  },
+  {
+    "name": "Roasting Pan",
+    "category": "equipment",
+    "moduleName": "Base.RoastingPan"
+  },
+  {
+    "name": "Rolling Pin",
+    "category": "equipment",
+    "moduleName": "Base.RollingPin"
+  },
+  {
+    "name": "Saucepan",
+    "category": "equipment",
+    "moduleName": "Base.Saucepan"
+  },
+  {
+    "name": "Spoon",
+    "category": "equipment",
+    "moduleName": "Base.Spoon"
+  },
+  {
+    "name": "Stone Knife",
+    "category": "equipment",
+    "moduleName": "Base.FlintKnife"
+  },
+  {
+    "name": "Garden Hoe",
+    "category": "equipment",
+    "moduleName": "Base.GardenHoe"
+  },
+  {
+    "name": "Hand Fork",
+    "category": "equipment",
+    "moduleName": "Base.HandFork"
+  },
+  {
+    "name": "Shovel",
+    "category": "equipment",
+    "moduleName": "Base.Shovel"
+  },
+  {
+    "name": "Shovel",
+    "category": "equipment",
+    "moduleName": "Base.Shovel2"
+  },
+  {
+    "name": "Snow Shovel",
+    "category": "equipment",
+    "moduleName": "Base.SnowShovel"
+  },
+  {
+    "name": "Trowel",
+    "category": "equipment",
+    "moduleName": "farming.HandShovel"
+  },
+  {
+    "name": "Insecticide Spray",
+    "category": "equipment",
+    "moduleName": "farming.GardeningSprayCigarettes"
+  },
+  {
+    "name": "Mildew Spray",
+    "category": "equipment",
+    "moduleName": "farming.GardeningSprayMilk"
+  },
+  {
+    "name": "NPK Fertilizer",
+    "category": "equipment",
+    "moduleName": "Base.Fertilizer"
+  },
+  {
+    "name": "Broccoli Seeds",
+    "category": "equipment",
+    "moduleName": "farming.BroccoliSeed"
+  },
+  {
+    "name": "Cabbage Seeds",
+    "category": "equipment",
+    "moduleName": "farming.CabbageSeed"
+  },
+  {
+    "name": "Carrot Seeds",
+    "category": "equipment",
+    "moduleName": "farming.CarrotSeed"
+  },
+  {
+    "name": "Potato Seeds",
+    "category": "equipment",
+    "moduleName": "farming.PotatoSeed"
+  },
+  {
+    "name": "Radish Seeds",
+    "category": "equipment",
+    "moduleName": "farming.RedRadishSeed"
+  },
+  {
+    "name": "Strawberry Seeds",
+    "category": "equipment",
+    "moduleName": "farming.StrewberrieSeed"
+  },
+  {
+    "name": "Tomato Seeds",
+    "category": "equipment",
+    "moduleName": "farming.TomatoSeed"
+  },
+  {
+    "name": "Fishing Rod (crafted)",
+    "category": "equipment",
+    "moduleName": "Base.CraftedFishingRod"
+  },
+  {
+    "name": "Fishing Rod (crafted)",
+    "category": "equipment",
+    "moduleName": "Base.CraftedFishingRodTwineLine"
+  },
+  {
+    "name": "Wooden Spear",
+    "category": "equipment",
+    "moduleName": "Base.WoodenLance"
+  },
+  {
+    "name": "Fishing Net Trap",
+    "category": "equipment",
+    "moduleName": "Base.FishingNet"
+  },
+  {
+    "name": "Mouse Trap",
+    "category": "equipment",
+    "moduleName": "Base.TrapMouse"
+  },
+  {
+    "name": "Snare Trap",
+    "category": "equipment",
+    "moduleName": "Base.TrapSnare"
+  },
+  {
+    "name": "Stick Trap",
+    "category": "equipment",
+    "moduleName": "Base.TrapStick"
+  },
+  {
+    "name": "Trap Box",
+    "category": "equipment",
+    "moduleName": "Base.TrapBox"
+  },
+  {
+    "name": "Trap Crate",
+    "category": "equipment",
+    "moduleName": "Base.TrapCrate"
+  },
+  {
+    "name": "Eraser",
+    "category": "equipment",
+    "moduleName": "Base.Eraser"
+  },
+  {
+    "name": "Needle",
+    "category": "equipment",
+    "moduleName": "Base.Needle"
+  },
+  {
+    "name": "Pen",
+    "category": "equipment",
+    "moduleName": "Base.Pen"
+  },
+  {
+    "name": "Pencil",
+    "category": "equipment",
+    "moduleName": "Base.Pencil"
+  },
+  {
+    "name": "Pen",
+    "category": "equipment",
+    "moduleName": "Base.RedPen"
+  },
+  {
+    "name": "Scissors",
+    "category": "equipment",
+    "moduleName": "Base.Scissors"
+  },
+  {
+    "name": "Ball-peen Hammer",
+    "category": "equipment",
+    "moduleName": "Base.BallPeenHammer"
+  },
+  {
+    "name": "Club Hammer",
+    "category": "equipment",
+    "moduleName": "Base.ClubHammer"
+  },
+  {
+    "name": "Car Battery Charger",
+    "category": "equipment",
+    "moduleName": "Base.CarBatteryCharger"
+  },
+  {
+    "name": "Crowbar",
+    "category": "equipment",
+    "moduleName": "Base.Crowbar"
+  },
+  {
+    "name": "Garden Saw",
+    "category": "equipment",
+    "moduleName": "Base.GardenSaw"
+  },
+  {
+    "name": "Hammer",
+    "category": "equipment",
+    "moduleName": "Base.Hammer"
+  },
+  {
+    "name": "Hand Axe",
+    "category": "equipment",
+    "moduleName": "Base.HandAxe"
+  },
+  {
+    "name": "Jack",
+    "category": "equipment",
+    "moduleName": "Base.Jack"
+  },
+  {
+    "name": "Lug Wrench",
+    "category": "equipment",
+    "moduleName": "Base.LugWrench"
+  },
+  {
+    "name": "Paintbrush",
+    "category": "equipment",
+    "moduleName": "Base.Paintbrush"
+  },
+  {
+    "name": "Pipe Wrench",
+    "category": "equipment",
+    "moduleName": "Base.PipeWrench"
+  },
+  {
+    "name": "Propane Torch",
+    "category": "equipment",
+    "moduleName": "Base.BlowTorch"
+  },
+  {
+    "name": "Raw Axe",
+    "category": "equipment",
+    "moduleName": "Base.AxeStone"
+  },
+  {
+    "name": "Saw",
+    "category": "equipment",
+    "moduleName": "Base.Saw"
+  },
+  {
+    "name": "Screwdriver",
+    "category": "equipment",
+    "moduleName": "Base.Screwdriver"
+  },
+  {
+    "name": "Sledgehammer",
+    "category": "equipment",
+    "moduleName": "Base.Sledgehammer"
+  },
+  {
+    "name": "Stone Hammer",
+    "category": "equipment",
+    "moduleName": "Base.HammerStone"
+  },
+  {
+    "name": "Tire Pump",
+    "category": "equipment",
+    "moduleName": "Base.TirePump"
+  },
+  {
+    "name": "Wood Axe",
+    "category": "equipment",
+    "moduleName": "Base.WoodAxe"
+  },
+  {
+    "name": "Wooden Mallet",
+    "category": "equipment",
+    "moduleName": "Base.WoodenMallet"
+  },
+  {
+    "name": "Wrench",
+    "category": "equipment",
+    "moduleName": "Base.Wrench"
+  },
+  {
+    "name": "Tank Top",
+    "category": "clothing",
+    "moduleName": "Base.Vest_DefaultTEXTURE"
+  },
+  {
+    "name": "Tank Top",
+    "category": "clothing",
+    "moduleName": "Base.Vest_DefaultTEXTURE_TINT"
+  },
+  {
+    "name": "Bandeau",
+    "category": "clothing",
+    "moduleName": "Base.BoobTube"
+  },
+  {
+    "name": "Crop Top",
+    "category": "clothing",
+    "moduleName": "Base.Shirt_CropTopNoArmTINT"
+  },
+  {
+    "name": "Crop Top Arms",
+    "category": "clothing",
+    "moduleName": "Base.Shirt_CropTopTINT"
+  },
+  {
+    "name": "Blue Fireman T-shirt",
+    "category": "clothing",
+    "moduleName": "Base.Tshirt_Profession_FiremanBlue"
+  },
+  {
+    "name": "Red Fireman T-shirt",
+    "category": "clothing",
+    "moduleName": "Base.Tshirt_Profession_FiremanRed"
+  },
+  {
+    "name": "Dark Red Fireman T-shirt",
+    "category": "clothing",
+    "moduleName": "Base.Tshirt_Profession_FiremanRed02"
+  },
+  {
+    "name": "Dark Red Fireman T-shirt",
+    "category": "clothing",
+    "moduleName": "Base.Tshirt_Profession_FiremanWhite"
+  },
+  {
+    "name": "Long Sleeve T-shirt",
+    "category": "clothing",
+    "moduleName": "Base.Tshirt_WhiteLongSleeve"
+  },
+  {
+    "name": "Long Sleeve T-shirt",
+    "category": "clothing",
+    "moduleName": "Base.Tshirt_WhiteLongSleeveTINT"
+  },
+  {
+    "name": "Medical T-shirt",
+    "category": "clothing",
+    "moduleName": "Base.Tshirt_Scrubs"
+  },
+  {
+    "name": "Military Desert Camo T-shirt",
+    "category": "clothing",
+    "moduleName": "Base.Tshirt_CamoDesert"
+  },
+  {
+    "name": "Military Green Camo T-shirt",
+    "category": "clothing",
+    "moduleName": "Base.Tshirt_CamoGreen"
+  },
+  {
+    "name": "Military T-shirt",
+    "category": "clothing",
+    "moduleName": "Base.Tshirt_ArmyGreen"
+  },
+  {
+    "name": "Military Urban Camo T-shirt",
+    "category": "clothing",
+    "moduleName": "Base.Tshirt_CamoUrban"
+  },
+  {
+    "name": "Police Deputy T-shirt",
+    "category": "clothing",
+    "moduleName": "Base.Tshirt_PoliceGrey"
+  },
+  {
+    "name": "Blue Police T-shirt",
+    "category": "clothing",
+    "moduleName": "Base.Tshirt_Profession_PoliceBlue"
+  },
+  {
+    "name": "White Police T-shirt",
+    "category": "clothing",
+    "moduleName": "Base.Tshirt_Profession_PoliceWhite"
+  },
+  {
+    "name": "Police Trooper T-shirt",
+    "category": "clothing",
+    "moduleName": "Base.Tshirt_PoliceBlue"
+  },
+  {
+    "name": "Ranger T-shirt",
+    "category": "clothing",
+    "moduleName": "Base.Tshirt_Ranger"
+  },
+  {
+    "name": "Brown Ranger T-shirt",
+    "category": "clothing",
+    "moduleName": "Base.Tshirt_Profession_RangerBrown"
+  },
+  {
+    "name": "Green Ranger T-shirt",
+    "category": "clothing",
+    "moduleName": "Base.Tshirt_Profession_RangerGreen"
+  },
+  {
+    "name": "Small Bandeau",
+    "category": "clothing",
+    "moduleName": "Base.BoobTubeSmall"
+  },
+  {
+    "name": "Spiffo T-shirt",
+    "category": "clothing",
+    "moduleName": "Base.Tshirt_SpiffoDECAL"
+  },
+  {
+    "name": "Sport T-shirt",
+    "category": "clothing",
+    "moduleName": "Base.Tshirt_Sport"
+  },
+  {
+    "name": "Striped T-shirt",
+    "category": "clothing",
+    "moduleName": "Base.Tshirt_PoloStripedTINT"
+  },
+  {
+    "name": "Fossoil T-shirt",
+    "category": "clothing",
+    "moduleName": "Base.Tshirt_Fossoil"
+  },
+  {
+    "name": "Gas 2 Go T-shirt",
+    "category": "clothing",
+    "moduleName": "Base.Tshirt_Gas2Go"
+  },
+  {
+    "name": "ThunderGas T-shirt",
+    "category": "clothing",
+    "moduleName": "Base.Tshirt_ThunderGas"
+  },
+  {
+    "name": "Rock T-shirt",
+    "category": "clothing",
+    "moduleName": "Base.Tshirt_Rock"
+  },
+  {
+    "name": "McCoy's T-shirt",
+    "category": "clothing",
+    "moduleName": "Base.Tshirt_McCoys"
+  },
+  {
+    "name": "Pile o' Crepe T-shirt",
+    "category": "clothing",
+    "moduleName": "Base.Tshirt_PileOCrepe"
+  },
+  {
+    "name": "Pizza Whirled T-shirt",
+    "category": "clothing",
+    "moduleName": "Base.Tshirt_PizzaWhirled"
+  },
+  {
+    "name": "Striped T-shirt",
+    "category": "clothing",
+    "moduleName": "Base.Tshirt_ValleyStation"
+  },
+  {
+    "name": "T-shirt",
+    "category": "clothing",
+    "moduleName": "Base.Tshirt_DefaultDECAL"
+  },
+  {
+    "name": "Valley Station T-shirt",
+    "category": "clothing",
+    "moduleName": "Base.Tshirt_DefaultDECAL_TINT"
+  },
+  {
+    "name": "T-shirt",
+    "category": "clothing",
+    "moduleName": "Base.Tshirt_DefaultTEXTURE"
+  },
+  {
+    "name": "Fossoil T-shirt",
+    "category": "clothing",
+    "moduleName": "Base.Tshirt_DefaultTEXTURE_TINT"
+  },
+  {
+    "name": "Fossoil T-shirt",
+    "category": "clothing",
+    "moduleName": "Base.Tshirt_WhiteTINT"
+  },
+  {
+    "name": "Fossoil T-shirt",
+    "category": "clothing",
+    "moduleName": "Base.Tshirt_PoloTINT"
+  },
+  {
+    "name": "Spiffo T-shirt",
+    "category": "clothing",
+    "moduleName": "Base.Tshirt_BusinessSpiffo"
+  },
+  {
+    "name": "T-shirt",
+    "category": "clothing",
+    "moduleName": "Base.Tshirt_SportDECAL"
+  },
+  {
+    "name": "TIS T-shirt",
+    "category": "clothing",
+    "moduleName": "Base.Tshirt_IndieStoneDECAL"
+  },
+  {
+    "name": "Green Veteran T-shirt",
+    "category": "clothing",
+    "moduleName": "Base.Tshirt_Profession_VeterenGreen"
+  },
+  {
+    "name": "Red Veteran T-shirt",
+    "category": "clothing",
+    "moduleName": "Base.Tshirt_Profession_VeterenRed"
+  },
+  {
+    "name": "Kentucky Baseball Shirt",
+    "category": "clothing",
+    "moduleName": "Base.Shirt_Baseball_KY"
+  },
+  {
+    "name": "Riverside Rangers Baseball Shirt",
+    "category": "clothing",
+    "moduleName": "Base.Shirt_Baseball_Rangers"
+  },
+  {
+    "name": "Z Hurricanes Baseball Shirt",
+    "category": "clothing",
+    "moduleName": "Base.Shirt_Baseball_Z"
+  },
+  {
+    "name": "Bowling Shirt",
+    "category": "clothing",
+    "moduleName": "Base.Shirt_BowlingBlue"
+  },
+  {
+    "name": "Bowling Shirt",
+    "category": "clothing",
+    "moduleName": "Base.Shirt_BowlingBrown"
+  },
+  {
+    "name": "Bowling Shirt",
+    "category": "clothing",
+    "moduleName": "Base.Shirt_BowlingGreen"
+  },
+  {
+    "name": "Bowling Shirt",
+    "category": "clothing",
+    "moduleName": "Base.Shirt_BowlingLimeGreen"
+  },
+  {
+    "name": "Bowling Shirt",
+    "category": "clothing",
+    "moduleName": "Base.Shirt_BowlingPink"
+  },
+  {
+    "name": "Bowling Shirt",
+    "category": "clothing",
+    "moduleName": "Base.Shirt_BowlingWhite"
+  },
+  {
+    "name": "Hawaiian Shirt",
+    "category": "clothing",
+    "moduleName": "Base.Shirt_HawaiianTINT"
+  },
+  {
+    "name": "Hawaiian Red Shirt",
+    "category": "clothing",
+    "moduleName": "Base.Shirt_HawaiianRed"
+  },
+  {
+    "name": "Short Sleeve Shirt",
+    "category": "clothing",
+    "moduleName": "Base.Shirt_FormalWhite_ShortSleeve"
+  },
+  {
+    "name": "Short Sleeve Shirt",
+    "category": "clothing",
+    "moduleName": "Base.Shirt_FormalWhite_ShortSleeveTINT"
+  },
+  {
+    "name": "Denim Shirt",
+    "category": "clothing",
+    "moduleName": "Base.Shirt_Denim"
+  },
+  {
+    "name": "Formal Shirt",
+    "category": "clothing",
+    "moduleName": "Base.Shirt_FormalWhite"
+  },
+  {
+    "name": "Jockey Silks - 1",
+    "category": "clothing",
+    "moduleName": "Base.Shirt_Jockey01"
+  },
+  {
+    "name": "Jockey Silks - 2",
+    "category": "clothing",
+    "moduleName": "Base.Shirt_Jockey02"
+  },
+  {
+    "name": "Jockey Silks - 3",
+    "category": "clothing",
+    "moduleName": "Base.Shirt_Jockey03"
+  },
+  {
+    "name": "Jockey Silks - 4",
+    "category": "clothing",
+    "moduleName": "Base.Shirt_Jockey04"
+  },
+  {
+    "name": "Jockey Silks - 5",
+    "category": "clothing",
+    "moduleName": "Base.Shirt_Jockey05"
+  },
+  {
+    "name": "Jockey Silks - 6",
+    "category": "clothing",
+    "moduleName": "Base.Shirt_Jockey06"
+  },
+  {
+    "name": "Lumberjack Shirt",
+    "category": "clothing",
+    "moduleName": "Base.Shirt_Lumberjack"
+  },
+  {
+    "name": "Medical Scrubs",
+    "category": "clothing",
+    "moduleName": "Base.Shirt_Scrubs"
+  },
+  {
+    "name": "Military Green Camo Shirt",
+    "category": "clothing",
+    "moduleName": "Base.Shirt_CamoGreen"
+  },
+  {
+    "name": "Military Desert Camo Shirt",
+    "category": "clothing",
+    "moduleName": "Base.Shirt_CamoDesert"
+  },
+  {
+    "name": "Military Urban Camo Shirt",
+    "category": "clothing",
+    "moduleName": "Base.Shirt_CamoUrban"
+  },
+  {
+    "name": "Police Deputy Shirt",
+    "category": "clothing",
+    "moduleName": "Base.Shirt_PoliceGrey"
+  },
+  {
+    "name": "Police Shirt",
+    "category": "clothing",
+    "moduleName": "Base.Shirt_OfficerWhite"
+  },
+  {
+    "name": "Police Trooper Shirt",
+    "category": "clothing",
+    "moduleName": "Base.Shirt_PoliceBlue"
+  },
+  {
+    "name": "Priest Shirt",
+    "category": "clothing",
+    "moduleName": "Base.Shirt_Priest"
+  },
+  {
+    "name": "Prison Guard Shirt",
+    "category": "clothing",
+    "moduleName": "Base.Shirt_PrisonGuard"
+  },
+  {
+    "name": "Ranger Shirt",
+    "category": "clothing",
+    "moduleName": "Base.Shirt_Ranger"
+  },
+  {
+    "name": "Workman Shirt",
+    "category": "clothing",
+    "moduleName": "Base.Shirt_Workman"
+  },
+  {
+    "name": "Diamond-pattern Sweater",
+    "category": "clothing",
+    "moduleName": "Base.Jumper_DiamondPatternTINT"
+  },
+  {
+    "name": "Diamond-pattern Sweater Vest",
+    "category": "clothing",
+    "moduleName": "Base.Jumper_TankTopDiamondTINT"
+  },
+  {
+    "name": "Polo Neck Sweater",
+    "category": "clothing",
+    "moduleName": "Base.Jumper_PoloNeck"
+  },
+  {
+    "name": "Round Neck Sweater",
+    "category": "clothing",
+    "moduleName": "Base.Jumper_RoundNeck"
+  },
+  {
+    "name": "V-neck Sweater",
+    "category": "clothing",
+    "moduleName": "Base.Jumper_VNeck"
+  },
+  {
+    "name": "V-neck Sweater Vest",
+    "category": "clothing",
+    "moduleName": "Base.Jumper_TankTopTINT"
+  },
+  {
+    "name": "Hoodie",
+    "category": "clothing",
+    "moduleName": "Base.HoodieDOWN_WhiteTINT"
+  },
+  {
+    "name": "Hoodie (hooded)",
+    "category": "clothing",
+    "moduleName": "Base.HoodieUP_WhiteTINT"
+  },
+  {
+    "name": "Barrel Dogs Leather Jacket",
+    "category": "clothing",
+    "moduleName": "Base.Jacket_LeatherBarrelDogs"
+  },
+  {
+    "name": "Iron Rodent Leather Jacket",
+    "category": "clothing",
+    "moduleName": "Base.Jacket_LeatherIronRodent"
+  },
+  {
+    "name": "Wild Raccoons Leather Jacket",
+    "category": "clothing",
+    "moduleName": "Base.Jacket_LeatherWildRacoons"
+  },
+  {
+    "name": "Shell Suit Jacket",
+    "category": "clothing",
+    "moduleName": "Base.Jacket_Shellsuit_Black"
+  },
+  {
+    "name": "Shell Suit Jacket",
+    "category": "clothing",
+    "moduleName": "Base.Jacket_Shellsuit_Blue"
+  },
+  {
+    "name": "Shell Suit Jacket",
+    "category": "clothing",
+    "moduleName": "Base.Jacket_Shellsuit_Green"
+  },
+  {
+    "name": "Shell Suit Jacket",
+    "category": "clothing",
+    "moduleName": "Base.Jacket_Shellsuit_Pink"
+  },
+  {
+    "name": "Shell Suit Jacket",
+    "category": "clothing",
+    "moduleName": "Base.Jacket_Shellsuit_Teal"
+  },
+  {
+    "name": "Shell Suit Jacket",
+    "category": "clothing",
+    "moduleName": "Jacket_Shellsuit_TINT"
+  },
+  {
+    "name": "Wedding Jacket",
+    "category": "clothing",
+    "moduleName": "Base.WeddingJacket"
+  },
+  {
+    "name": "Ghillie Suit Torso",
+    "category": "clothing",
+    "moduleName": "Base.Ghillie_Top"
+  },
+  {
+    "name": "Suit Jacket",
+    "category": "clothing",
+    "moduleName": "Base.Suit_Jacket"
+  },
+  {
+    "name": "Suit Jacket",
+    "category": "clothing",
+    "moduleName": "Base.Suit_JacketTINT"
+  },
+  {
+    "name": "Varsity Jacket",
+    "category": "clothing",
+    "moduleName": "Base.Jacket_Varsity"
+  },
+  {
+    "name": "Medical Coat",
+    "category": "clothing",
+    "moduleName": "Base.JacketLong_Doctor"
+  },
+  {
+    "name": "Army Coat",
+    "category": "clothing",
+    "moduleName": "Base.Jacket_CoatArmy"
+  },
+  {
+    "name": "Leather Jacket",
+    "category": "clothing",
+    "moduleName": "Base.JacketLong_Random"
+  },
+  {
+    "name": "Santa Suit Jacket",
+    "category": "clothing",
+    "moduleName": "Base.JacketLong_Santa"
+  },
+  {
+    "name": "Green Santa Suit Jacket",
+    "category": "clothing",
+    "moduleName": "Base.JacketLong_SantaGreen"
+  },
+  {
+    "name": "Military Desert Camo Jacket",
+    "category": "clothing",
+    "moduleName": "Base.Jacket_ArmyCamoDesert"
+  },
+  {
+    "name": "Military Green Camo Jacket",
+    "category": "clothing",
+    "moduleName": "Base.Jacket_ArmyCamoGreen"
+  },
+  {
+    "name": "Leather Jacket",
+    "category": "clothing",
+    "moduleName": "Base.Jacket_Black"
+  },
+  {
+    "name": "Chef Jacket",
+    "category": "clothing",
+    "moduleName": "Base.Jacket_Chef"
+  },
+  {
+    "name": "Firefighter Jacket",
+    "category": "clothing",
+    "moduleName": "Base.Jacket_Fireman"
+  },
+  {
+    "name": "Padded Jacket",
+    "category": "clothing",
+    "moduleName": "Base.Jacket_PaddedDOWN"
+  },
+  {
+    "name": "Padded Jacket",
+    "category": "clothing",
+    "moduleName": "Base.Jacket_Padded"
+  },
+  {
+    "name": "Police Deputy Jacket",
+    "category": "clothing",
+    "moduleName": "Base.Jacket_Police"
+  },
+  {
+    "name": "Ranger Jacket",
+    "category": "clothing",
+    "moduleName": "Base.Jacket_Ranger"
+  },
+  {
+    "name": "Jacket",
+    "category": "clothing",
+    "moduleName": "Base.Jacket_WhiteTINT"
+  },
+  {
+    "name": "Jacket",
+    "category": "clothing",
+    "moduleName": "Base.Jacket_NavyBlue"
+  },
+  {
+    "name": "Poncho",
+    "category": "clothing",
+    "moduleName": "Base.PonchoGreenDOWN"
+  },
+  {
+    "name": "Poncho",
+    "category": "clothing",
+    "moduleName": "Base.PonchoYellowDOWN"
+  },
+  {
+    "name": "Poncho (hooded)",
+    "category": "clothing",
+    "moduleName": "Base.PonchoGreen"
+  },
+  {
+    "name": "Poncho (hooded)",
+    "category": "clothing",
+    "moduleName": "Base.PonchoYellow"
+  },
+  {
+    "name": "Apron",
+    "category": "clothing",
+    "moduleName": "Base.Apron_Black"
+  },
+  {
+    "name": "Apron",
+    "category": "clothing",
+    "moduleName": "Base.Apron_White"
+  },
+  {
+    "name": "Tight Fit Apron",
+    "category": "clothing",
+    "moduleName": "Base.Apron_WhiteTEXTURE"
+  },
+  {
+    "name": "Ice Cream Server Apron",
+    "category": "clothing",
+    "moduleName": "Base.Apron_IceCream"
+  },
+  {
+    "name": "Jay Chicken Server Apron",
+    "category": "clothing",
+    "moduleName": "Base.Apron_PileOCrepe"
+  },
+  {
+    "name": "PileOCrepe Server Apron",
+    "category": "clothing",
+    "moduleName": "Base.Apron_Jay"
+  },
+  {
+    "name": "PizzaWhirled Server Apron",
+    "category": "clothing",
+    "moduleName": "Base.Apron_PizzaWhirled"
+  },
+  {
+    "name": "Spiffo's Server Apron",
+    "category": "clothing",
+    "moduleName": "Base.Apron_Spiffos"
+  },
+  {
+    "name": "Camo Hunting Vest",
+    "category": "clothing",
+    "moduleName": "Base.Vest_Hunting_Camo"
+  },
+  {
+    "name": "Civilian Bulletproof Vest",
+    "category": "clothing",
+    "moduleName": "Base.Vest_BulletCivilian"
+  },
+  {
+    "name": "Foreman Vest",
+    "category": "clothing",
+    "moduleName": "Base.Vest_Foreman"
+  },
+  {
+    "name": "GigaMart Waistcoat",
+    "category": "clothing",
+    "moduleName": "Base.Vest_Waistcoat_GigaMart"
+  },
+  {
+    "name": "Gray Hunting Vest",
+    "category": "clothing",
+    "moduleName": "Base.Vest_Hunting_Grey"
+  },
+  {
+    "name": "Green Camo Hunting Vest",
+    "category": "clothing",
+    "moduleName": "Base.Vest_Hunting_CamoGreen"
+  },
+  {
+    "name": "High Visibility Vest",
+    "category": "clothing",
+    "moduleName": "Base.Vest_HighViz"
+  },
+  {
+    "name": "Military Bulletproof Vest",
+    "category": "clothing",
+    "moduleName": "Base.Vest_BulletArmy"
+  },
+  {
+    "name": "Orange Hunting Vest",
+    "category": "clothing",
+    "moduleName": "Base.Vest_Hunting_Orange"
+  },
+  {
+    "name": "Police Bulletproof Vest",
+    "category": "clothing",
+    "moduleName": "Base.Vest_BulletPolice"
+  },
+  {
+    "name": "Waistcoat",
+    "category": "clothing",
+    "moduleName": "Base.Vest_Waistcoat"
+  },
+  {
+    "name": "Waistcoat",
+    "category": "clothing",
+    "moduleName": "Base.Vest_WaistcoatTINT"
+  },
+  {
+    "name": "Air Force Coveralls",
+    "category": "clothing",
+    "moduleName": "Base.Boilersuit_Flying"
+  },
+  {
+    "name": "Bath Robe",
+    "category": "clothing",
+    "moduleName": "Base.LongCoat_Bathrobe"
+  },
+  {
+    "name": "Coveralls",
+    "category": "clothing",
+    "moduleName": "Base.Boilersuit"
+  },
+  {
+    "name": "Coveralls",
+    "category": "clothing",
+    "moduleName": "Base.Boilersuit_BlueRed"
+  },
+  {
+    "name": "Coveralls",
+    "category": "clothing",
+    "moduleName": "Base.Boilersuit_Yellow"
+  },
+  {
+    "name": "Dress",
+    "category": "clothing",
+    "moduleName": "Base.Dress_Normal"
+  },
+  {
+    "name": "Hazmat Suit",
+    "category": "clothing",
+    "moduleName": "Base.HazmatSuit"
+  },
+  {
+    "name": "Hospital Gown",
+    "category": "clothing",
+    "moduleName": "Base.HospitalGown"
+  },
+  {
+    "name": "Knee-length Dress",
+    "category": "clothing",
+    "moduleName": "Base.Dress_Knee"
+  },
+  {
+    "name": "Little Black Dress",
+    "category": "clothing",
+    "moduleName": "Base.Dress_SmallBlackStraps"
+  },
+  {
+    "name": "Satin Negligee",
+    "category": "clothing",
+    "moduleName": "Base.Dress_SatinNegligee"
+  },
+  {
+    "name": "Strapless Black Dress",
+    "category": "clothing",
+    "moduleName": "Base.Dress_SmallBlackStrapless"
+  },
+  {
+    "name": "Strapless Small Dress",
+    "category": "clothing",
+    "moduleName": "Base.Dress_SmallStrapless"
+  },
+  {
+    "name": "Straps Dress",
+    "category": "clothing",
+    "moduleName": "Base.Dress_Straps"
+  },
+  {
+    "name": "Straps Knee-length Dress",
+    "category": "clothing",
+    "moduleName": "Base.DressKnees_Straps"
+  },
+  {
+    "name": "Straps Small Dress",
+    "category": "clothing",
+    "moduleName": "Base.Dress_SmallStraps"
+  },
+  {
+    "name": "Long Dress",
+    "category": "clothing",
+    "moduleName": "Base.Dress_Long"
+  },
+  {
+    "name": "Long Dress",
+    "category": "clothing",
+    "moduleName": "Base.Dress_long_Straps"
+  },
+  {
+    "name": "Prisoner Jumpsuit",
+    "category": "clothing",
+    "moduleName": "Base.Boilersuit_Prisoner"
+  },
+  {
+    "name": "Prisoner Jumpsuit",
+    "category": "clothing",
+    "moduleName": "Base.Boilersuit_PrisonerKhaki"
+  },
+  {
+    "name": "Short Dress",
+    "category": "clothing",
+    "moduleName": "Base.Dress_Short"
+  },
+  {
+    "name": "Spiffo Suit",
+    "category": "clothing",
+    "moduleName": "Base.SpiffoSuit"
+  },
+  {
+    "name": "Wedding Dress",
+    "category": "clothing",
+    "moduleName": "Base.WeddingDress"
+  },
+  {
+    "name": "Boxing Shorts",
+    "category": "clothing",
+    "moduleName": "Base.Shorts_BoxingRed"
+  },
+  {
+    "name": "Boxing Shorts",
+    "category": "clothing",
+    "moduleName": "Base.Shorts_BoxingBlue"
+  },
+  {
+    "name": "Long Denim Shorts",
+    "category": "clothing",
+    "moduleName": "Base.Shorts_LongDenim"
+  },
+  {
+    "name": "Long Sport Shorts",
+    "category": "clothing",
+    "moduleName": "Base.Shorts_LongSport"
+  },
+  {
+    "name": "Long Sport Shorts",
+    "category": "clothing",
+    "moduleName": "Base.Shorts_LongSport_Red"
+  },
+  {
+    "name": "Denim Shorts",
+    "category": "clothing",
+    "moduleName": "Base.Shorts_ShortDenim"
+  },
+  {
+    "name": "Shorts",
+    "category": "clothing",
+    "moduleName": "Base.Shorts_ShortFormal"
+  },
+  {
+    "name": "Sport Shorts",
+    "category": "clothing",
+    "moduleName": "Base.Shorts_ShortSport"
+  },
+  {
+    "name": "Knee-length Skirt",
+    "category": "clothing",
+    "moduleName": "Base.Skirt_Knees"
+  },
+  {
+    "name": "Long Skirt",
+    "category": "clothing",
+    "moduleName": "Base.Skirt_Long"
+  },
+  {
+    "name": "Skirt",
+    "category": "clothing",
+    "moduleName": "Base.Skirt_Normal"
+  },
+  {
+    "name": "Short Skirt",
+    "category": "clothing",
+    "moduleName": "Base.Skirt_Short"
+  },
+  {
+    "name": "Ghillie Suit Pants",
+    "category": "clothing",
+    "moduleName": "Base.Ghillie_Trousers"
+  },
+  {
+    "name": "Pants",
+    "category": "clothing",
+    "moduleName": "Base.Trousers"
+  },
+  {
+    "name": "Denim Jeans",
+    "category": "clothing",
+    "moduleName": "Base.TrousersMesh_DenimLight"
+  },
+  {
+    "name": "Military Desert Camo Pants",
+    "category": "clothing",
+    "moduleName": "Base.Trousers_CamoDesert"
+  },
+  {
+    "name": "Military Green Camo Pants",
+    "category": "clothing",
+    "moduleName": "Base.Trousers_CamoGreen"
+  },
+  {
+    "name": "Military Urban Camo Pants",
+    "category": "clothing",
+    "moduleName": "Base.Trousers_CamoUrban"
+  },
+  {
+    "name": "Military Green Camo Shorts",
+    "category": "clothing",
+    "moduleName": "Base.Shorts_CamoGreenLong"
+  },
+  {
+    "name": "Military Urban Camo Shorts",
+    "category": "clothing",
+    "moduleName": "Base.Shorts_CamoUrbanLong"
+  },
+  {
+    "name": "Mini Skirt",
+    "category": "clothing",
+    "moduleName": "Base.Skirt_Mini"
+  },
+  {
+    "name": "Chef Pants",
+    "category": "clothing",
+    "moduleName": "Base.Trousers_Chef"
+  },
+  {
+    "name": "Pants",
+    "category": "clothing",
+    "moduleName": "Base.Trousers_DefaultTEXTURE"
+  },
+  {
+    "name": "Pants",
+    "category": "clothing",
+    "moduleName": "Base.Trousers_DefaultTEXTURE_HUE"
+  },
+  {
+    "name": "Pants",
+    "category": "clothing",
+    "moduleName": "Base.Trousers_DefaultTEXTURE_TINT"
+  },
+  {
+    "name": "Jeans",
+    "category": "clothing",
+    "moduleName": "Base.Trousers_Denim"
+  },
+  {
+    "name": "Firefighter Pants",
+    "category": "clothing",
+    "moduleName": "Base.Trousers_Fireman"
+  },
+  {
+    "name": "Baggy Jeans",
+    "category": "clothing",
+    "moduleName": "Base.Trousers_JeanBaggy"
+  },
+  {
+    "name": "Padded Pants",
+    "category": "clothing",
+    "moduleName": "Base.Trousers_Padded"
+  },
+  {
+    "name": "Police Trooper Pants",
+    "category": "clothing",
+    "moduleName": "Base.Trousers_Police"
+  },
+  {
+    "name": "Police Deputy Pants",
+    "category": "clothing",
+    "moduleName": "Base.Trousers_PoliceGrey"
+  },
+  {
+    "name": "Prison Guard Pants",
+    "category": "clothing",
+    "moduleName": "Base.Trousers_PrisonGuard"
+  },
+  {
+    "name": "Ranger Pants",
+    "category": "clothing",
+    "moduleName": "Base.Trousers_Ranger"
+  },
+  {
+    "name": "Santa Suit Pants",
+    "category": "clothing",
+    "moduleName": "Base.Trousers_Santa"
+  },
+  {
+    "name": "Green Santa Suit Pants",
+    "category": "clothing",
+    "moduleName": "Base.Trousers_SantaGReen"
+  },
+  {
+    "name": "Medical Pants",
+    "category": "clothing",
+    "moduleName": "Base.Trousers_Scrubs"
+  },
+  {
+    "name": "Suit Pants",
+    "category": "clothing",
+    "moduleName": "Base.Trousers_Suit"
+  },
+  {
+    "name": "Suit Pants",
+    "category": "clothing",
+    "moduleName": "Base.Trousers_SuitTEXTURE"
+  },
+  {
+    "name": "Suit Pants",
+    "category": "clothing",
+    "moduleName": "Base.Trousers_SuitWhite"
+  },
+  {
+    "name": "Pants",
+    "category": "clothing",
+    "moduleName": "Base.Trousers_WhiteTEXTURE"
+  },
+  {
+    "name": "Pants",
+    "category": "clothing",
+    "moduleName": "Base.Trousers_WhiteTINT"
+  },
+  {
+    "name": "Overalls",
+    "category": "clothing",
+    "moduleName": "Base.Dungarees"
+  },
+  {
+    "name": "Army Pants",
+    "category": "clothing",
+    "moduleName": "Base.Trousers_ArmyService"
+  },
+  {
+    "name": "Black Trousers",
+    "category": "clothing",
+    "moduleName": "Base.Trousers_Black"
+  },
+  {
+    "name": "Navy Blue Trousers",
+    "category": "clothing",
+    "moduleName": "Base.Trousers_NavyBlue"
+  },
+  {
+    "name": "Skinny Leather Trousers",
+    "category": "clothing",
+    "moduleName": "Base.TrousersMesh_Leather"
+  },
+  {
+    "name": "Black Leather Trousers",
+    "category": "clothing",
+    "moduleName": "Base.Trousers_LeatherBlack"
+  },
+  {
+    "name": "Shell Suit Trousers",
+    "category": "clothing",
+    "moduleName": "Base.Trousers_Shellsuit_Black"
+  },
+  {
+    "name": "Shell Suit Trousers",
+    "category": "clothing",
+    "moduleName": "Base.Trousers_Shellsuit_Blue"
+  },
+  {
+    "name": "Shell Suit Trousers",
+    "category": "clothing",
+    "moduleName": "Base.Trousers_Shellsuit_Green"
+  },
+  {
+    "name": "Shell Suit Trousers",
+    "category": "clothing",
+    "moduleName": "Base.Trousers_Shellsuit_Pink"
+  },
+  {
+    "name": "Shell Suit Trousers",
+    "category": "clothing",
+    "moduleName": "Base.Trousers_Shellsuit_Teal"
+  },
+  {
+    "name": "Shell Suit Trousers",
+    "category": "clothing",
+    "moduleName": "Base.Trousers_Shellsuit_TINT"
+  },
+  {
+    "name": "Long Johns",
+    "category": "clothing",
+    "moduleName": "Base.LongJohns"
+  },
+  {
+    "name": "Long Johns Bottoms",
+    "category": "clothing",
+    "moduleName": "Base.LongJohns_Bottoms"
+  },
+  {
+    "name": "Long Socks",
+    "category": "clothing",
+    "moduleName": "Base.Socks_Long"
+  },
+  {
+    "name": "Socks",
+    "category": "clothing",
+    "moduleName": "Base.Socks_Ankle"
+  },
+  {
+    "name": "Boots",
+    "category": "clothing",
+    "moduleName": "Base.Shoes_BlackBoots"
+  },
+  {
+    "name": "Bowling Shoes",
+    "category": "clothing",
+    "moduleName": "Base.Shoes_BlackBoots"
+  },
+  {
+    "name": "Fancy Shoes",
+    "category": "clothing",
+    "moduleName": "Base.Shoes_FlipFlop"
+  },
+  {
+    "name": "Flip Flops",
+    "category": "clothing",
+    "moduleName": "Base.Shoes_FlipFlop"
+  },
+  {
+    "name": "Military Boots",
+    "category": "clothing",
+    "moduleName": "Base.Shoes_ArmyBoots"
+  },
+  {
+    "name": "Military Desert Boots",
+    "category": "clothing",
+    "moduleName": "Base.Shoes_ArmyBootsDesert"
+  },
+  {
+    "name": "Rain Boots",
+    "category": "clothing",
+    "moduleName": "Base.Shoes_Wellies"
+  },
+  {
+    "name": "Riding Boots",
+    "category": "clothing",
+    "moduleName": "Base.Shoes_RidingBoots"
+  },
+  {
+    "name": "Sandals",
+    "category": "clothing",
+    "moduleName": "Base.Shoes_Sandals"
+  },
+  {
+    "name": "Strapped Shoes",
+    "category": "clothing",
+    "moduleName": "Base.Shoes_Strapped"
+  },
+  {
+    "name": "Shoes",
+    "category": "clothing",
+    "moduleName": "Base.Shoes_Black"
+  },
+  {
+    "name": "Shoes",
+    "category": "clothing",
+    "moduleName": "Base.Shoes_Brown"
+  },
+  {
+    "name": "Shoes",
+    "category": "clothing",
+    "moduleName": "Base.Shoes_Random"
+  },
+  {
+    "name": "Slippers",
+    "category": "clothing",
+    "moduleName": "Base.Shoes_Slippers"
+  },
+  {
+    "name": "Sneakers",
+    "category": "clothing",
+    "moduleName": "Base.Shoes_RedTrainers"
+  },
+  {
+    "name": "Sneakers",
+    "category": "clothing",
+    "moduleName": "Base.Shoes_BlueTrainers"
+  },
+  {
+    "name": "Sneakers",
+    "category": "clothing",
+    "moduleName": "Base.Shoes_TrainerTINT"
+  },
+  {
+    "name": "Bikini",
+    "category": "clothing",
+    "moduleName": "Base.Bikini_TINT"
+  },
+  {
+    "name": "Bikini",
+    "category": "clothing",
+    "moduleName": "Base.Bikini_Pattern01"
+  },
+  {
+    "name": "Bunny Suit",
+    "category": "clothing",
+    "moduleName": "Base.BunnySuitBlack"
+  },
+  {
+    "name": "Bunny Suit",
+    "category": "clothing",
+    "moduleName": "Base.BunnySuitPink"
+  },
+  {
+    "name": "Swimsuit",
+    "category": "clothing",
+    "moduleName": "Base.Swimsuit_TINT"
+  },
+  {
+    "name": "Swim Trunks",
+    "category": "clothing",
+    "moduleName": "Base.SwimTrunks_Blue"
+  },
+  {
+    "name": "Swim Trunks",
+    "category": "clothing",
+    "moduleName": "Base.SwimTrunks_Green"
+  },
+  {
+    "name": "Swim Trunks",
+    "category": "clothing",
+    "moduleName": "Base.SwimTrunks_Red"
+  },
+  {
+    "name": "Swim Trunks",
+    "category": "clothing",
+    "moduleName": "Base.SwimTrunks_Yellow"
+  },
+  {
+    "name": "Corset",
+    "category": "clothing",
+    "moduleName": "Base.Corset"
+  },
+  {
+    "name": "Black Corset",
+    "category": "clothing",
+    "moduleName": "Base.Corset_Black"
+  },
+  {
+    "name": "Red Corset",
+    "category": "clothing",
+    "moduleName": "Base.Corset_Red"
+  },
+  {
+    "name": "Medical Corset",
+    "category": "clothing",
+    "moduleName": "Base.Corset_Medical"
+  },
+  {
+    "name": "Strapless Bra",
+    "category": "clothing",
+    "moduleName": "Base.Bra_Strapless_White"
+  },
+  {
+    "name": "Black Strapless Bra",
+    "category": "clothing",
+    "moduleName": "Base.Bra_Strapless_Black"
+  },
+  {
+    "name": "Black Frilly Strapless Bra",
+    "category": "clothing",
+    "moduleName": "Base.Bra_Strapless_FrillyBlack"
+  },
+  {
+    "name": "Pink Frilly Strapless Bra",
+    "category": "clothing",
+    "moduleName": "Base.Bra_Strapless_FrillyPink"
+  },
+  {
+    "name": "Red Frilly Strapless Bra",
+    "category": "clothing",
+    "moduleName": "Base.Bra_Strapless_FrillyRed"
+  },
+  {
+    "name": "Red Spots Strapless Bra",
+    "category": "clothing",
+    "moduleName": "Base.Bra_Strapless_RedSpots"
+  },
+  {
+    "name": "Animal Print Strapless Bra",
+    "category": "clothing",
+    "moduleName": "Base.Bra_Strapless_AnimalPrint"
+  },
+  {
+    "name": "Straps Bra",
+    "category": "clothing",
+    "moduleName": "Base.Bra_Straps_White"
+  },
+  {
+    "name": "Black Straps Bra",
+    "category": "clothing",
+    "moduleName": "Base.Bra_Straps_Black"
+  },
+  {
+    "name": "Black Frilly Straps Bra",
+    "category": "clothing",
+    "moduleName": "Base.Bra_Straps_FrillyBlack"
+  },
+  {
+    "name": "Pink Frilly Straps Bra",
+    "category": "clothing",
+    "moduleName": "Base.Bra_Straps_FrillyPink"
+  },
+  {
+    "name": "Red Frilly Straps Bra",
+    "category": "clothing",
+    "moduleName": "Base.Bra_Straps_FrillyRed"
+  },
+  {
+    "name": "Animal Print Straps Bra",
+    "category": "clothing",
+    "moduleName": "Base.Bra_Straps_AnimalPrint"
+  },
+  {
+    "name": "Boxers",
+    "category": "clothing",
+    "moduleName": "Base.Boxers_White"
+  },
+  {
+    "name": "Boxers - Black Silk",
+    "category": "clothing",
+    "moduleName": "Base.Boxers_Silk_Black"
+  },
+  {
+    "name": "Boxers - Red Silk",
+    "category": "clothing",
+    "moduleName": "Base.Boxers_Silk_Red"
+  },
+  {
+    "name": "Boxers - Red Stripes",
+    "category": "clothing",
+    "moduleName": "Base.Boxers_RedStripes"
+  },
+  {
+    "name": "Boxers - Hearts",
+    "category": "clothing",
+    "moduleName": "Base.Boxers_Hearts"
+  },
+  {
+    "name": "Briefs",
+    "category": "clothing",
+    "moduleName": "Base.Briefs_White"
+  },
+  {
+    "name": "Briefs (Animal Print)",
+    "category": "clothing",
+    "moduleName": "Base.Briefs_AnimalPrints"
+  },
+  {
+    "name": "Trunks",
+    "category": "clothing",
+    "moduleName": "Base.Briefs_SmallTrunks_WhiteTINT"
+  },
+  {
+    "name": "Black Trunks",
+    "category": "clothing",
+    "moduleName": "Base.Briefs_SmallTrunks_Black"
+  },
+  {
+    "name": "Blue Trunks",
+    "category": "clothing",
+    "moduleName": "Base.Briefs_SmallTrunks_Blue"
+  },
+  {
+    "name": "Red Trunks",
+    "category": "clothing",
+    "moduleName": "Base.Briefs_SmallTrunks_Red"
+  },
+  {
+    "name": "Underpants",
+    "category": "clothing",
+    "moduleName": "Base.Underpants_White"
+  },
+  {
+    "name": "Black Underpants",
+    "category": "clothing",
+    "moduleName": "Base.Underpants_Black"
+  },
+  {
+    "name": "Black Frilly Underpants",
+    "category": "clothing",
+    "moduleName": "Base.FrillyUnderpants_Black"
+  },
+  {
+    "name": "Pink Frilly Underpants",
+    "category": "clothing",
+    "moduleName": "Base.FrillyUnderpants_Pink"
+  },
+  {
+    "name": "Red Frilly Underpants",
+    "category": "clothing",
+    "moduleName": "Base.FrillyUnderpants_Red"
+  },
+  {
+    "name": "Red Spots Underpants",
+    "category": "clothing",
+    "moduleName": "Base.Underpants_RedSpots"
+  },
+  {
+    "name": "Animal Print Underpants",
+    "category": "clothing",
+    "moduleName": "Base.Underpants_AnimalPrint"
+  },
+  {
+    "name": "Black Stockings",
+    "category": "clothing",
+    "moduleName": "Base.StockingsBlack"
+  },
+  {
+    "name": "White Stockings",
+    "category": "clothing",
+    "moduleName": "Base.StockingsWhite"
+  },
+  {
+    "name": "Semi-Transparent Stockings",
+    "category": "clothing",
+    "moduleName": "Base.StockingsBlackSemiTrans"
+  },
+  {
+    "name": "Transparent Stockings",
+    "category": "clothing",
+    "moduleName": "Base.StockingsBlackTrans"
+  },
+  {
+    "name": "Tights",
+    "category": "clothing",
+    "moduleName": "Base.TightsBlack"
+  },
+  {
+    "name": "Tights Semi Transparent",
+    "category": "clothing",
+    "moduleName": "Base.TightsBlackSemiTrans"
+  },
+  {
+    "name": "Tights Transparent",
+    "category": "clothing",
+    "moduleName": "Base.TightsBlackTrans"
+  },
+  {
+    "name": "Fishnets",
+    "category": "clothing",
+    "moduleName": "Base.BlackFishnet"
+  },
+  {
+    "name": "Garter",
+    "category": "clothing",
+    "moduleName": "Base.Garter"
+  },
+  {
+    "name": "Bunny Tail",
+    "category": "clothing",
+    "moduleName": "Base.BunnyTail"
+  },
+  {
+    "name": "Spiffo Suit Tail",
+    "category": "clothing",
+    "moduleName": "Base.SpiffoTail"
+  },
+  {
+    "name": "Aviator Glasses",
+    "category": "clothing",
+    "moduleName": "Base.Glasses_Aviators"
+  },
+  {
+    "name": "Glasses",
+    "category": "clothing",
+    "moduleName": "Base.Glasses_Normal"
+  },
+  {
+    "name": "Reading Glasses",
+    "category": "clothing",
+    "moduleName": "Base.Glasses_Reading"
+  },
+  {
+    "name": "Reflective Sunglasses",
+    "category": "clothing",
+    "moduleName": "Base.Glasses"
+  },
+  {
+    "name": "Safety Goggles",
+    "category": "clothing",
+    "moduleName": "Base.Glasses_SafetyGoggles"
+  },
+  {
+    "name": "Shooting Glasses",
+    "category": "clothing",
+    "moduleName": "Base.Glasses_Shooting"
+  },
+  {
+    "name": "Ski Goggles (Black)",
+    "category": "clothing",
+    "moduleName": "Base.Glasses_SkiGoggles"
+  },
+  {
+    "name": "Sunglasses",
+    "category": "clothing",
+    "moduleName": "Base.Glasses_Sun"
+  },
+  {
+    "name": "Swimming Goggles",
+    "category": "clothing",
+    "moduleName": "Base.Glasses_SwimmingGoggles"
+  },
+  {
+    "name": "Eyepatch",
+    "category": "clothing",
+    "moduleName": "Base.Glasses_Eyepatch_Left"
+  },
+  {
+    "name": "Eyepatch",
+    "category": "clothing",
+    "moduleName": "Base.Glasses_Eyepatch_Right"
+  },
+  {
+    "name": "Balaclava",
+    "category": "clothing",
+    "moduleName": "Base.Hat_BalaclavaFull"
+  },
+  {
+    "name": "Bandana (Face)",
+    "category": "clothing",
+    "moduleName": "Base.Hat_BandanaMask"
+  },
+  {
+    "name": "Bandana (Face)",
+    "category": "clothing",
+    "moduleName": "Base.Hat_BandanaMaskTINT"
+  },
+  {
+    "name": "Dust Mask",
+    "category": "clothing",
+    "moduleName": "Base.Hat_DustMask"
+  },
+  {
+    "name": "Gas Mask",
+    "category": "clothing",
+    "moduleName": "Base.Hat_GasMask"
+  },
+  {
+    "name": "Hockey Mask",
+    "category": "clothing",
+    "moduleName": "Base.Hat_HockeyMask"
+  },
+  {
+    "name": "Medical Mask",
+    "category": "clothing",
+    "moduleName": "Base.Hat_SurgicalMask_Blue"
+  },
+  {
+    "name": "Medical Mask",
+    "category": "clothing",
+    "moduleName": "Base.Hat_SurgicalMask_Green"
+  },
+  {
+    "name": "Open Balaclava",
+    "category": "clothing",
+    "moduleName": "Base.Hat_BalaclavaFace"
+  },
+  {
+    "name": "Welder Mask",
+    "category": "clothing",
+    "moduleName": "Base.WeldingMask"
+  },
+  {
+    "name": "Air Force Helmet",
+    "category": "clothing",
+    "moduleName": "Base.Hat_SPHhelmet"
+  },
+  {
+    "name": "Antlers Boppers",
+    "category": "clothing",
+    "moduleName": "Base.Hat_Antlers"
+  },
+  {
+    "name": "Bandana (Head)",
+    "category": "clothing",
+    "moduleName": "Base.Hat_Bandana"
+  },
+  {
+    "name": "Bandana (Head)",
+    "category": "clothing",
+    "moduleName": "Base.Hat_BandanaTINT"
+  },
+  {
+    "name": "Bandana (Tied)",
+    "category": "clothing",
+    "moduleName": "Base.Hat_BandanaTied"
+  },
+  {
+    "name": "Bandana (Tied)",
+    "category": "clothing",
+    "moduleName": "Base.Hat_BandanaTiedTINT"
+  },
+  {
+    "name": "Baseball Cap",
+    "category": "clothing",
+    "moduleName": "Base.Hat_BaseballCap"
+  },
+  {
+    "name": "Baseball Cap",
+    "category": "clothing",
+    "moduleName": "Base.HatBaseballCap_Reverse"
+  },
+  {
+    "name": "Baseball Cap",
+    "category": "clothing",
+    "moduleName": "Base.Hat_BaseballCapKY"
+  },
+  {
+    "name": "Army Baseball Cap",
+    "category": "clothing",
+    "moduleName": "Base.Hat_BaseballCapKY_Reverse"
+  },
+  {
+    "name": "Baseball Cap",
+    "category": "clothing",
+    "moduleName": "Base.HatBaseballCapKY_Red"
+  },
+  {
+    "name": "Baseball Cap",
+    "category": "clothing",
+    "moduleName": "Base.Hat_BaseballCapBlue"
+  },
+  {
+    "name": "Baseball Cap",
+    "category": "clothing",
+    "moduleName": "Base.Hat_BaseballCapBlue_Reverse"
+  },
+  {
+    "name": "Baseball Cap",
+    "category": "clothing",
+    "moduleName": "Base.Hat_BaseballCapRed"
+  },
+  {
+    "name": "Baseball Cap",
+    "category": "clothing",
+    "moduleName": "Base.Hat_BaseballCapRed_Reverse"
+  },
+  {
+    "name": "Baseball Cap",
+    "category": "clothing",
+    "moduleName": "Base.Hat_BaseballCapGreen"
+  },
+  {
+    "name": "Baseball Cap",
+    "category": "clothing",
+    "moduleName": "Base.Hat_BaseballCapGreen_Reverse"
+  },
+  {
+    "name": "Baseball Cap",
+    "category": "clothing",
+    "moduleName": "Base.Hat_BaseballCapArmy"
+  },
+  {
+    "name": "Kentucky Baseball Helmet",
+    "category": "clothing",
+    "moduleName": "Base.Hat_BaseballHelmet_KY"
+  },
+  {
+    "name": "Riverside Rangers Baseball Helmet",
+    "category": "clothing",
+    "moduleName": "Base.Hat_BaseballHelmet_Rangers"
+  },
+  {
+    "name": "Z Hurricanes Baseball Helmet",
+    "category": "clothing",
+    "moduleName": "Base.Hat_BaseballHelmet_Z"
+  },
+  {
+    "name": "Beanie Hat",
+    "category": "clothing",
+    "moduleName": "Base.Hat_Beany"
+  },
+  {
+    "name": "Beret",
+    "category": "clothing",
+    "moduleName": "Base.Hat_Beret"
+  },
+  {
+    "name": "Army Beret",
+    "category": "clothing",
+    "moduleName": "Base.Hat_BeretArmy"
+  },
+  {
+    "name": "Bicycle Helmet",
+    "category": "clothing",
+    "moduleName": "Base.Hat_BicycleHelmet"
+  },
+  {
+    "name": "Boonie Hat",
+    "category": "clothing",
+    "moduleName": "Base.Hat_BonnieHat"
+  },
+  {
+    "name": "Boonie Hat",
+    "category": "clothing",
+    "moduleName": "Base.Hat_BonnieHat_CamoGreen"
+  },
+  {
+    "name": "Boxing Head Gear",
+    "category": "clothing",
+    "moduleName": "Base.Hat_BoxingRed"
+  },
+  {
+    "name": "Boxing Head Gear",
+    "category": "clothing",
+    "moduleName": "Base.Hat_BoxingBlue"
+  },
+  {
+    "name": "Bucket Hat",
+    "category": "clothing",
+    "moduleName": "Base.Hat_BucketHat"
+  },
+  {
+    "name": "Bunny Ears",
+    "category": "clothing",
+    "moduleName": "Base.Hat_BunnyEarsBlack"
+  },
+  {
+    "name": "Bunny Ears",
+    "category": "clothing",
+    "moduleName": "Base.Hat_BunnyEarsWhite"
+  },
+  {
+    "name": "Chef Hat",
+    "category": "clothing",
+    "moduleName": "Base.Hat_ChefHat"
+  },
+  {
+    "name": "Cowboy Hat",
+    "category": "clothing",
+    "moduleName": "Base.Hat_Cowboy"
+  },
+  {
+    "name": "Crash Helmet",
+    "category": "clothing",
+    "moduleName": "Base.Hat_CrashHelmet"
+  },
+  {
+    "name": "Ear Muffs",
+    "category": "clothing",
+    "moduleName": "Base.Hat_EarMuffs"
+  },
+  {
+    "name": "Ear Protectors",
+    "category": "clothing",
+    "moduleName": "Base.Hat_EarMuff_Protectors"
+  },
+  {
+    "name": "Fast Food Server Hat",
+    "category": "clothing",
+    "moduleName": "Base.Hat_FastFood"
+  },
+  {
+    "name": "Fedora",
+    "category": "clothing",
+    "moduleName": "Base.Hat_Fedora"
+  },
+  {
+    "name": "Fedora",
+    "category": "clothing",
+    "moduleName": "Base.Hat_Fedora_Delmonte"
+  },
+  {
+    "name": "Firefighter Helmet",
+    "category": "clothing",
+    "moduleName": "Base.Hat_Fireman"
+  },
+  {
+    "name": "Football Helmet",
+    "category": "clothing",
+    "moduleName": "Base.Hat_FootballHelmet"
+  },
+  {
+    "name": "Furry Ears",
+    "category": "clothing",
+    "moduleName": "Base.Hat_FurryEars"
+  },
+  {
+    "name": "GoldStar Boppers",
+    "category": "clothing",
+    "moduleName": "Base.Hat_GoldStar"
+  },
+  {
+    "name": "Tartan Golf Cap",
+    "category": "clothing",
+    "moduleName": "Base.Hat_GolfHat"
+  },
+  {
+    "name": "Tartan Golf Cap",
+    "category": "clothing",
+    "moduleName": "Base.Hat_GolfHatTINT"
+  },
+  {
+    "name": "Hard Hat",
+    "category": "clothing",
+    "moduleName": "Base.Hat_HardHat"
+  },
+  {
+    "name": "Hat Arrow",
+    "category": "clothing",
+    "moduleName": "Base.Hat_JokeArrow"
+  },
+  {
+    "name": "Hat Knife",
+    "category": "clothing",
+    "moduleName": "Base.Hat_JokeKnife"
+  },
+  {
+    "name": "Hockey Helmet",
+    "category": "clothing",
+    "moduleName": "Base.Hat_HockeyHelmet"
+  },
+  {
+    "name": "Ice Cream Server Hat",
+    "category": "clothing",
+    "moduleName": "Base.Hat_FastFood_IceCream"
+  },
+  {
+    "name": "Jay Chicken Hat",
+    "category": "clothing",
+    "moduleName": "Base.Hat_Jay"
+  },
+  {
+    "name": "Jockey Helmet - 1",
+    "category": "clothing",
+    "moduleName": "Base.Hat_JockeyHelmet01"
+  },
+  {
+    "name": "Jockey Helmet - 2",
+    "category": "clothing",
+    "moduleName": "Base.Hat_JockeyHelmet02"
+  },
+  {
+    "name": "Jockey Helmet - 3",
+    "category": "clothing",
+    "moduleName": "Base.Hat_JockeyHelmet03"
+  },
+  {
+    "name": "Jockey Helmet - 4",
+    "category": "clothing",
+    "moduleName": "Base.Hat_JockeyHelmet04"
+  },
+  {
+    "name": "Jockey Helmet - 5",
+    "category": "clothing",
+    "moduleName": "Base.Hat_JockeyHelmet05"
+  },
+  {
+    "name": "Jockey Helmet - 6",
+    "category": "clothing",
+    "moduleName": "Base.Hat_JockeyHelmet06"
+  },
+  {
+    "name": "Medical Cap",
+    "category": "clothing",
+    "moduleName": "Base.Hat_SurgicalCap_Blue"
+  },
+  {
+    "name": "Medical Cap",
+    "category": "clothing",
+    "moduleName": "Base.Hat_SurgicalCap_Green"
+  },
+  {
+    "name": "Military Helmet",
+    "category": "clothing",
+    "moduleName": "Base.Hat_Army"
+  },
+  {
+    "name": "Mining Helmet",
+    "category": "clothing",
+    "moduleName": "Base.Hat_HardHat_Miner"
+  },
+  {
+    "name": "Motorcycle Helmet",
+    "category": "clothing",
+    "moduleName": "Base.Hat_CrashHelmetFULL"
+  },
+  {
+    "name": "Newspaper Hat",
+    "category": "clothing",
+    "moduleName": "Base.Hat_NewspaperHat"
+  },
+  {
+    "name": "Nuclear Biochemical Mask",
+    "category": "clothing",
+    "moduleName": "Base.Hat_NBCmask"
+  },
+  {
+    "name": "Party Hat with Stars",
+    "category": "clothing",
+    "moduleName": "Base.Hat_PartyHat_Stars"
+  },
+  {
+    "name": "Colored Party Hat",
+    "category": "clothing",
+    "moduleName": "Base.Hat_PartyHat_TINT"
+  },
+  {
+    "name": "Peaked Army Cap",
+    "category": "clothing",
+    "moduleName": "Base.Hat_PeakedCapArmy"
+  },
+  {
+    "name": "Police Deputy Hat",
+    "category": "clothing",
+    "moduleName": "Base.Hat_Police_Grey"
+  },
+  {
+    "name": "Police Motorcycle Helmet",
+    "category": "clothing",
+    "moduleName": "Base.Hat_CrashHelmet_Police"
+  },
+  {
+    "name": "Police Trooper Hat",
+    "category": "clothing",
+    "moduleName": "Base.Hat_Police"
+  },
+  {
+    "name": "Raccoon Hat",
+    "category": "clothing",
+    "moduleName": "Base.Hat_Raccoon"
+  },
+  {
+    "name": "Ranger Hat",
+    "category": "clothing",
+    "moduleName": "Base.Hat_Ranger"
+  },
+  {
+    "name": "Riding Helmet",
+    "category": "clothing",
+    "moduleName": "Base.Hat_RidingHelmet"
+  },
+  {
+    "name": "Riot Helmet",
+    "category": "clothing",
+    "moduleName": "Base.Hat_RiotHelmet"
+  },
+  {
+    "name": "Santa Hat",
+    "category": "clothing",
+    "moduleName": "Base.Hat_SantaHat"
+  },
+  {
+    "name": "Green Santa Hat",
+    "category": "clothing",
+    "moduleName": "Base.Hat_SantaHatGreen"
+  },
+  {
+    "name": "Shower Cap",
+    "category": "clothing",
+    "moduleName": "Base.Hat_ShowerCap"
+  },
+  {
+    "name": "Spiffo's Server Hat",
+    "category": "clothing",
+    "moduleName": "Base.Hat_FastFood_Spiffo"
+  },
+  {
+    "name": "Spiffo Suit Head",
+    "category": "clothing",
+    "moduleName": "Base.Hat_Spiffo"
+  },
+  {
+    "name": "Summer Hat",
+    "category": "clothing",
+    "moduleName": "Base.Hat_SummerHat"
+  },
+  {
+    "name": "Sweatband",
+    "category": "clothing",
+    "moduleName": "Base.Hat_Sweatband"
+  },
+  {
+    "name": "Tin Foil Hat",
+    "category": "clothing",
+    "moduleName": "Base.Hat_TinFoilHat"
+  },
+  {
+    "name": "USA Crash Helmet",
+    "category": "clothing",
+    "moduleName": "Base.Hat_CrashHelmet_Stars"
+  },
+  {
+    "name": "Visor",
+    "category": "clothing",
+    "moduleName": "Base.Hat_VisorBlack"
+  },
+  {
+    "name": "Visor",
+    "category": "clothing",
+    "moduleName": "Base.Hat_VisorRed"
+  },
+  {
+    "name": "Visor",
+    "category": "clothing",
+    "moduleName": "Base.Hat_VisorWhiteTINT"
+  },
+  {
+    "name": "Wedding Veil",
+    "category": "clothing",
+    "moduleName": "Base.Hat_WeddingVeil"
+  },
+  {
+    "name": "Winter Hat",
+    "category": "clothing",
+    "moduleName": "Base.Hat_WinterHat"
+  },
+  {
+    "name": "Woolly Hat",
+    "category": "clothing",
+    "moduleName": "Base.Hat_WoolyHat"
+  },
+  {
+    "name": "Scarf",
+    "category": "clothing",
+    "moduleName": "Base.Scarf_White"
+  },
+  {
+    "name": "Scarf",
+    "category": "clothing",
+    "moduleName": "Base.Scarf_StripeBlackWhite"
+  },
+  {
+    "name": "Scarf",
+    "category": "clothing",
+    "moduleName": "Base.Scarf_StripeBlueWhite"
+  },
+  {
+    "name": "Scarf",
+    "category": "clothing",
+    "moduleName": "Base.Scarf_StripeRedWhite"
+  },
+  {
+    "name": "Boxing Gloves",
+    "category": "clothing",
+    "moduleName": "Base.Gloves_BoxingRed"
+  },
+  {
+    "name": "Boxing Gloves",
+    "category": "clothing",
+    "moduleName": "Base.Gloves_BoxingBlue"
+  },
+  {
+    "name": "Fingerless Gloves",
+    "category": "clothing",
+    "moduleName": "Base.Gloves_FingerlessGloves"
+  },
+  {
+    "name": "Gloves",
+    "category": "clothing",
+    "moduleName": "Base.Gloves_WhiteTINT"
+  },
+  {
+    "name": "Leather Gloves",
+    "category": "clothing",
+    "moduleName": "Base.Gloves_LeatherGloves"
+  },
+  {
+    "name": "Leather Gloves",
+    "category": "clothing",
+    "moduleName": "Base.Gloves_LeatherGlovesBlack"
+  },
+  {
+    "name": "Long Gloves",
+    "category": "clothing",
+    "moduleName": "Base.Gloves_LongWomenGloves"
+  },
+  {
+    "name": "Surgical Gloves",
+    "category": "clothing",
+    "moduleName": "Base.Gloves_Surgical"
+  },
+  {
+    "name": "Belt",
+    "category": "clothing",
+    "moduleName": "Base.Belt2"
+  },
+  {
+    "name": "Bullets Bandolier",
+    "category": "clothing",
+    "moduleName": "Base.AmmoStrap_Bullets"
+  },
+  {
+    "name": "Double Holster",
+    "category": "clothing",
+    "moduleName": "Base.HolsterDouble"
+  },
+  {
+    "name": "Holster",
+    "category": "clothing",
+    "moduleName": "Base.HolsterSimple"
+  },
+  {
+    "name": "Shells Bandolier",
+    "category": "clothing",
+    "moduleName": "Base.AmmoStrap_Shells"
+  },
+  {
+    "name": "Black Choker",
+    "category": "clothing",
+    "moduleName": "Base.Necklace_Choker"
+  },
+  {
+    "name": "Choker with Sapphire Stone",
+    "category": "clothing",
+    "moduleName": "Base.Necklace_Choker_Sapphire"
+  },
+  {
+    "name": "Choker with Amber Stone",
+    "category": "clothing",
+    "moduleName": "Base.Necklace_Choker_Amber"
+  },
+  {
+    "name": "Choker with Diamond",
+    "category": "clothing",
+    "moduleName": "Base.Necklace_Choker_Diamond"
+  },
+  {
+    "name": "Bow Tie",
+    "category": "clothing",
+    "moduleName": "Base.Tie_BowTieFull"
+  },
+  {
+    "name": "Clip-on Bow Tie",
+    "category": "clothing",
+    "moduleName": "Base.Tie_BowTieWorn"
+  },
+  {
+    "name": "Tie",
+    "category": "clothing",
+    "moduleName": "Base.Tie_Full"
+  },
+  {
+    "name": "Clip-on Tie",
+    "category": "clothing",
+    "moduleName": "Base.Tie_Worn"
+  },
+  {
+    "name": "Clip-on Spiffo Tie",
+    "category": "clothing",
+    "moduleName": "Base.Tie_Worn_Spiffo"
+  },
+  {
+    "name": "Spiffo Tie",
+    "category": "clothing",
+    "moduleName": "Base.Tie_Full_Spiffo"
+  },
+  {
+    "name": "Dog Tags",
+    "category": "clothing",
+    "moduleName": "Base.Necklace_DogTag"
+  },
+  {
+    "name": "Gold Necklace",
+    "category": "clothing",
+    "moduleName": "Base.Necklace_Gold"
+  },
+  {
+    "name": "Gold Necklace with Ruby Stone",
+    "category": "clothing",
+    "moduleName": "Base.Necklace_GoldRuby"
+  },
+  {
+    "name": "Gold Necklace with Diamond",
+    "category": "clothing",
+    "moduleName": "Base.Necklace_GoldDiamond"
+  },
+  {
+    "name": "Silver Necklace",
+    "category": "clothing",
+    "moduleName": "Base.Necklace_Silver"
+  },
+  {
+    "name": "Silver Necklace with Sapphire Stone",
+    "category": "clothing",
+    "moduleName": "Base.Necklace_SilverSapphire"
+  },
+  {
+    "name": "Silver Necklace with Crucifix",
+    "category": "clothing",
+    "moduleName": "Base.Necklace_SilverCrucifix"
+  },
+  {
+    "name": "Silver Necklace with Diamond",
+    "category": "clothing",
+    "moduleName": "Base.Necklace_SilverDiamond"
+  },
+  {
+    "name": "Necklace with Crucifix",
+    "category": "clothing",
+    "moduleName": "Base.Necklace_Crucifix"
+  },
+  {
+    "name": "Necklace with Ying and Yang Symbol",
+    "category": "clothing",
+    "moduleName": "Base.Necklace_YingYang"
+  },
+  {
+    "name": "Pearl Necklace",
+    "category": "clothing",
+    "moduleName": "Base.Necklace_Pearl"
+  },
+  {
+    "name": "Long Gold Necklace",
+    "category": "clothing",
+    "moduleName": "Base.NecklaceLong_Gold"
+  },
+  {
+    "name": "Long Gold Necklace with Diamond",
+    "category": "clothing",
+    "moduleName": "Base.NecklaceLong_GoldDiamond"
+  },
+  {
+    "name": "Long Silver Necklace",
+    "category": "clothing",
+    "moduleName": "Base.NecklaceLong_Silver"
+  },
+  {
+    "name": "Long Silver Necklace with Emerald",
+    "category": "clothing",
+    "moduleName": "Base.NecklaceLong_SilverEmerald"
+  },
+  {
+    "name": "Long Silver Necklace with Sapphire Stone",
+    "category": "clothing",
+    "moduleName": "Base.NecklaceLong_SilverSapphire"
+  },
+  {
+    "name": "Long Silver Necklace with Diamond",
+    "category": "clothing",
+    "moduleName": "Base.NecklaceLong_SilverDiamond"
+  },
+  {
+    "name": "Long Necklace with Amber Stone",
+    "category": "clothing",
+    "moduleName": "Base.NecklaceLong_Amber"
+  },
+  {
+    "name": "Gold Nose Ring",
+    "category": "clothing",
+    "moduleName": "Base.NoseRing_Gold"
+  },
+  {
+    "name": "Silver Nose Ring",
+    "category": "clothing",
+    "moduleName": "Base.NoseRing_Silver"
+  },
+  {
+    "name": "Gold Nose Stud",
+    "category": "clothing",
+    "moduleName": "Base.NoseStud_Gold"
+  },
+  {
+    "name": "Silver Nose Stud",
+    "category": "clothing",
+    "moduleName": "Base.NoseStud_Silver"
+  },
+  {
+    "name": "Large Gold Looped Earrings",
+    "category": "clothing",
+    "moduleName": "Base.Earring_LoopLrg_Gold"
+  },
+  {
+    "name": "Large Silver Looped Earrings",
+    "category": "clothing",
+    "moduleName": "Base.Earring_LoopLrg_Silver"
+  },
+  {
+    "name": "Medium Silver Looped Earrings",
+    "category": "clothing",
+    "moduleName": "Base.Earring_LoopMed_Silver"
+  },
+  {
+    "name": "Medium Gold Looped Earrings",
+    "category": "clothing",
+    "moduleName": "Base.Earring_LoopMed_Gold"
+  },
+  {
+    "name": "Small Silver Looped Earrings",
+    "category": "clothing",
+    "moduleName": "Base.Earring_LoopSmall_Silver_Both"
+  },
+  {
+    "name": "Small Silver Looped Earrings",
+    "category": "clothing",
+    "moduleName": "Base.Earring_LoopSmall_Silver_Top"
+  },
+  {
+    "name": "Small Gold Looped Earrings",
+    "category": "clothing",
+    "moduleName": "Base.Earring_LoopSmall_Gold_Both"
+  },
+  {
+    "name": "Small Gold Looped Earrings",
+    "category": "clothing",
+    "moduleName": "Base.Earring_LoopSmall_Gold_Top"
+  },
+  {
+    "name": "Gold Stud Earrings",
+    "category": "clothing",
+    "moduleName": "Base.Earring_Stud_Gold"
+  },
+  {
+    "name": "Silver Stud Earrings",
+    "category": "clothing",
+    "moduleName": "Base.Earring_Stud_Silver"
+  },
+  {
+    "name": "Sapphire Stone Earrings",
+    "category": "clothing",
+    "moduleName": "Base.Earring_Stone_Sapphire"
+  },
+  {
+    "name": "Emerald Earrings",
+    "category": "clothing",
+    "moduleName": "Base.Earring_Stone_Emerald"
+  },
+  {
+    "name": "Ruby Earrings",
+    "category": "clothing",
+    "moduleName": "Base.Earring_Stone_Ruby"
+  },
+  {
+    "name": "Pearl Earrings",
+    "category": "clothing",
+    "moduleName": "Base.Earring_Pearl"
+  },
+  {
+    "name": "Dangly Sapphire Earrings",
+    "category": "clothing",
+    "moduleName": "Base.Earring_Dangly_Sapphire"
+  },
+  {
+    "name": "Dangly Emerald Earrings",
+    "category": "clothing",
+    "moduleName": "Base.Earring_Dangly_Emerald"
+  },
+  {
+    "name": "Dangly Ruby Earrings",
+    "category": "clothing",
+    "moduleName": "Base.Earring_Dangly_Ruby"
+  },
+  {
+    "name": "Dangly Diamond Earrings",
+    "category": "clothing",
+    "moduleName": "Base.Earring_Dangly_Diamond"
+  },
+  {
+    "name": "Dangly Pearl Earrings",
+    "category": "clothing",
+    "moduleName": "Base.Earring_Dangly_Pearl"
+  },
+  {
+    "name": "Gold Ring",
+    "category": "clothing",
+    "moduleName": "Base.Ring_Right_MiddleFinger_Gold"
+  },
+  {
+    "name": "Gold Ring",
+    "category": "clothing",
+    "moduleName": "Base.Ring_Left_MiddleFinger_Gold"
+  },
+  {
+    "name": "Gold Ring",
+    "category": "clothing",
+    "moduleName": "Base.Ring_Right_RingFinger_Gold"
+  },
+  {
+    "name": "Gold Ring",
+    "category": "clothing",
+    "moduleName": "Base.Ring_Left_RingFinger_Gold"
+  },
+  {
+    "name": "Silver Ring",
+    "category": "clothing",
+    "moduleName": "Base.Ring_Right_MiddleFinger_Silver"
+  },
+  {
+    "name": "Silver Ring",
+    "category": "clothing",
+    "moduleName": "Base.Ring_Left_MiddleFinger_Silver"
+  },
+  {
+    "name": "Silver Ring",
+    "category": "clothing",
+    "moduleName": "Base.Ring_Right_RingFinger_Silver"
+  },
+  {
+    "name": "Silver Ring",
+    "category": "clothing",
+    "moduleName": "Base.Ring_Left_RingFinger_Silver"
+  },
+  {
+    "name": "Diamond on a Silver Ring",
+    "category": "clothing",
+    "moduleName": "Base.Ring_Right_MiddleFinger_SilverDiamond"
+  },
+  {
+    "name": "Diamond on a Silver Ring",
+    "category": "clothing",
+    "moduleName": "Base.Ring_Left_MiddleFinger_SilverDiamond"
+  },
+  {
+    "name": "Diamond on a Silver Ring",
+    "category": "clothing",
+    "moduleName": "Base.Ring_Right_RingFinger_SilverDiamond"
+  },
+  {
+    "name": "Diamond on a Silver Ring",
+    "category": "clothing",
+    "moduleName": "Base.Ring_Left_RingFinger_SilverDiamond"
+  },
+  {
+    "name": "Ruby on a Gold Ring",
+    "category": "clothing",
+    "moduleName": "Base.Ring_Right_MiddleFinger_GoldRuby"
+  },
+  {
+    "name": "Ruby on a Gold Ring",
+    "category": "clothing",
+    "moduleName": "Base.Ring_Left_MiddleFinger_GoldRuby"
+  },
+  {
+    "name": "Ruby on a Gold Ring",
+    "category": "clothing",
+    "moduleName": "Base.Ring_Right_RingFinger_GoldRuby"
+  },
+  {
+    "name": "Ruby on a Gold Ring",
+    "category": "clothing",
+    "moduleName": "Base.Ring_Left_RingFinger_GoldRuby"
+  },
+  {
+    "name": "Diamond on a Gold Ring",
+    "category": "clothing",
+    "moduleName": "Base.Ring_Right_MiddleFinger_GoldDiamond"
+  },
+  {
+    "name": "Diamond on a Gold Ring",
+    "category": "clothing",
+    "moduleName": "Base.Ring_Left_MiddleFinger_GoldDiamond"
+  },
+  {
+    "name": "Diamond on a Gold Ring",
+    "category": "clothing",
+    "moduleName": "Base.Ring_Right_RingFinger_GoldDiamond"
+  },
+  {
+    "name": "Diamond on a Gold Ring",
+    "category": "clothing",
+    "moduleName": "Base.Ring_Left_RingFinger_GoldDiamond"
+  },
+  {
+    "name": "Classic Wrist Watch with Black Strap",
+    "category": "clothing",
+    "moduleName": "Base.WristWatch_Right_ClassicBlack"
+  },
+  {
+    "name": "Classic Wrist Watch with Black Strap",
+    "category": "clothing",
+    "moduleName": "Base.WristWatch_Left_ClassicBlack"
+  },
+  {
+    "name": "Classic Wrist Watch with Brown Strap",
+    "category": "clothing",
+    "moduleName": "Base.WristWatch_Right_ClassicBrown"
+  },
+  {
+    "name": "Classic Wrist Watch with Brown Strap",
+    "category": "clothing",
+    "moduleName": "Base.WristWatch_Left_ClassicBrown"
+  },
+  {
+    "name": "Standard Military Issue Wrist Watch",
+    "category": "clothing",
+    "moduleName": "Base.WristWatch_Right_ClassicMilitary"
+  },
+  {
+    "name": "Standard Military Issue Wrist Watch",
+    "category": "clothing",
+    "moduleName": "Base.WristWatch_Left_ClassicMilitary"
+  },
+  {
+    "name": "Gold Wrist Watch",
+    "category": "clothing",
+    "moduleName": "Base.WristWatch_Right_ClassicGold"
+  },
+  {
+    "name": "Gold Wrist Watch",
+    "category": "clothing",
+    "moduleName": "Base.WristWatch_Left_ClassicGold"
+  },
+  {
+    "name": "Black Digital Watch",
+    "category": "clothing",
+    "moduleName": "Base.WristWatch_Right_DigitalBlack"
+  },
+  {
+    "name": "Black Digital Watch",
+    "category": "clothing",
+    "moduleName": "Base.WristWatch_Left_DigitalBlack"
+  },
+  {
+    "name": "Red Digital Watch",
+    "category": "clothing",
+    "moduleName": "Base.WristWatch_Right_DigitalRed"
+  },
+  {
+    "name": "Red Digital Watch",
+    "category": "clothing",
+    "moduleName": "Base.WristWatch_Left_DigitalRed"
+  },
+  {
+    "name": "Metallic Dress Style Digital Watch",
+    "category": "clothing",
+    "moduleName": "Base.WristWatch_Right_DigitalDress"
+  },
+  {
+    "name": "Metallic Dress Style Digital Watch",
+    "category": "clothing",
+    "moduleName": "Base.WristWatch_Left_DigitalDress"
+  },
+  {
+    "name": "Gold Bangle",
+    "category": "clothing",
+    "moduleName": "Base.Bracelet_BangleRightGold"
+  },
+  {
+    "name": "Gold Bangle",
+    "category": "clothing",
+    "moduleName": "Base.Bracelet_BangleLeftGold"
+  },
+  {
+    "name": "Gold Chain Bracelet",
+    "category": "clothing",
+    "moduleName": "Base.Bracelet_ChainRightGold"
+  },
+  {
+    "name": "Gold Chain Bracelet",
+    "category": "clothing",
+    "moduleName": "Base.Bracelet_ChainLeftGold"
+  },
+  {
+    "name": "Silver Bangle",
+    "category": "clothing",
+    "moduleName": "Base.Bracelet_BangleRightSilver"
+  },
+  {
+    "name": "Silver Bangle",
+    "category": "clothing",
+    "moduleName": "Base.Bracelet_BangleLeftSilver"
+  },
+  {
+    "name": "Silver Chain Bracelet",
+    "category": "clothing",
+    "moduleName": "Base.Bracelet_ChainRightSilver"
+  },
+  {
+    "name": "Silver Chain Bracelet",
+    "category": "clothing",
+    "moduleName": "Base.Bracelet_ChainLeftSilver"
+  },
+  {
+    "name": "Friendship Bracelet",
+    "category": "clothing",
+    "moduleName": "Base.Bracelet_RightFriendshipTINT"
+  },
+  {
+    "name": "Friendship Bracelet",
+    "category": "clothing",
+    "moduleName": "Base.Bracelet_LeftFriendshipTINT"
+  },
+  {
+    "name": "Belly Button Dangle Gold",
+    "category": "clothing",
+    "moduleName": "Base.BellyButton_DangleGold"
+  },
+  {
+    "name": "Belly Button Dangle Gold Ruby",
+    "category": "clothing",
+    "moduleName": "Base.BellyButton_DangleGoldRuby"
+  },
+  {
+    "name": "Belly Button Dangle Silver",
+    "category": "clothing",
+    "moduleName": "Base.BellyButton_DangleSilver"
+  },
+  {
+    "name": "Belly Button Dangle Silver Diamond",
+    "category": "clothing",
+    "moduleName": "Base.BellyButton_DangleSilverDiamond"
+  },
+  {
+    "name": "Belly Button Ring Gold",
+    "category": "clothing",
+    "moduleName": "Base.BellyButton_RingGold"
+  },
+  {
+    "name": "Belly Button Ring Gold Diamond",
+    "category": "clothing",
+    "moduleName": "Base.BellyButton_RingGoldDiamond"
+  },
+  {
+    "name": "Belly Button Ring Gold Ruby",
+    "category": "clothing",
+    "moduleName": "Base.BellyButton_RingGoldRuby"
+  },
+  {
+    "name": "Belly Button Ring Silver",
+    "category": "clothing",
+    "moduleName": "Base.BellyButton_RingSilver"
+  },
+  {
+    "name": "Belly Button Ring Silver Amethyst",
+    "category": "clothing",
+    "moduleName": "Base.BellyButton_RingSilverAmethyst"
+  },
+  {
+    "name": "Belly Button Ring Silver Diamond",
+    "category": "clothing",
+    "moduleName": "Base.BellyButton_RingSilverDiamond"
+  },
+  {
+    "name": "Belly Button Ring Silver Ruby",
+    "category": "clothing",
+    "moduleName": "Base.BellyButton_RingSilverRuby"
+  },
+  {
+    "name": "Belly Button Stud Gold",
+    "category": "clothing",
+    "moduleName": "Base.BellyButton_StudGold"
+  },
+  {
+    "name": "Belly Button Stud Gold Diamond",
+    "category": "clothing",
+    "moduleName": "Base.BellyButton_StudGoldDiamond"
+  },
+  {
+    "name": "Belly Button Stud Silver",
+    "category": "clothing",
+    "moduleName": "Base.BellyButton_StudSilver"
+  },
+  {
+    "name": "Belly Button Stud Silver Diamond",
+    "category": "clothing",
+    "moduleName": "Base.BellyButton_StudSilverDiamond"
+  }
+]
