@@ -1,0 +1,20 @@
+{
+  "name": "zomboid-rcon-js",
+  "version": "1.1.0",
+  "description": "Zomboid Rcon Client",
+  "type": "module",
+  "main": "dist/ZomboidRconClient.js",
+  "scripts": {
+    "build": "tsc"
+  },
+  "author": "me",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/node": "^20.9.1",
+    "typescript": "^5.2.2"
+  },
+  "dependencies": {
+    "net": "^1.0.2",
+    "rcon-client": "^4.2.4"
+  }
+}
