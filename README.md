@@ -8,7 +8,7 @@ npm i --save zomboid-rcon-js
 ## Example Use:
 
 ```ts
-import ZomboidRconClient from 'zomboid-rcon-js';
+import { ZomboidRconClient } from 'zomboid-rcon-js';
 
 const client = new ZomboidRconClient({
     // ... rcon options

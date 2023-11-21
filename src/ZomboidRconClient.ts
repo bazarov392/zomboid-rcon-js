@@ -1,5 +1,5 @@
 import { Rcon, RconOptions } from 'rcon-client';
-import { AccessLevel, Perk, Vehicle } from './interfaces.js';
+import { AccessLevel, Perk, Vehicle } from './interfaces';
 
 export type BanUserOptions = {
     ip?: boolean
@@ -7,7 +7,7 @@ export type BanUserOptions = {
 }
 
 
-class ZomboidRconClient
+export class ZomboidRconClient
 {
     client: Rcon
     constructor(options: RconOptions)
@@ -179,5 +179,3 @@ class ZomboidRconClient
         await this.client.end();
     }
 }
-
-export default ZomboidRconClient;

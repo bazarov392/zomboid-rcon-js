@@ -1,6 +1,6 @@
-import { Perk } from "../interfaces.js";
+import { Perk } from "../interfaces";
 
-const perks: Array<Perk> = [
+export const perks: Array<Perk> = [
     'Axe',
     'Blunt',
     'SmallBlunt',
@@ -28,5 +28,3 @@ const perks: Array<Perk> = [
     'Nimble',
     'Sneak'
 ];
-
-export default perks;
